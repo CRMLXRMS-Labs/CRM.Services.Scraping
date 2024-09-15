@@ -28,7 +28,7 @@ namespace ScraperConsoleApp.Core
                 ScrapedPageResult result = await _scraperClient.ScrapePageAsync(url);
 
                 string output = $"Scraped URL: {result.Url}\n" +
-                                $"HTML Content Preview: {result.HtmlContent.Substring(0, Math.Min(result.HtmlContent.Length, 500))}...\n" +
+                                $"HTML Content Preview: {result.HtmlContent.Substring(0, Math.Min(result.HtmlContent.Length, 10_000_000))}...\n" +
                                 $"JavaScript Data Found: {string.Join(", ", result.JavaScriptData)}\n" +
                                 $"API Requests/Links Found: {string.Join(", ", result.ApiRequests)}\n";
 

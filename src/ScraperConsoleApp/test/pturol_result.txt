@@ -1,0 +1,1767 @@
+Scraped URL: https://www.pturol.org.pl/
+HTML Content Preview: <!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="csrf-token" content="JENs9bmVxOClLUoPXdoWExW4MazhnLQZYw5jJUfv">
+    <title>Polskie Towarzystwo Urologiczne</title>
+    <script src="https://www.pturol.org.pl/js/jquery.min.js"></script>
+    <link rel="icon" type="image/x-icon" href="/images/favicon_PTU32.ico" sizes="32x32">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/tiny-slider.css">
+    <!--[if (lt IE 9)]>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.4/min/tiny-slider.helper.ie8.js"></script>
+    <![endif]-->
+
+    <!-- <link href="/build/assets/app.03d1e981.css" rel="stylesheet" type="text/css"> -->
+    <!-- <script src="/build/assets/app.d83ab24c.js"></script> -->
+
+
+
+    <link href="/build/assets/app.797e2f2c.css" rel="stylesheet" type="text/css">
+    <script src="/build/assets/app.f3c3f071.js"></script>
+    <!-- For the Bootstrap to work -->
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"></script> -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer">
+</head>
+
+<body>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"></script>
+    <div class="container-fluid">
+        <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-0 mb-0 ">
+            <a href="/" class="d-flex align-items-center col-6 col-md-2 col-lg-2 mb-2 mb-md-0 text-dark text-decoration-none text-start" title="Powrót do strony głównej">
+                <img class="main-page-logo" src="https://www.pturol.org.pl/images/footer/ptu_logotype_footer.webp" alt="PTU" width="97" height="86">
+            </a>
+            <div class="mainMenu col-12 col-md-8 col-lg-8 d-none d-lg-flex justify-content-between">
+                <div id="about" class=''>
+                    <a class="nav-link link-dark dropdown-toggle dropdown-open" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">O PTU</a>
+                    <div class="dropdown-menu">
+                        <div class="ptu-menu" style="width: 650px;">
+                            <div class="row">
+                                <div class="col-6">
+                                    <ul class="">
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/statut-ptu">Statut PTU</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/historia-i-symbole">Historia i symbole</a>
+                                        </li>
+                                        <li>
+                                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Zarząd
+                                                Główny </p>
+                                            <ul class="submenu dropdown-menu">
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2022-2026">Kadencja
+                                                        2022-2026
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2018-2022">Kadencja
+                                                        2018-2022
+                                                    </a>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2015-2018">Kadencja
+                                                        2015-2018
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/poprzednie-kadencje">Poprzednie
+                                                        kadencje
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/sad-kolezenski">Sąd
+                                                        Koleżeński
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/komisja-rewizyjna">Główna
+                                                        Komisja Rewizyjna
+                                                    </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Oddziały
+                                                terenowe</p>
+                                            <ul class="submenu dropdown-menu">
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-bialostocki">Oddział
+                                                        Białostocki PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-dolnoslaski">Oddział
+                                                        Dolnośląski PTU
+                                                    </a>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-krakowski">Oddział
+                                                        Krakowski PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial%20lubelski">Oddział Lubelski PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-lodzki">Oddział
+                                                        Łódzki
+                                                        PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-mazowiecki">Oddział Mazowiecki PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-polnocno-zachodni">Oddział Północno-Zachodni PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/slaski">Oddział Śląski PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/wielkopolski">Oddział Wielkopolski PTU
+                                                    </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Sekcje
+                                                Naukowe
+                                                PTU</p>
+                                            <ul class="submenu dropdown-menu">
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/adeptow-urologii">Sekcja Adeptów
+                                                        Urologii
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/endourologii">Sekcja
+                                                        Endourologii
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/andrologii-i-seksuologii">Sekcja
+                                                        Andrologii i Seksuologii
+                                                    </a>
+                                                </li>
+                                                
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-onkologicznej">Sekcja
+                                                        Urologii Onkologicznej
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-robotowej">Sekcja
+                                                        Urologii Robotowej
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologow-wojskowych">Sekcja
+                                                        Urologów Wojskowych
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-zynnosciowej-rekonstrukcyjnej-i-fizjoterapii-PTU">Sekcja
+                                                        Urologii Czynnościowej, <br> Rekonstrukcyjnej i Fizjoterapii
+                                                    </a>
+                                                </li>
+                                                
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="col-6">
+                                    <ul class="">
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/komitety">Komitety</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/czlonkowie-honorowi">Członkowie
+                                                Honorowi</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/czlonkowie-wspierajacy-ptu">Członkowie
+                                                Wspierający PTU</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/wspolpraca-z-organizacjami">Współpraca z
+                                                organizacjami</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item dropdown-toggle mb-0" href="#">Nagrody</a>
+                                            <ul class="submenu dropdown-menu">
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/nagrody/nagroda-im-profesora-tadeusza-krzeskiego">
+                                                        Nagroda im. Profesora Tadeusza <br> Krzeskiego
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/nagrody/nagroda-za-prace-ceju">
+                                                        Nagroda za najlepszą pracę w CEJU
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="news" class=''>
+                    <a class="nav-link  " href="https://www.pturol.org.pl/aktualnosci">Aktualności</a>
+                </div>
+                <div id="calendar" class=''>
+                    <a class="nav-link  link-dark" href="https://www.pturol.org.pl/kalendarium">Kalendarium</a>
+                </div>
+                <div id="congress" class=''>
+                    <a class="nav-link  link-dark dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Kongresy PTU</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item color-green" href="https://www.pturol.org.pl/kongresy-ptu/nadchodzacy-kongres">Nadchodzący
+                                Kongres PTU</a></li>
+                        <li><a class="dropdown-item color-green" href="https://www.pturol.org.pl/kongresy-ptu/konferecje-i-zjazdy">Nadchodzące
+                                Sympozja i Zjazdy PTU</a></li>
+                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/kongresy-ptu/poprzednie-kongresy-ptu">Poprzednie Kongresy PTU</a></li>
+                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/kongresy-ptu/poprzednie-sympozja-i-zjazdy-ptu">Poprzednie Sympozja i Zjazdy
+                                PTU</a></li>
+                        
+                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/kongresy-ptu/biuro-kongresowe-ptu">Biuro Kongresowe PTU</a></li>
+                    </ul>
+                </div>
+                <div id="system" class='nav-item dropdown '>
+                    <a class="nav-link  link-dark dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">System CME - CPD</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item dropdown-toggle" href="#">Informacje ogólne</a>
+                            <ul class="submenu dropdown-menu">
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne">System CME-CPD</a></li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/formularze">Formularze CME-CPD</a></li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/biuro-cme-cpd">Biuro CME-CPD</a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Punkty CME - CPD</p>
+                            <ul class="submenu dropdown-menu">
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd">Rejestracja punktów CME-CPD</a>
+                                </li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/punktacja-za-okreslone-aktywnosci-naukowe">Punktacja za określone
+                                        aktywności naukowe</a></li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/formularz-uczestnictwa-credit-entry-form">Formularz uczestnictwa /
+                                        Credit Entry Form </a></li>
+                            </ul>
+                        </li>
+                        <li>
+                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Akredytacja CME - CPD</p>
+                            <ul class="submenu dropdown-menu">
+                                <li><a class="dropdown-item dropdown-toggle" href="https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd">Informacje
+                                        dla organizatorów wydarzeń naukowych</a>
+                                    <ul class="submenu dropdown-menu">
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizator-wydarzen-naukowych">Organizator
+                                                wydarzeń naukowych: PTU</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizatorzy">Organizatorzy: kliniki
+                                                uniwersyteckie, CMKP, szpitale</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/inni-organizatorzy">Inni
+                                                organizatorzy wydarzeń naukowych</a></li>
+                                    </ul>
+                                </li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytowane-wydarzenia-cme-cpd">Akredytowane
+                                        wydarzenia CME-CPD</a></li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/wniosek-o-przyznanie-akredytacji-cme-cpd">Wniosek o przyznanie
+                                        akredytacji CME-CPD</a></li>
+                            </ul>
+                        </li>
+                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/zaproszenia-do-cme-cpd">Zaproszenie do CME - CPD</a></li>
+                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/cme-cpd-w-przegladzie-urologicznym">CME - CPD w Przeglądzie
+                                Urologicznym</a></li>
+                        <li>
+                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Archiwum CME-CPD</p>
+                            <ul class="submenu dropdown-menu">
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-eu-acme-2005">Broszura EU-ACME 2005</a>
+                                </li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-cme-cpd-2001">Broszura CME - CPD 2001</a>
+                                </li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/nowa-tabela-punktacji-za-okreslone-aktywnosci-naukowe">Tabela punktacji za
+                                        określone aktywności naukowe (2016)</a></li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/tabela-punktacji-za-okreslone-aktywnosci-naukowe">Tabela punktacji za
+                                        określone aktywności naukowe (2004)</a></li>
+                                <li>
+                                    <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Akredytowane
+                                        wydarzenia naukowe CME-CPD</p>
+                                    <ul class="submenu dropdown-menu">
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2023">Akredytowane
+                                                aktywności 2023</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2022">Akredytowane
+                                                aktywności 2022</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2021">Akredytowane
+                                                aktywności 2021</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2020">Akredytowane
+                                                aktywności 2020</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2019">Akredytowane
+                                                aktywności 2019</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2018">Akredytowane
+                                                aktywności 2018</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2017">Akredytowane
+                                                aktywności 2017</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2016">Akredytowane
+                                                aktywności 2016</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2015">Akredytowane
+                                                aktywności 2015</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2014">Akredytowane
+                                                aktywności 2014</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2013">Akredytowane
+                                                aktywności 2013</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2012">Akredytowane
+                                                aktywności 2012</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2011">Akredytowane
+                                                aktywności 2011</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2006-2010">Akredytowane
+                                                aktywności 2006-2010</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2002-2005">Akredytowane
+                                                aktywności 2002-2005</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <div id="journal" class='nav-item dropdown '>
+                    <a class="nav-link  link-dark dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Wydawnictwa</a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/central-european-journal-of-urology">Central European Journal of
+                                Urology</a></li>
+                        <!-- <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/przeglad-urologiczny">Przegląd Urologiczny</a></li> -->
+                        <li>
+                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Przegląd Urologiczny</p>
+                            <ul class="submenu dropdown-menu">
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/przeglad-urologiczny">Przegląd Urologiczny</a></li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/przeglad-urologiczny/wytyczne-ptu">WYTYCZNE PTU</a>
+                            </ul>
+                        </li>
+                        <li>
+                            <p class="dropdown-item dropdown-toggle mb-0" style="cursor: pointer">Publikacje książkowe</p>
+                            <ul class="submenu dropdown-menu">
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/rekomendacje-ptu">Guidelines</a></li>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/poradniki">Poradniki</a>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/albumy">Albumy</a>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/atlasy">Atlasy</a>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/eponimy">Eponimy</a>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/historia">Historia</a>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/wyklady-z-urologii">Wykłady z urologii</a>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/ultrasonografia-urologiczna">Ultrasonografia
+                                        urologiczna</a>
+                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/zamow-ksiazke">ZAMÓW KSIĄŻKĘ</a>
+                            </ul>
+                        </li>
+                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo">Informacje ogólne</a></li>
+                    </ul>
+                </div>
+                <div id="contact" class=''>
+                    <a class="nav-link link-dark" href="https://www.pturol.org.pl/kontakt">Kontakt</a>
+                </div>
+            </div>
+            <div class="col-md-2 col-lg-2 text-end d-none d-sm-block">
+                <!--                    <button type="button" class="btn btn-outline-primary me-2">Login</button>
+                                <button type="button" class="btn btn-primary">Sign-up</button>-->
+            </div>
+            <div class="col-6  text-end d-lg-none d-block">
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+                    <img class='img-fluid' src="https://www.pturol.org.pl/images/navbar/burger.png" width="39" height="29" alt="Menu">
+                </button>
+                <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar">
+                    <div class="offcanvas-header">
+                        <a href="/" class=" text-decoration-none text-start">
+                            <img class="img-fluid" src="https://www.pturol.org.pl/images/footer/ptu_logotype_footer.webp" alt="PTU" width="97" height="86">
+                        </a>
+                        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                        <div class="row">
+                            <div class="mainMenu col-10 text-start flex-grow-1 pe-3">
+                                <div class=' mb-2'>
+                                    <a class="nav-link dropdown-toggle" aria-expanded="false" data-bs-auto-close="false" href="#" onclick="toggle11()">O
+                                        PTU</a>
+                                    <ul id="submenu11" class="submenu dropdown-menu" style="position:absolute; top:130px; border: none; display: none">
+                                        <li>
+                                            <p onclick="toggle11()" class="fw-bold">O PTU ></p>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/statut-ptu">Statut PTU</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/historia-i-symbole">Historia i symbole</a>
+                                        </li>
+                                        <li>
+                                            <p id="toggle" class="dropdown-item dropdown-toggle mb-0" onclick="toggle()">
+                                                Zarząd
+                                                Główny </p>
+                                            <ul id="submenu" class="dropdown-menu" style="position: absolute; top: -25px !important; border: none; height: 100vh; display: none">
+                                                <li>
+                                                    <p id="toggleSubmenu" class="fw-bold" onclick="toggle()">Zarząd Główny
+                                                        > </p>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2022-2026">Kadencja
+                                                        2022-2026
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2018-2022">Kadencja
+                                                        2018-2022
+                                                    </a>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2015-2018">Kadencja
+                                                        2015-2018
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/poprzednie-kadencje">Poprzednie
+                                                        kadencje
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/sad-kolezenski">Sąd
+                                                        Koleżeński
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/zarzad-glowny/komisja-rewizyjna">Główna
+                                                        Komisja Rewizyjna
+                                                    </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p id="toggle3" class="dropdown-item dropdown-toggle mb-0" onclick="toggle3()">
+                                                Oddziały
+                                                terenowe</p>
+                                            <ul id="submenu3" class="dropdown-menu" style="position: absolute; top: -25px; border: none; height: 100vh; display: none">
+                                                <li>
+                                                    <p id="toggleSubmenu3" class="fw-bold" onclick="toggle3()">Oddziały
+                                                        terenowe
+                                                        > </p>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-bialostocki">Oddział
+                                                        Białostocki PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-dolnoslaski">Oddział
+                                                        Dolnośląski PTU
+                                                    </a>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-krakowski">Oddział
+                                                        Krakowski PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial%20lubelski">Oddział Lubelski PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-lodzki">Oddział
+                                                        Łódzki
+                                                        PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-mazowiecki">Oddział Mazowiecki PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-polnocno-zachodni">Oddział Północno-Zachodni PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/slaski">Oddział Śląski PTU
+                                                    </a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/odzialy-terenowe/wielkopolski">Oddział Wielkopolski PTU
+                                                    </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p id="toggle4" class="dropdown-item dropdown-toggle mb-0" onclick="toggle4()">
+                                                Sekcje
+                                                Naukowe
+                                                PTU</p>
+                                            <ul id="submenu4" class="dropdown-menu" style="position: absolute; top: -25px; border: none; height: 100vh; display: none">
+                                                <li>
+                                                    <p onclick="toggle4()" class="fw-bold"> Sekcje Naukowe > </p>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/adeptow-urologii">Sekcja Adeptów
+                                                        Urologii
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/endourologii">Sekcja
+                                                        Endourologii
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/andrologii-i-seksuologii">Sekcja
+                                                        Andrologii i Seksuologii
+                                                    </a>
+                                                </li>
+                                                
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-onkologicznej">Sekcja
+                                                        Urologii Onkologicznej
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-robotowej">Sekcja
+                                                        Urologii Robotowej
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologow-wojskowych">Sekcja
+                                                        Urologów Wojskowych
+                                                    </a>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-zynnosciowej-rekonstrukcyjnej-i-fizjoterapii-PTU">Sekcja
+                                                        Urologii Czynnościowej, <br> Rekonstrukcyjnej i Fizjoterapii
+                                                    </a>
+                                                </li>
+                                                
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/komitety">Komitety</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/czlonkowie-honorowi">Członkowie
+                                                Honorowi</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/czlonkowie-wspierajacy-ptu">Członkowie
+                                                Wspierający PTU</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/wspolpraca-z-organizacjami">Współpraca z
+                                                organizacjami</a>
+                                        </li>
+                                        <li>
+                                            <p id="toggle15" class="dropdown-item dropdown-toggle mb-0" onclick="toggle15()">Nagrody</p>
+                                            <ul id="submenu15" class="dropdown-menu" style="position: absolute; top: -25px; border: none; height: 100vh; display: none">
+                                                <li>
+                                                    <p id="toggleSubmenu15" class="fw-bold" onclick="toggle15()">Oddziały
+                                                        terenowe
+                                                        > </p>
+                                                </li>
+                                                <li>
+                                                    <a class="dropdown-item" href="https://www.pturol.org.pl/o-ptu/nagrody/nagroda-im-profesora-tadeusza-krzeskiego">
+                                                        Nagroda im. Profesora Tadeusza <br> Krzeskiego
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class=' mb-2'>
+                                    <a class="nav-link  " href="https://www.pturol.org.pl/aktualnosci">Aktualności</a>
+                                </div>
+                                <div class=' mb-2'>
+                                    <a class="nav-link  link-dark" href="https://www.pturol.org.pl/kalendarium">Kalendarium</a>
+                                </div>
+                                <div class=' mb-2'>
+                                    <a class="nav-link dropdown-toggle" aria-expanded="false" data-bs-auto-close="false" href="#" onclick="toggle12()">Kongresy
+                                        PTU</a>
+                                    <ul id="submenu12" class="submenu dropdown-menu " style="position:absolute; top:130px; border: none; height: 240px; display: none">
+                                        <li>
+                                            <p onclick="toggle12()" class="fw-bold">Kongresy PTU > </p>
+                                        </li>
+                                        <li><a class="dropdown-item color-green" href="https://www.pturol.org.pl/kongresy-ptu/nadchodzacy-kongres">Nadchodzący
+                                                Kongres PTU</a></li>
+                                        <li><a class="dropdown-item color-green" href="https://www.pturol.org.pl/kongresy-ptu/konferecje-i-zjazdy">Nadchodzące Sympozja i Zjazdy
+                                                PTU</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/kongresy-ptu/poprzednie-kongresy-ptu">Poprzednie Kongresy
+                                                PTU</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/kongresy-ptu/poprzednie-sympozja-i-zjazdy-ptu">Poprzednie
+                                                Sympozja i Zjazdy PTU</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/kongresy-ptu/biuro-kongresowe-ptu">Biuro Kongresowe
+                                                PTU</a></li>
+                                    </ul>
+                                </div>
+                                <div class=' mb-2'>
+                                    <a class="nav-link  link-dark dropdown-toggle" href="#" role="button" onclick="toggle13()" aria-expanded="true" data-bs-auto-close="false">System CME - CPD</a>
+                                    <ul id="submenu13" class="dropdown-menu border-0" style="position: absolute; top: 130px; height: 100vh; display: none">
+                                        <li>
+                                            <p onclick="toggle13()" class="fw-bold">System CME - CPD ></p>
+                                        </li>
+                                        <li><a id="toggle5" class="dropdown-item dropdown-toggle" onclick="toggle5()" href="#">Informacje ogólne</a>
+                                            <ul id="submenu5" class="dropdown-menu border-0" style="position: absolute!important; top:0; width: 300px; border: none!important; height: 100vh!important; display: none">
+                                                <li>
+                                                    <p onclick="toggle5()" class="fw-bold">Informacje ogólne > </p>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne">System
+                                                        CME-CPD</a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/formularze">Formularze
+                                                        CME-CPD</a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/biuro-cme-cpd">Biuro CME-CPD</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p id="toggle6" class="dropdown-item dropdown-toggle mb-0" onclick="toggle6()">
+                                                Punkty CME - CPD</p>
+                                            <ul id="submenu6" class=" dropdown-menu border-0" style="position: absolute; top: 0; border: none; height: 100vh; display: none">
+                                                <li>
+                                                    <p onclick="toggle6()" class="fw-bold"> Punkty CME-CPD > </p>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd">Rejestracja
+                                                        punktów CME-CPD</a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/punktacja-za-okreslone-aktywnosci-naukowe">Punktacja
+                                                        za określone
+                                                        aktywności <br> naukowe</a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/formularz-uczestnictwa-credit-entry-form">Formularz
+                                                        uczestnictwa /
+                                                        Credit Entry <br> Form </a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <p id="toggle10" class="dropdown-item dropdown-toggle mb-0" onclick="toggle10()">Akredytacja CME - CPD</p>
+                                            <ul id="submenu10" class="dropdown-menu border-0" style="position: absolute; top: 0; border: none; height: 100vh; display: none">
+                                                <li>
+                                                    <p onclick="toggle10()" class="fw-bold"> Akredytacja CME - CPD > </p>
+                                                </li>
+                                                <li><a id="toggle7" class="dropdown-item dropdown-toggle" href="#" onclick="toggle7()">Informacje dla organizatorów <br> wydarzeń
+                                                        naukowych</a>
+                                                    <ul id="submenu7" class="dropdown-menu border-0 ps-0" style="position: absolute; top: 0; border: none; height: 100vh;display: none">
+                                                        <li>
+                                                            <p onclick="toggle7()" class="fw-bold"> Informacja dla
+                                                                organizatorów wydarzeń <br>
+                                                                naukowych > </p>
+                                                        </li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizator-wydarzen-naukowych">Organizator
+                                                                wydarzeń naukowych: PTU</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizatorzy">Organizatorzy:
+                                                                kliniki
+                                                                uniwersyteckie,<br> CMKP, szpitale</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/inni-organizatorzy">Inni
+                                                                organizatorzy <br> wydarzeń naukowych</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/akredytowane-wydarzenia-cme-cpd">Akredytowane
+                                                        wydarzenia CME-CPD</a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/wniosek-o-przyznanie-akredytacji-cme-cpd">Wniosek
+                                                        o przyznanie
+                                                        akredytacji <br> CME-CPD</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/zaproszenia-do-cme-cpd">Zaproszenie do CME -
+                                                CPD</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/cme-cpd-w-przegladzie-urologicznym">CME - CPD w
+                                                Przeglądzie
+                                                Urologicznym</a></li>
+                                        <li>
+                                            <p id="toggle8" class="dropdown-item dropdown-toggle mb-0" onclick="toggle8()">
+                                                Archiwum CME-CPD</p>
+                                            <ul id="submenu8" class="dropdown-menu border-0 overflow-auto" style="position: absolute; top: 0; border: none; height: 100vh; display: none">
+                                                <li>
+                                                    <p onclick="toggle8()" class="fw-bold"> Archiwum CME-CPD > </p>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-eu-acme-2005">Broszura
+                                                        EU-ACME 2005</a>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-cme-cpd-2001">Broszura CME
+                                                        - CPD 2001</a>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/nowa-tabela-punktacji-za-okreslone-aktywnosci-naukowe">Nowa
+                                                        tabela punktacji za
+                                                        określone <br> aktywności naukowe (2016)</a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/tabela-punktacji-za-okreslone-aktywnosci-naukowe">Tabela
+                                                        punktacji za
+                                                        określone aktywności <br> naukowe</a></li>
+                                                <li>
+                                                    <p id="toggle9" class="dropdown-item dropdown-toggle mb-0" onclick="toggle9()">Akredytowane
+                                                        wydarzenia naukowe <br> CME-CPD</p>
+                                                    <ul id="submenu9" class="dropdown-menu border-0 overflow-auto" style="position: absolute; top:0; border: none; height: 100vh; display: none">
+                                                        <li>
+                                                            <p onclick="toggle9()" class="fw-bold"> Akredytowane wydarzenia
+                                                                CME-CPD >
+                                                            </p>
+                                                        </li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2023">Akredytowane
+                                                                aktywności 2023</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2022">Akredytowane
+                                                                aktywności 2022</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2021">Akredytowane
+                                                                aktywności 2021</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2020">Akredytowane
+                                                                aktywności 2020</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2019">Akredytowane
+                                                                aktywności 2019</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2018">Akredytowane
+                                                                aktywności 2018</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2017">Akredytowane
+                                                                aktywności 2017</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2016">Akredytowane
+                                                                aktywności 2016</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2015">Akredytowane
+                                                                aktywności 2015</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2014">Akredytowane
+                                                                aktywności 2014</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2013">Akredytowane
+                                                                aktywności 2013</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2012">Akredytowane
+                                                                aktywności 2012</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2011">Akredytowane
+                                                                aktywności 2011</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2006-2010">Akredytowane
+                                                                aktywności 2006-2010</a></li>
+                                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2002-2005">Akredytowane
+                                                                aktywności 2002-2005</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class=' mb-2'>
+                                    <a class="nav-link link-dark dropdown-toggle" href="#" role="button" data-bs-auto-close="false" aria-expanded="false" onclick="toggle14()">Wydawnictwa</a>
+                                    <ul id="submenu14" class="dropdown-menu border-0" style="position: absolute; top: 130px; height: 100vh; display: none">
+                                        <li>
+                                            <p onclick="toggle14()" class="fw-bold">Wydawnictwa ></p>
+                                        </li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/central-european-journal-of-urology">Central
+                                                European Journal of
+                                                Urology</a></li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/przeglad-urologiczny">Przegląd
+                                                Urologiczny</a></li>
+                                        <li>
+                                            <p id="toggle2" class="dropdown-item dropdown-toggle mb-0" onclick="toggle2()">
+                                                Publikacje książkowe</p>
+                                            <ul id="submenu2" class="dropdown-menu border-0 overflow-auto" style="position: absolute; top: 0; height: 100vh; width: 320px;display: none">
+                                                <li>
+                                                    <p onclick="toggle2()" class="fw-bold"> Publikacje książkowe > </p>
+                                                </li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/rekomendacje-ptu">Guidelines,
+                                                        Rekomendacje
+                                                        PTU</a></li>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/poradniki">Poradniki</a>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/albumy">Albumy</a>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/atlasy">Atlasy</a>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/eponimy">Eponimy</a>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/historia">Historia</a>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/wyklady-z-urologii">Wykłady z
+                                                        urologii</a>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/ultrasonografia-urologiczna">Ultrasonografia
+                                                        urologiczna</a>
+                                                <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/zamow-ksiazke">ZAMÓW KSIĄŻKĘ</a>
+                                            </ul>
+                                        </li>
+                                        <li><a class="dropdown-item" href="https://www.pturol.org.pl/wydawnictwo">Informacje ogólne</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class=' mb-2'>
+                                    <a class="nav-link link-dark" href="https://www.pturol.org.pl/kontakt">Kontakt</a>
+                                </div>
+                            </div>
+                            <div class="col-2">
+                                <p>
+                                    <a class="social-icons " href="https://www.linkedin.com/company/7077804?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A7077804%2Cidx%3A1-1-1%2CtarId%3A1450042641060%2Ctas%3Apolskie%20towarzystwo%20urol" target="_blank" rel="noreferrer">
+                                        <img class="img-fluid" src="https://www.pturol.org.pl/images/footer/linkedin.webp" alt="LinkedIn" width="600" height="600" loading="lazy">
+                                    </a>
+                                </p>
+                                <p>
+                                    <a class="social-icons mb-3" href="https://www.facebook.com/PolskieTowarzystwoUrologiczne/?fref=ts" target="_blank" rel="noreferrer">
+                                        <img class="img-fluid" src="https://www.pturol.org.pl/images/footer/facebook.webp" alt="Facebook" width="600" height="600" loading="lazy">
+                                    </a>
+                                </p>
+                                <p>
+                                    <a class="social-icons mb-3" href="https://twitter.com/PTUweb" target="_blank" rel="noreferrer">
+                                        <img class="img-fluid" src="https://www.pturol.org.pl/images/footer/twitter.webp" alt="Twitter" width="600" height="600" loading="lazy">
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+    </div>
+    <div class="container d-flex flex-column">
+    <div id="startPageHeader">
+        
+        <img src="https://www.pturol.org.pl/images/main_banner.webp" alt="baner" width="1280" height="510" class="img-fluid d-md-flex d-none" loading="lazy">
+        <img src="https://www.pturol.org.pl/images/mobilka_baner_ptu.webp" width="640" height="494" alt="baner" class="img-fluid d-md-none" loading="lazy">
+        <div class="row congress-banner mt-0 d-md-flex d-none" style="margin-top: 0; top: -155px; position: relative; left: 10px">
+            <div class="col-md-6 col-lg-6 mx-lg-4 mx-0 mt-5 mb-5" style="position: relative;">
+                                <a class="banner-link position-absolute" href="https://pturol.org.pl/strefa-lekarza/specjalizacja/program-wizyt-szkoleniowych-dla-adept%C3%B3w-urologi" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/c73bd619ee8862a7fd67ed2838760977.png" alt="baner" width="650" height="250" loading="lazy" class="img-fluid" style="border: 20px solid white">
+                </a>
+                                <a class="banner-link position-absolute" href="https://www.ceju.online/" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/9a7629b2bb2d2423a1d08f21ab3d8776.png" alt="baner" width="650" height="250" loading="lazy" class="img-fluid" style="border: 20px solid white">
+                </a>
+                                <a class="banner-link position-absolute" href="https://ldu2024.konferencjeptu.pl/" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/bf355de2d1c9a747c05f5d8bfa03b33d.png" alt="baner" width="650" height="250" loading="lazy" class="img-fluid" style="border: 20px solid white">
+                </a>
+                                <a class="banner-link position-absolute" href="https://mdu2024.konferencjeptu.pl/" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/1079e923b1ffc1460bc2dea7823e6c5a.png" alt="baner" width="650" height="250" loading="lazy" class="img-fluid" style="border: 20px solid white">
+                </a>
+                            </div>
+        </div>
+        <div class="row congress-banner mt-0 d-md-none">
+            <div class="col-md-6 col-lg-6 mx-lg-4 mx-0 mt-2 mb-5" style="position: relative">
+                                <a class="banner-link-mobile position-absolute" href="https://pturol.org.pl/strefa-lekarza/specjalizacja/program-wizyt-szkoleniowych-dla-adept%C3%B3w-urologi" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/c73bd619ee8862a7fd67ed2838760977.png" alt="baner" width="324" height="127" class="img-fluid" loading="lazy" style="border: 20px solid white">
+                </a>
+                                <a class="banner-link-mobile position-absolute" href="https://www.ceju.online/" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/9a7629b2bb2d2423a1d08f21ab3d8776.png" alt="baner" width="324" height="127" class="img-fluid" loading="lazy" style="border: 20px solid white">
+                </a>
+                                <a class="banner-link-mobile position-absolute" href="https://ldu2024.konferencjeptu.pl/" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/bf355de2d1c9a747c05f5d8bfa03b33d.png" alt="baner" width="324" height="127" class="img-fluid" loading="lazy" style="border: 20px solid white">
+                </a>
+                                <a class="banner-link-mobile position-absolute" href="https://mdu2024.konferencjeptu.pl/" rel="noreferrer" target="_blank">
+                    <img src="https://www.pturol.org.pl/img/1079e923b1ffc1460bc2dea7823e6c5a.png" alt="baner" width="324" height="127" class="img-fluid" loading="lazy" style="border: 20px solid white">
+                </a>
+                            </div>
+        </div>
+    </div>
+    <div id="startPageLinks">
+        <div class="row mt-5 page-links">
+            <div class="col-6 col-md-6 col-md-6 col-lg-3 text-center mb-3">
+                <a href="https://www.pturol.org.pl/polskie-towarzystwo-urologiczne" class="green-container">
+                    <img src="https://www.pturol.org.pl/images/startPageIcons/nerki.webp" alt="PTU" width="158" height="148" loading="lazy" >
+                    <p>
+                        Polskie Towarzystwo <br> Urologiczne
+                    </p>
+                </a>
+            </div>
+            <div class="col-6 col-md-6 col-md-6 col-lg-3 text-center mb-3">
+                <a href="https://www.pturol.org.pl/czlonkostwo-w-ptu" class="green-container">
+                    <img src="https://www.pturol.org.pl/images/startPageIcons/grupa.webp" alt="PTU" width="158" height="148" loading="lazy" >
+                    <p>
+                        Członkostwo w PTU <br> <span style="color: transparent">thr</span>
+                    </p>
+                </a>
+            </div>
+            <div class="col-6 col-md-6 col-md-6 col-lg-3 text-center mb-3">
+                <a href="https://www.pturol.org.pl/strefa-pacjenta" class="green-container">
+                    <img src="https://www.pturol.org.pl/images/startPageIcons/pacjenci.webp" alt="PTU" width="158" height="148" loading="lazy" >
+                    <p>
+                        Strefa pacjenta <br> <span style="color: transparent">thr</span>
+                    </p>
+                </a>
+            </div>
+            <div class="col-6 col-md-6 col-md-6 col-lg-3 text-center mb-3">
+                <a href="https://www.pturol.org.pl/strefa-lekarza/specjalizacja" class="green-container">
+                    <img src="https://www.pturol.org.pl/images/startPageIcons/lekarze.webp" alt="PTU" width="158" height="148" loading="lazy" >
+                    <p>
+                        Strefa lekarza <br> <span style="color: transparent">thr</span>
+                    </p>
+                </a>
+            </div>
+        </div>
+        <div class="container links-container mt-3">
+            <div class="row">
+                <div class="col-12">
+                    <div class="links">
+                        <div class="slide">
+                            <div class="text-center mb-3">
+                                <a href="https://www.pturol.org.pl/polskie-towarzystwo-urologiczne" class="green-container">
+                                    <img src="https://www.pturol.org.pl/images/startPageIcons/nerki.webp" alt="PTU" width="158" height="148" loading="lazy">
+                                    <p>
+                                        Polskie Towarzystwo <br> Urologiczne
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="text-center mb-3">
+                                <a href="https://www.pturol.org.pl/czlonkostwo-w-ptu" class="green-container">
+                                    <img src="https://www.pturol.org.pl/images/startPageIcons/grupa.webp" alt="PTU" width="158" height="148" loading="lazy">
+                                    <p>
+                                        Członkostwo w PTU <br> <span style="color: transparent">thr</span>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="text-center mb-3">
+                                <a href="https://www.pturol.org.pl/strefa-pacjenta" class="green-container">
+                                    <img src="https://www.pturol.org.pl/images/startPageIcons/pacjenci.webp" alt="PTU" width="158" height="148" loading="lazy">
+                                    <p>
+                                        Strefa pacjenta <br> <span style="color: transparent">thr</span>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="text-center mb-3">
+                                <a href="https://www.pturol.org.pl/strefa-lekarza/specjalizacja" class="green-container">
+                                    <img src="https://www.pturol.org.pl/images/startPageIcons/lekarze.webp" alt="PTU" width="158" height="148" loading="lazy">
+                                    <p>
+                                        Strefa lekarza <br> <span style="color: transparent">thr</span>
+                                    </p>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="startPageBoards" class="mt-5">
+    <div class="section-title-container pb-5">
+        <p class="section-title">
+            Zarząd
+        </p>
+    </div>
+    <div class="container administration-view">
+        <div class="row mt-5 justify-content-evenly">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-3 text-center">
+                <div class="board-container">
+                    <div class='board-container-image'>
+                        <img class='img-fluid' src="https://www.pturol.org.pl/images/board/tomasz_dreewa.webp" alt="Prezes" width="450" height="432" loading="lazy">
+                        <div class='board-container-name-container'>
+                            <p class='board-container-name'>Prezes</p>
+                            <hr>
+                            <p class='board-container-title'>prof. dr hab. n. med. Tomasz Drewa</p>
+                        </div>
+                    </div>
+                    <p class='board-container-contact pb-3 pt-5 '>
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-3 text-center">
+                <div class="board-container">
+                    <div class='board-container-image'>
+                        <img class='img-fluid' src="https://www.pturol.org.pl/images/board/jakub_dobruch.webp" alt="Wiceprezes" width="450" height="432" loading="lazy">
+                        <div class='board-container-name-container'>
+                            <p class='board-container-name'>Wiceprezes</p>
+                            <hr>
+                            <p class='board-container-title'>prof. dr hab. n. med. Jakub Dobruch</p>
+                        </div>
+                    </div>
+                    <p class='board-container-contact pb-3  pt-5 '>
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-3 text-center">
+                <div class="board-container">
+                    <div class='board-container-image'>
+                        <img class='img-fluid' src="https://www.pturol.org.pl/images/board/zbigniew_jabloniewski.webp" alt="Skarbnik" width="450" height="432" loading="lazy">
+                        <div class='board-container-name-container'>
+                            <p class='board-container-name'>Skarbnik</p>
+                            <hr>
+                            <p class='board-container-title'>
+                                prof. dr hab. n. med. Zbigniew Jabłonowski</p>
+                        </div>
+                    </div>
+                    <p class='board-container-contact pb-3  pt-5 '>
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="row mt-5 justify-content-evenly">
+            <div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-3 text-center">
+                <div class="board-container">
+                    <div class='board-container-image'>
+                        <img class='img-fluid' src="https://www.pturol.org.pl/images/board/mikolaj_przydacz.webp" alt="Sekretarz" width="450" height="432" loading="lazy">
+                        <div class='board-container-name-container'>
+                            <p class='board-container-name'>Sekretarz</p>
+                            <hr>
+                            <p class='board-container-title'>dr hab. n. med. Mikołaj Przydacz</p>
+                        </div>
+                    </div>
+                    <p class='board-container-contact pb-3  pt-5 '>
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-3 text-center">
+                <div class="board-container">
+                    <div class='board-container-image'>
+                        <img class='img-fluid' src="https://www.pturol.org.pl/images/board/artur_leminski.webp" alt="Członek Zarządu" width="450" height="432" loading="lazy">
+                        <div class='board-container-name-container'>
+                            <p class='board-container-name'>Członek Zarządu</p>
+                            <hr>
+                            <p class='board-container-title'>dr hab. n. med. Artur Lemiński</p>
+                        </div>
+                    </div>
+                    <p class='board-container-contact pb-3  pt-5 '>
+                    </p>
+                    
+                </div>
+            </div>
+            <div class="col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 col-xxl-3 text-center">
+                <div class="board-container">
+                    <div class='board-container-image'>
+                        <img class='img-fluid' src="https://www.pturol.org.pl/images/board/bartosz_malkiewicz.webp" alt="Członek Zarządu" width="450" height="432" loading="lazy">
+                        <div class='board-container-name-container'>
+                            <p class='board-container-name'>Członek Zarządu</p>
+                            <hr>
+                            <p class='board-container-title'>dr hab. n. med. Bartosz Małkiewicz</p>
+                        </div>
+                    </div>
+                    <p class='board-container-contact pb-3  pt-5 '>
+                    </p>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container news-container2">
+        <div class="row">
+            <span class="pe-3 position-relative text-end d-lg-none" style="font-size: 24px; bottom: -30px; z-index: 1; opacity: 0.001" id="hideHover">X</span>
+            <div class="col-12">
+                <div class="administration">
+                    <div class="slide">
+                        <div class="board-container text-center">
+                            <div class='board-container-image'>
+                                <img class='img-fluid' src="https://www.pturol.org.pl/images/board/tomasz_dreewa.webp" alt="Prezes" width="450" height="432" loading="lazy">
+                                <div class='board-container-name-container'>
+                                    <p class='board-container-name'>Prezes</p>
+                                    <hr>
+                                    <p class='board-container-title'>prof. dr hab. n. med. Tomasz Drewa</p>
+                                </div>
+                            </div>
+                            <div class='board-container-contact pb-1 pt-5 '>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="board-container text-center">
+                            <div class='board-container-image'>
+                                <img class='img-fluid' src="https://www.pturol.org.pl/images/board/jakub_dobruch.webp" alt="Wiceprezes" width="450" height="432" loading="lazy">
+                                <div class='board-container-name-container'>
+                                    <p class='board-container-name'>Wiceprezes</p>
+                                    <hr>
+                                    <p class='board-container-title'>prof. dr hab. n. med. Jakub Dobruch</p>
+                                </div>
+                            </div>
+                            <div class='board-container-contact pb-1 pt-5 '>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="board-container text-center">
+                            <div class='board-container-image'>
+                                <img class='img-fluid' src="https://www.pturol.org.pl/images/board/zbigniew_jabloniewski.webp" alt="Skarbnik" width="450" height="432" loading="lazy">
+                                <div class='board-container-name-container'>
+                                    <p class='board-container-name'>Skarbnik</p>
+                                    <hr>
+                                    <p class='board-container-title'>
+                                        prof. dr hab. n. med. Zbigniew Jabłonowski</p>
+                                </div>
+                            </div>
+                            <div class='board-container-contact pb-1 pt-5 '>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="board-container text-center">
+                            <div class='board-container-image'>
+                                <img class='img-fluid' src="https://www.pturol.org.pl/images/board/mikolaj_przydacz.webp" alt="Sekretarz" width="450" height="432" loading="lazy">
+                                <div class='board-container-name-container'>
+                                    <p class='board-container-name'>Sekretarz</p>
+                                    <hr>
+                                    <p class='board-container-title'>dr hab. n. med. Mikołaj Przydacz</p>
+                                </div>
+                            </div>
+                            <div class='board-container-contact pb-1 pt-5 '>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="board-container text-center">
+                            <div class='board-container-image'>
+                                <img class='img-fluid' src="https://www.pturol.org.pl/images/board/artur_leminski.webp" alt="Członek Zarządu" width="450" height="432" loading="lazy">
+                                <div class='board-container-name-container'>
+                                    <p class='board-container-name'>Członek Zarządu</p>
+                                    <hr>
+                                    <p class='board-container-title'>dr hab. n. med. Artur Lemiński</p>
+                                </div>
+                            </div>
+                            <div class='board-container-contact pb-1 pt-5 '>
+                            </div>
+                            
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="board-container text-center">
+                            <div class='board-container-image'>
+                                <img class='img-fluid' src="https://www.pturol.org.pl/images/board/bartosz_malkiewicz.webp" alt="Członek Zarządu" width="450" height="432" loading="lazy">
+                                <div class='board-container-name-container'>
+                                    <p class='board-container-name'>Członek Zarządu</p>
+                                    <hr>
+                                    <p class='board-container-title'>dr hab. n. med. Bartosz Małkiewicz</p>
+                                </div>
+                            </div>
+                            <div class='board-container-contact pb-1 pt-5 '>
+                            </div>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <p id="showHover" class="position-relative text-end d-lg-none" style="bottom: 44px; left: -16px; opacity: 0.0001;">więcej > </p>
+        </div>
+    </div>
+</div>
+<div class="section-title-container mt-5 pb-5">
+    <p class="section-title">
+        Aktualności
+    </p>
+</div>
+<div class="container news-container mt-5">
+    <div class="row">
+        <div class="col-12">
+            <div class="news-slider">
+                                <div class="slide">
+                    <div class="card">
+                        
+                        <div class="card-body" style="max-height: 240px">
+                            <h5 class=" card-title text-uppercase
+                                "><strong>EAU25 Abstract Submission and EAU Crystal Matula Award</strong></h5>
+                            
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col-6 ">
+                                    <p class="date">2024-09-06 10:05:47</p>
+                                </div>
+                                <div class="col-6 text-end"><a href="https://www.pturol.org.pl/aktualnosc/eau25-abstract-submission-and-eau-crystal-matula-award" class="btn btn-read-more btn-sm">więcej >></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="slide">
+                    <div class="card">
+                        
+                        <div class="card-body" style="max-height: 240px">
+                            <h5 class=" card-title text-uppercase
+                                "><strong>NAGRODA IMIENIA PROFESORA TADEUSZA KRZESKIEGO</strong></h5>
+                            
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col-6 ">
+                                    <p class="date">2024-02-29 15:37:03</p>
+                                </div>
+                                <div class="col-6 text-end"><a href="https://www.pturol.org.pl/aktualnosc/nagroda-imienia-profesora-tadeusza-krzeskiego" class="btn btn-read-more btn-sm">więcej >></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="slide">
+                    <div class="card">
+                        
+                        <div class="card-body" style="max-height: 240px">
+                            <h5 class=" card-title text-uppercase
+                                "><strong>DEBATA „WYZWANIA W DIAGNOSTYCE I LECZENIU NOWOTWORÓW PROSTATY W POLSCE. AKTUALNE ZALECENIA”</strong></h5>
+                            
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col-6 ">
+                                    <p class="date">2024-02-14 15:45:07</p>
+                                </div>
+                                <div class="col-6 text-end"><a href="https://www.pturol.org.pl/aktualnosc/debata-%E2%80%9Ewyzwania-w-diagnostyce-i-leczeniu-nowotworow-prostaty-w-polsce-aktualne-zalecenia%E2%80%9D" class="btn btn-read-more btn-sm">więcej >></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="slide">
+                    <div class="card">
+                        
+                        <div class="card-body" style="max-height: 240px">
+                            <h5 class=" card-title text-uppercase
+                                "><strong>Złóż wniosek - stypednia IBSA Foundation for Scientific Research</strong></h5>
+                            
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col-6 ">
+                                    <p class="date">2024-01-08 09:51:17</p>
+                                </div>
+                                <div class="col-6 text-end"><a href="https://www.pturol.org.pl/aktualnosc/zloz-wniosek-stypednia-ibsa-foundation-for-scientific-research" class="btn btn-read-more btn-sm">więcej >></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="slide">
+                    <div class="card">
+                        
+                        <div class="card-body" style="max-height: 240px">
+                            <h5 class=" card-title text-uppercase
+                                "><strong>SKŁADKA CZŁONKOWSKA PTU ZA 2024 ROK</strong></h5>
+                            
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col-6 ">
+                                    <p class="date">2023-12-19 11:57:07</p>
+                                </div>
+                                <div class="col-6 text-end"><a href="https://www.pturol.org.pl/aktualnosc/skladka-czlonkowska-ptu-za-2024-rok" class="btn btn-read-more btn-sm">więcej >></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <div class="slide">
+                    <div class="card">
+                        
+                        <div class="card-body" style="max-height: 240px">
+                            <h5 class=" card-title text-uppercase
+                                "><strong>XVIII Ogólnopolska Konferencja &quot;Zaburzenia seksualne - postępy w leczeniu&quot;</strong></h5>
+                            
+                        </div>
+                        <div class="card-footer">
+                            <div class="row">
+                                <div class="col-6 ">
+                                    <p class="date">2023-11-29 15:24:43</p>
+                                </div>
+                                <div class="col-6 text-end"><a href="https://www.pturol.org.pl/aktualnosc/xviii-ogolnopolska-konferencja-zaburzenia-seksualne-postepy-w-leczeniu" class="btn btn-read-more btn-sm">więcej >></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                                <!--
+                    <div class="slide">
+                        <div class="card" style="">
+                            <img src="https://www.pturol.org.pl/images/news/news2_1.png" alt=""/>
+                            <div class="card-body">
+                                <h5 class="card-title">POWOŁANIE ZARZĄDU GŁÓWNEGO PTU - KADENCJA 2022 - 2026 </h5>
+                                <p class="card-text">Podczas 52. Kongresu Naukowego PTU Walne Zgromadzenie Członków
+                                    Stowarzyszenia wybrało Prezydium Zarządu Głównego Polskiego Towarzystwa
+                                    Urologicznego na kadencję 2022-2026:...</p>
+
+                            </div>
+                            <div class="card-footer">
+                                <div class="row">
+
+                                    <div class="col-6 ">
+                                        <p class="date">
+                                            09.29.2022
+                                        </p>
+                                    </div>
+                                    <div class="col-6 text-end"><a href="#" class="btn btn-read-more btn-sm ">więcej
+                                            >></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    -->
+                <!--
+                    <div class="slide">
+                        <div class="card" style="">
+                            <img src="https://www.pturol.org.pl/images/news/news1.png" alt=""/>
+                            <div class="card-body">
+                                <h5 class="card-title">SKŁADKA CZŁONKOWSKA PTU ZA ROK 2022</h5>
+                                <p class="card-text">
+                                    Uprzejmie informujemy, że składka członkowska PTU za rok 2022 powinna zostać
+                                    opłacona do 31 marca 2022 roku....</p>
+
+                            </div>
+                            <div class="card-footer">
+                                <div class="row">
+
+                                    <div class="col-6 ">
+                                        <p class="date">
+                                            09.29.2022
+                                        </p>
+                                    </div>
+                                    <div class="col-6 text-end"><a href="#" class="btn btn-read-more btn-sm">więcej
+                                            >></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    -->
+                <!--
+                    <div class="slide">
+                        <div class="card" style="">
+                            <img src="https://www.pturol.org.pl/images/news/news1.png" alt=""/>
+                            <div class="card-body">
+                                <h5 class="card-title">28. Sympozjum Sekcji Endourologii i ESWL PTU </h5>
+                                <p class="card-text">Szanowni Koledzy! W imieniu Zarządu Sekcji Endourologii i ESWL
+                                    Polskiego Towarzystwa Urologicznego zapraszam na 28. Sympozjum Sekcji, które - po
+                                    długiej przerwie spowodowanej pandemią COVID-19 - odbędzie się w dniach 8-9 kwietnia
+                                    2022 roku...</p>
+
+                            </div>
+                            <div class="card-footer">
+                                <div class="row">
+
+                                    <div class="col-6 ">
+                                        <p class="date">
+                                            09.29.2022
+                                        </p>
+                                    </div>
+                                    <div class="col-6 text-end"><a href="#" class="btn  btn-sm btn-read-more">więcej
+                                            >></a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    -->
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+$(document).ready(function() {
+    $('#hideHover').click(function() {
+        $('.board-container-hover').css({ 'display': 'none', 'visibility': 'hidden', 'opacity': '0' });
+        $('.tns-controls').css('display', 'block');
+    });
+    $('#showHover').click(function() {
+        $('.board-container-hover').css({ 'display': 'block', 'visibility': 'visible', 'opacity': '1' });
+        $('.tns-controls').css('display', 'none');
+    });
+});
+
+</script>
+<script>
+$(document).ready(function() {
+    const bannerLinks = $('.banner-link');
+    var currentIndex = 0;
+    var bannerInterval;
+
+    bannerLinks.hide();
+    bannerLinks.eq(currentIndex).fadeIn(200);
+
+    function startBannerAnimation() {
+        if (bannerLinks.length <= 1) {
+            return; // Przerywamy animację, jeśli ilość banerów wynosi 1 lub mniej
+        }
+
+        bannerInterval = setInterval(function() {
+            bannerLinks.eq(currentIndex).fadeOut(1000);
+            currentIndex = (currentIndex + 1) % bannerLinks.length;
+            bannerLinks.eq(currentIndex).fadeIn(1000);
+        }, 5000);
+    }
+
+    function stopBannerAnimation() {
+        clearInterval(bannerInterval);
+    }
+
+    bannerLinks.on("mouseenter", stopBannerAnimation);
+    bannerLinks.on("mouseleave", startBannerAnimation);
+
+    startBannerAnimation();
+
+    const bannerLinksMobile = $('.banner-link-mobile');
+    var currentIndexMobile = 0;
+    var bannerIntervalMobile;
+
+    bannerLinksMobile.hide();
+    bannerLinksMobile.eq(currentIndexMobile).fadeIn(200);
+
+    function startBannerAnimationMobile() {
+        if (bannerLinksMobile.length <= 1) {
+            return; // Przerywamy animację, jeśli ilość banerów wynosi 1 lub mniej
+        }
+        bannerIntervalMobile = setInterval(function() {
+            bannerLinksMobile.eq(currentIndexMobile).fadeOut(1000);
+            currentIndexMobile = (currentIndexMobile + 1) % bannerLinksMobile.length;
+            bannerLinksMobile.eq(currentIndexMobile).fadeIn(1000);
+        }, 3000);
+    }
+
+    function stopBannerAnimationMobile() {
+        clearInterval(bannerIntervalMobile);
+    }
+
+    bannerLinksMobile.on("mouseenter", stopBannerAnimationMobile);
+    bannerLinksMobile.on("mouseleave", startBannerAnimationMobile);
+
+    startBannerAnimationMobile();
+});
+
+</script>
+    <section id="footer" class="pb-5 mt-5">
+        <div class="container">
+            <div class="row pt-3 ">
+                <div class="col-md-6">
+                    <img class="img-fluid" src="https://www.pturol.org.pl/images/footer/ptu_logotype_footer.webp" alt="PTU" width="97" height="86" loading="lazy">
+                    <p class="copyright">
+                        Copyright 2022 Polskie Towarzystwo Urologiczne.<br>Wszelkie prawa zastrzeżone.
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <p class="text-end">
+                        <a class="text-center" id="foundationContainer" href="https://www.pturol.org.pl/fundacja">
+                            <img src="https://www.pturol.org.pl/images/footer/mikroskop_1.webp" alt="Fundacja  im. dr. Wojciecha Husiatyńskiego" loading="lazy" width="37" height="37"> <br>
+                            Fundacja im. dr. Wojciecha Husiatyńskiego
+                        </a>
+                        <a class="social-icons" href="https://www.facebook.com/PolskieTowarzystwoUrologiczne/?fref=ts" target="_blank" rel="noreferrer">
+                            <img width="40" height="40" class="img-fluid" src="https://www.pturol.org.pl/images/footer/facebook.webp" alt="Facebook" loading="lazy">
+                        </a>
+                        <a class="social-icons" href="https://twitter.com/PTUweb" target="_blank" rel="noreferrer">
+                            <img width="40" height="40" class="img-fluid" src="https://www.pturol.org.pl/images/footer/twitter.webp" alt="Twitter" loading="lazy">
+                        </a>
+                        <a class="social-icons" href="https://www.youtube.com/channel/UC735Auw9rHbwie5v78kODYg" target="_blank" rel="noreferrer">
+                            <img width="40" height="40" class="img-fluid" src="https://www.pturol.org.pl/images/footer/icon1.webp" alt="YouTube" loading="lazy">
+                        </a>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="https://www.pturol.org.pl/js/front.js"></script>
+    <script src="https://www.pturol.org.pl/js/fancybox.js"></script>
+    <script>
+    $('.dropdown-item.dropdown-toggle').click(function(event) {
+        event.preventDefault();
+        event.stopPropagation();
+        $(this).next('.submenu').toggleClass("open");
+    });
+
+    </script>
+    <script>
+    function toggle() {
+        if (document.getElementById("submenu").style.display === 'none') {
+            document.getElementById("submenu").style.display = "block";
+        } else {
+            document.getElementById("submenu").style.display = "none";
+        }
+    }
+
+    function toggle2() {
+        if (document.getElementById("submenu2").style.display === 'none')
+            document.getElementById("submenu2").style.display = "block";
+        else {
+            document.getElementById("submenu2").style.display = "none";
+        }
+    }
+
+    function toggle3() {
+        if (document.getElementById("submenu3").style.display === 'none')
+            document.getElementById("submenu3").style.display = "block";
+        else {
+            document.getElementById("submenu3").style.display = "none";
+        }
+    }
+
+    function toggle4() {
+        if (document.getElementById("submenu4").style.display === 'none')
+            document.getElementById("submenu4").style.display = "block";
+        else {
+            document.getElementById("submenu4").style.display = "none";
+        }
+    }
+
+    function toggle5() {
+        if (document.getElementById("submenu5").style.display === 'none')
+            document.getElementById("submenu5").style.display = "block";
+        else {
+            document.getElementById("submenu5").style.display = "none";
+        }
+    }
+
+    function toggle6() {
+        if (document.getElementById("submenu6").style.display === 'none')
+            document.getElementById("submenu6").style.display = "block";
+        else {
+            document.getElementById("submenu6").style.display = "none";
+        }
+    }
+
+    function toggle7() {
+        if (document.getElementById("submenu7").style.display === 'none')
+            document.getElementById("submenu7").style.display = "block";
+        else {
+            document.getElementById("submenu7").style.display = "none";
+        }
+    }
+
+    function toggle8() {
+        if (document.getElementById("submenu8").style.display === 'none')
+            document.getElementById("submenu8").style.display = "block";
+        else {
+            document.getElementById("submenu8").style.display = "none";
+        }
+    }
+
+    function toggle9() {
+        if (document.getElementById("submenu9").style.display === 'none')
+            document.getElementById("submenu9").style.display = "block";
+        else {
+            document.getElementById("submenu9").style.display = "none";
+        }
+    }
+
+    function toggle10() {
+        if (document.getElementById("submenu10").style.display === 'none')
+            document.getElementById("submenu10").style.display = "block";
+        else {
+            document.getElementById("submenu10").style.display = "none";
+        }
+    }
+
+    function toggle11() {
+        if (document.getElementById("submenu11").style.display === 'none')
+            document.getElementById("submenu11").style.display = "block";
+        else {
+            document.getElementById("submenu11").style.display = "none";
+        }
+    }
+
+    function toggle12() {
+
+        if (document.getElementById("submenu12").style.display === 'none') {
+            document.getElementById("submenu12").style.display = "block";
+        } else {
+            document.getElementById("submenu12").style.display = "none";
+        }
+    }
+
+    function toggle13() {
+        if (document.getElementById("submenu13").style.display === 'none')
+            document.getElementById("submenu13").style.display = "block";
+        else {
+            document.getElementById("submenu13").style.display = "none";
+        }
+    }
+
+    function toggle14() {
+        if (document.getElementById("submenu14").style.display === 'none')
+            document.getElementById("submenu14").style.display = "block";
+        else {
+            document.getElementById("submenu14").style.display = "none";
+        }
+    }
+
+    function toggle15() {
+        if (document.getElementById("submenu15").style.display === 'none')
+            document.getElementById("submenu15").style.display = "block";
+        else {
+            document.getElementById("submenu15").style.display = "none";
+        }
+    }
+
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.js" integrity="sha512-j7/1CJweOskkQiS5RD9W8zhEG9D9vpgByNGxPIqkO5KrXrwyDAroM9aQ9w8J7oRqwxGyz429hPVk/zR6IOMtSA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script>
+    $(document).ready(function() {
+        if (window.location.pathname.startsWith('/o-ptu')) {
+            $("#about .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/aktualnosci')) {
+            $("#news .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/kalendarium')) {
+            $("#calendar .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/kongresy-ptu')) {
+            $("#congress .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/system-cme-cpd')) {
+            $("#system .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/wydawnictwo')) {
+            $("#journal .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/kontakt')) {
+            $("#contact .nav-link").addClass('active-menu');
+        }
+    })
+
+    </script>
+</body>
+
+</html>
+...
+JavaScript Data Found: , , , 
+$(document).ready(function() {
+    $('#hideHover').click(function() {
+        $('.board-container-hover').css({ 'display': 'none', 'visibility': 'hidden', 'opacity': '0' });
+        $('.tns-controls').css('display', 'block');
+    });
+    $('#showHover').click(function() {
+        $('.board-container-hover').css({ 'display': 'block', 'visibility': 'visible', 'opacity': '1' });
+        $('.tns-controls').css('display', 'none');
+    });
+});
+
+, 
+$(document).ready(function() {
+    const bannerLinks = $('.banner-link');
+    var currentIndex = 0;
+    var bannerInterval;
+
+    bannerLinks.hide();
+    bannerLinks.eq(currentIndex).fadeIn(200);
+
+    function startBannerAnimation() {
+        if (bannerLinks.length <= 1) {
+            return; // Przerywamy animację, jeśli ilość banerów wynosi 1 lub mniej
+        }
+
+        bannerInterval = setInterval(function() {
+            bannerLinks.eq(currentIndex).fadeOut(1000);
+            currentIndex = (currentIndex + 1) % bannerLinks.length;
+            bannerLinks.eq(currentIndex).fadeIn(1000);
+        }, 5000);
+    }
+
+    function stopBannerAnimation() {
+        clearInterval(bannerInterval);
+    }
+
+    bannerLinks.on("mouseenter", stopBannerAnimation);
+    bannerLinks.on("mouseleave", startBannerAnimation);
+
+    startBannerAnimation();
+
+    const bannerLinksMobile = $('.banner-link-mobile');
+    var currentIndexMobile = 0;
+    var bannerIntervalMobile;
+
+    bannerLinksMobile.hide();
+    bannerLinksMobile.eq(currentIndexMobile).fadeIn(200);
+
+    function startBannerAnimationMobile() {
+        if (bannerLinksMobile.length <= 1) {
+            return; // Przerywamy animację, jeśli ilość banerów wynosi 1 lub mniej
+        }
+        bannerIntervalMobile = setInterval(function() {
+            bannerLinksMobile.eq(currentIndexMobile).fadeOut(1000);
+            currentIndexMobile = (currentIndexMobile + 1) % bannerLinksMobile.length;
+            bannerLinksMobile.eq(currentIndexMobile).fadeIn(1000);
+        }, 3000);
+    }
+
+    function stopBannerAnimationMobile() {
+        clearInterval(bannerIntervalMobile);
+    }
+
+    bannerLinksMobile.on("mouseenter", stopBannerAnimationMobile);
+    bannerLinksMobile.on("mouseleave", startBannerAnimationMobile);
+
+    startBannerAnimationMobile();
+});
+
+, , , 
+    $('.dropdown-item.dropdown-toggle').click(function(event) {
+        event.preventDefault();
+        event.stopPropagation();
+        $(this).next('.submenu').toggleClass("open");
+    });
+
+    , 
+    function toggle() {
+        if (document.getElementById("submenu").style.display === 'none') {
+            document.getElementById("submenu").style.display = "block";
+        } else {
+            document.getElementById("submenu").style.display = "none";
+        }
+    }
+
+    function toggle2() {
+        if (document.getElementById("submenu2").style.display === 'none')
+            document.getElementById("submenu2").style.display = "block";
+        else {
+            document.getElementById("submenu2").style.display = "none";
+        }
+    }
+
+    function toggle3() {
+        if (document.getElementById("submenu3").style.display === 'none')
+            document.getElementById("submenu3").style.display = "block";
+        else {
+            document.getElementById("submenu3").style.display = "none";
+        }
+    }
+
+    function toggle4() {
+        if (document.getElementById("submenu4").style.display === 'none')
+            document.getElementById("submenu4").style.display = "block";
+        else {
+            document.getElementById("submenu4").style.display = "none";
+        }
+    }
+
+    function toggle5() {
+        if (document.getElementById("submenu5").style.display === 'none')
+            document.getElementById("submenu5").style.display = "block";
+        else {
+            document.getElementById("submenu5").style.display = "none";
+        }
+    }
+
+    function toggle6() {
+        if (document.getElementById("submenu6").style.display === 'none')
+            document.getElementById("submenu6").style.display = "block";
+        else {
+            document.getElementById("submenu6").style.display = "none";
+        }
+    }
+
+    function toggle7() {
+        if (document.getElementById("submenu7").style.display === 'none')
+            document.getElementById("submenu7").style.display = "block";
+        else {
+            document.getElementById("submenu7").style.display = "none";
+        }
+    }
+
+    function toggle8() {
+        if (document.getElementById("submenu8").style.display === 'none')
+            document.getElementById("submenu8").style.display = "block";
+        else {
+            document.getElementById("submenu8").style.display = "none";
+        }
+    }
+
+    function toggle9() {
+        if (document.getElementById("submenu9").style.display === 'none')
+            document.getElementById("submenu9").style.display = "block";
+        else {
+            document.getElementById("submenu9").style.display = "none";
+        }
+    }
+
+    function toggle10() {
+        if (document.getElementById("submenu10").style.display === 'none')
+            document.getElementById("submenu10").style.display = "block";
+        else {
+            document.getElementById("submenu10").style.display = "none";
+        }
+    }
+
+    function toggle11() {
+        if (document.getElementById("submenu11").style.display === 'none')
+            document.getElementById("submenu11").style.display = "block";
+        else {
+            document.getElementById("submenu11").style.display = "none";
+        }
+    }
+
+    function toggle12() {
+
+        if (document.getElementById("submenu12").style.display === 'none') {
+            document.getElementById("submenu12").style.display = "block";
+        } else {
+            document.getElementById("submenu12").style.display = "none";
+        }
+    }
+
+    function toggle13() {
+        if (document.getElementById("submenu13").style.display === 'none')
+            document.getElementById("submenu13").style.display = "block";
+        else {
+            document.getElementById("submenu13").style.display = "none";
+        }
+    }
+
+    function toggle14() {
+        if (document.getElementById("submenu14").style.display === 'none')
+            document.getElementById("submenu14").style.display = "block";
+        else {
+            document.getElementById("submenu14").style.display = "none";
+        }
+    }
+
+    function toggle15() {
+        if (document.getElementById("submenu15").style.display === 'none')
+            document.getElementById("submenu15").style.display = "block";
+        else {
+            document.getElementById("submenu15").style.display = "none";
+        }
+    }
+
+    , , , 
+    $(document).ready(function() {
+        if (window.location.pathname.startsWith('/o-ptu')) {
+            $("#about .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/aktualnosci')) {
+            $("#news .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/kalendarium')) {
+            $("#calendar .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/kongresy-ptu')) {
+            $("#congress .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/system-cme-cpd')) {
+            $("#system .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/wydawnictwo')) {
+            $("#journal .nav-link").addClass('active-menu');
+        }
+        if (window.location.pathname.startsWith('/kontakt')) {
+            $("#contact .nav-link").addClass('active-menu');
+        }
+    })
+
+    
+API Requests/Links Found: https://www.pturol.org.pl/, https://www.pturol.org.pl/o-ptu/statut-ptu, https://www.pturol.org.pl/o-ptu/historia-i-symbole, https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2022-2026, https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2018-2022, https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2015-2018, https://www.pturol.org.pl/o-ptu/zarzad-glowny/poprzednie-kadencje, https://www.pturol.org.pl/o-ptu/zarzad-glowny/sad-kolezenski, https://www.pturol.org.pl/o-ptu/zarzad-glowny/komisja-rewizyjna, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-bialostocki, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-dolnoslaski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-krakowski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial%20lubelski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-lodzki, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-mazowiecki, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-polnocno-zachodni, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/slaski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/wielkopolski, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/adeptow-urologii, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/endourologii, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/andrologii-i-seksuologii, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-onkologicznej, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-robotowej, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologow-wojskowych, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-zynnosciowej-rekonstrukcyjnej-i-fizjoterapii-PTU, https://www.pturol.org.pl/o-ptu/komitety, https://www.pturol.org.pl/o-ptu/czlonkowie-honorowi, https://www.pturol.org.pl/o-ptu/czlonkowie-wspierajacy-ptu, https://www.pturol.org.pl/o-ptu/wspolpraca-z-organizacjami, https://www.pturol.org.pl/o-ptu/nagrody/nagroda-im-profesora-tadeusza-krzeskiego, https://www.pturol.org.pl/o-ptu/nagrody/nagroda-za-prace-ceju, https://www.pturol.org.pl/aktualnosci, https://www.pturol.org.pl/kalendarium, https://www.pturol.org.pl/kongresy-ptu/nadchodzacy-kongres, https://www.pturol.org.pl/kongresy-ptu/konferecje-i-zjazdy, https://www.pturol.org.pl/kongresy-ptu/poprzednie-kongresy-ptu, https://www.pturol.org.pl/kongresy-ptu/poprzednie-sympozja-i-zjazdy-ptu, https://www.pturol.org.pl/kongresy-ptu/biuro-kongresowe-ptu, https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne, https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/formularze, https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/biuro-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/punktacja-za-okreslone-aktywnosci-naukowe, https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/formularz-uczestnictwa-credit-entry-form, https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizator-wydarzen-naukowych, https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizatorzy, https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/inni-organizatorzy, https://www.pturol.org.pl/system-cme-cpd/akredytowane-wydarzenia-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/wniosek-o-przyznanie-akredytacji-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/zaproszenia-do-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/cme-cpd-w-przegladzie-urologicznym, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-eu-acme-2005, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-cme-cpd-2001, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/nowa-tabela-punktacji-za-okreslone-aktywnosci-naukowe, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/tabela-punktacji-za-okreslone-aktywnosci-naukowe, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2023, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2022, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2021, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2020, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2019, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2018, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2017, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2016, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2015, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2014, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2013, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2012, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2011, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2006-2010, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2002-2005, https://www.pturol.org.pl/wydawnictwo/central-european-journal-of-urology, https://www.pturol.org.pl/wydawnictwo/przeglad-urologiczny, https://www.pturol.org.pl/wydawnictwo/przeglad-urologiczny/wytyczne-ptu, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/rekomendacje-ptu, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/poradniki, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/albumy, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/atlasy, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/eponimy, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/historia, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/wyklady-z-urologii, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/ultrasonografia-urologiczna, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/zamow-ksiazke, https://www.pturol.org.pl/wydawnictwo, https://www.pturol.org.pl/kontakt, https://www.pturol.org.pl/, https://www.pturol.org.pl/o-ptu/statut-ptu, https://www.pturol.org.pl/o-ptu/historia-i-symbole, https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2022-2026, https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2018-2022, https://www.pturol.org.pl/o-ptu/zarzad-glowny/kadencja-2015-2018, https://www.pturol.org.pl/o-ptu/zarzad-glowny/poprzednie-kadencje, https://www.pturol.org.pl/o-ptu/zarzad-glowny/sad-kolezenski, https://www.pturol.org.pl/o-ptu/zarzad-glowny/komisja-rewizyjna, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-bialostocki, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-dolnoslaski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-krakowski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial%20lubelski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-lodzki, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-mazowiecki, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/oddzial-polnocno-zachodni, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/slaski, https://www.pturol.org.pl/o-ptu/odzialy-terenowe/wielkopolski, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/adeptow-urologii, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/endourologii, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/andrologii-i-seksuologii, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-onkologicznej, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-robotowej, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologow-wojskowych, https://www.pturol.org.pl/o-ptu/sekcje-naukowe/urologii-zynnosciowej-rekonstrukcyjnej-i-fizjoterapii-PTU, https://www.pturol.org.pl/o-ptu/komitety, https://www.pturol.org.pl/o-ptu/czlonkowie-honorowi, https://www.pturol.org.pl/o-ptu/czlonkowie-wspierajacy-ptu, https://www.pturol.org.pl/o-ptu/wspolpraca-z-organizacjami, https://www.pturol.org.pl/o-ptu/nagrody/nagroda-im-profesora-tadeusza-krzeskiego, https://www.pturol.org.pl/aktualnosci, https://www.pturol.org.pl/kalendarium, https://www.pturol.org.pl/kongresy-ptu/nadchodzacy-kongres, https://www.pturol.org.pl/kongresy-ptu/konferecje-i-zjazdy, https://www.pturol.org.pl/kongresy-ptu/poprzednie-kongresy-ptu, https://www.pturol.org.pl/kongresy-ptu/poprzednie-sympozja-i-zjazdy-ptu, https://www.pturol.org.pl/kongresy-ptu/biuro-kongresowe-ptu, https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne, https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/formularze, https://www.pturol.org.pl/system-cme-cpd/informacje-ogolne/biuro-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/punktacja-za-okreslone-aktywnosci-naukowe, https://www.pturol.org.pl/system-cme-cpd/punkty-cme-cpd/formularz-uczestnictwa-credit-entry-form, https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizator-wydarzen-naukowych, https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/organizatorzy, https://www.pturol.org.pl/system-cme-cpd/akredytacje-cme-cpd/inni-organizatorzy, https://www.pturol.org.pl/system-cme-cpd/akredytowane-wydarzenia-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/wniosek-o-przyznanie-akredytacji-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/zaproszenia-do-cme-cpd, https://www.pturol.org.pl/system-cme-cpd/cme-cpd-w-przegladzie-urologicznym, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-eu-acme-2005, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/broszura-cme-cpd-2001, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/nowa-tabela-punktacji-za-okreslone-aktywnosci-naukowe, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/tabela-punktacji-za-okreslone-aktywnosci-naukowe, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2023, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2022, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2021, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2020, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2019, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2018, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2017, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2016, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2015, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2014, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2013, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2012, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2011, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2006-2010, https://www.pturol.org.pl/system-cme-cpd/archiwum-cme-cbd/akredytowane-wydarzenia-naukowe-cme-cpd/2002-2005, https://www.pturol.org.pl/wydawnictwo/central-european-journal-of-urology, https://www.pturol.org.pl/wydawnictwo/przeglad-urologiczny, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/rekomendacje-ptu, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/poradniki, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/albumy, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/atlasy, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/eponimy, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/historia, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/wyklady-z-urologii, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/ultrasonografia-urologiczna, https://www.pturol.org.pl/wydawnictwo/publikcaje-ksiazkowe/zamow-ksiazke, https://www.pturol.org.pl/wydawnictwo, https://www.pturol.org.pl/kontakt, https://www.linkedin.com/company/7077804?trk=tyah&trkInfo=clickedVertical%3Acompany%2CclickedEntityId%3A7077804%2Cidx%3A1-1-1%2CtarId%3A1450042641060%2Ctas%3Apolskie%20towarzystwo%20urol, https://www.facebook.com/PolskieTowarzystwoUrologiczne/?fref=ts, https://twitter.com/PTUweb, https://pturol.org.pl/strefa-lekarza/specjalizacja/program-wizyt-szkoleniowych-dla-adept%C3%B3w-urologi, https://www.ceju.online/, https://ldu2024.konferencjeptu.pl/, https://mdu2024.konferencjeptu.pl/, https://pturol.org.pl/strefa-lekarza/specjalizacja/program-wizyt-szkoleniowych-dla-adept%C3%B3w-urologi, https://www.ceju.online/, https://ldu2024.konferencjeptu.pl/, https://mdu2024.konferencjeptu.pl/, https://www.pturol.org.pl/polskie-towarzystwo-urologiczne, https://www.pturol.org.pl/czlonkostwo-w-ptu, https://www.pturol.org.pl/strefa-pacjenta, https://www.pturol.org.pl/strefa-lekarza/specjalizacja, https://www.pturol.org.pl/polskie-towarzystwo-urologiczne, https://www.pturol.org.pl/czlonkostwo-w-ptu, https://www.pturol.org.pl/strefa-pacjenta, https://www.pturol.org.pl/strefa-lekarza/specjalizacja, https://www.pturol.org.pl/aktualnosc/eau25-abstract-submission-and-eau-crystal-matula-award, https://www.pturol.org.pl/aktualnosc/nagroda-imienia-profesora-tadeusza-krzeskiego, https://www.pturol.org.pl/aktualnosc/debata-%E2%80%9Ewyzwania-w-diagnostyce-i-leczeniu-nowotworow-prostaty-w-polsce-aktualne-zalecenia%E2%80%9D, https://www.pturol.org.pl/aktualnosc/zloz-wniosek-stypednia-ibsa-foundation-for-scientific-research, https://www.pturol.org.pl/aktualnosc/skladka-czlonkowska-ptu-za-2024-rok, https://www.pturol.org.pl/aktualnosc/xviii-ogolnopolska-konferencja-zaburzenia-seksualne-postepy-w-leczeniu, https://www.pturol.org.pl/fundacja, https://www.facebook.com/PolskieTowarzystwoUrologiczne/?fref=ts, https://twitter.com/PTUweb, https://www.youtube.com/channel/UC735Auw9rHbwie5v78kODYg

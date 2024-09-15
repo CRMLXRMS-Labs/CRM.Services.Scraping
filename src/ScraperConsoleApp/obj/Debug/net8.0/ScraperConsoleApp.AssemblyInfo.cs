@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScraperConsoleApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa9fa3a93401dba015108b1bc2c3f9a7c6865adb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81c28050751bcc080907a01c470e4cdb892c5f47")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScraperConsoleApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScraperConsoleApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
