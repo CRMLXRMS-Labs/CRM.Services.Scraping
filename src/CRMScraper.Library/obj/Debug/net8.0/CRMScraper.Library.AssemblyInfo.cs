@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRMScraper.Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f297e218d2bd9e363fba0526871f6c1492bbf4f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa9fa3a93401dba015108b1bc2c3f9a7c6865adb")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRMScraper.Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRMScraper.Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
