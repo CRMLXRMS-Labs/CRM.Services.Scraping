@@ -39,23 +39,18 @@ namespace CRMScraper.Library
             };
         }
 
-        // Use Playwright for JavaScript-heavy or SPA sites
         public async Task<ScrapedPageResult> ScrapeDynamicPageAsync(string url)
         {
             using var playwright = await Playwright.CreateAsync();
             var browser = await playwright.Chromium.LaunchAsync(new BrowserTypeLaunchOptions { Headless = true });
             var page = await browser.NewPageAsync();
 
-            // Navigate to the page
             await page.GotoAsync(url);
 
-            // Wait for the page to finish loading (you can add specific waits for dynamic content)
             await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
 
-            // Get fully-rendered HTML content
             var content = await page.ContentAsync();
 
-            // Extract dynamic links
             var links = await page.EvaluateAsync<string[]>("Array.from(document.querySelectorAll('a')).map(a => a.href)");
 
             await browser.CloseAsync();
