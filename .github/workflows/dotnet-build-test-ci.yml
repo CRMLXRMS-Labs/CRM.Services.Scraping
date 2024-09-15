@@ -1,0 +1,74 @@
+name: .NET CI
+
+on:
+  push:
+    branches:
+      - '**'
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build the project
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Run tests with coverage
+      run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
+
+    - name: Report test coverage
+      uses: irongut/coverlet-action@v2.0.1
+      with:
+        coverlet-options: '--format opencover'
+        path-to-project: './src/CRMScraper.Tests/CRMScraper.Tests.csproj'
+
+    - name: Upload test results
+      uses: actions/upload-artifact@v3
+      with:
+        name: TestResults
+        path: TestResults/
+
+    - name: Upload coverage report
+      uses: actions/upload-artifact@v3
+      with:
+        name: CodeCoverage
+        path: coverage.opencover.xml
+
+  package:
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Pack the project into a NuGet package
+      run: dotnet pack --configuration Release --no-build --output ./nupkgs
+
+    - name: Upload NuGet package as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: NuGetPackages
+        path: ./nupkgs
