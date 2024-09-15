@@ -13,7 +13,7 @@ namespace CRMScraper.Tests
         [Fact]
         public async Task ExecuteScrapingTaskAsync_LimitsResultsByMaxPages_SimpleMock()
         {
-            // Arrange: Mock scraping 2 pages
+            // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
 
             mockScraperClient.SetupSequence(s => s.ScrapePageAsync(It.IsAny<string>()))
@@ -44,14 +44,14 @@ namespace CRMScraper.Tests
             // Act
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
 
-            // Assert: Ensure 2 pages were scraped
+            // Assert
             Assert.Equal(1, result.Count);
         }
 
         [Fact]
         public async Task ExecuteScrapingTaskAsync_StopsWhenTimeLimitExceeded_SimpleMock()
         {
-            // Arrange: Mock scraper with time limit
+            // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
             mockScraperClient.Setup(s => s.ScrapePageAsync(It.IsAny<string>()))
                 .ReturnsAsync(new ScrapedPageResult
@@ -66,7 +66,7 @@ namespace CRMScraper.Tests
             {
                 TargetUrl = "https://example.com",
                 MaxPages = 10,
-                TimeLimit = System.TimeSpan.FromMilliseconds(100) // Short time limit
+                TimeLimit = System.TimeSpan.FromMilliseconds(100) 
             };
 
             var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
@@ -74,14 +74,14 @@ namespace CRMScraper.Tests
             // Act
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
 
-            // Assert: Ensure less than 10 pages were scraped
+            // Assert
             Assert.True(result.Count < 10);
         }
 
         [Fact]
         public async Task ExecuteScrapingTaskAsync_HandlesScrapingFailures_SimpleMock()
         {
-            // Arrange: Mock scraper failure
+            // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
             mockScraperClient.Setup(s => s.ScrapePageAsync(It.IsAny<string>()))
                 .ThrowsAsync(new HttpRequestException("Failed to fetch page"));
@@ -98,7 +98,7 @@ namespace CRMScraper.Tests
             // Act
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
 
-            // Assert: Ensure no pages were scraped
+            // Assert
             Assert.Empty(result);
         }
     }

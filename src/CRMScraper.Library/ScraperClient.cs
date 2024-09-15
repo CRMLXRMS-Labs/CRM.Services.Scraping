@@ -4,18 +4,20 @@ using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
-using System.Web;
 using CRMScraper.Library.Core;
+using CRMScraper.Library.Core.Utils;
 
 namespace CRMScraper.Library
 {
     public class ScraperClient : IScraperClient
     {
         private readonly HttpClient _httpClient;
+        private readonly IPageElementsExtractor _pageElementsExtractor;
 
-        public ScraperClient(HttpClient httpClient)
+        public ScraperClient(HttpClient httpClient, IPageElementsExtractor pageElementsExtractor)
         {
             _httpClient = httpClient;
+            _pageElementsExtractor = pageElementsExtractor;
         }
 
         public async Task<ScrapedPageResult> ScrapePageAsync(string url)
@@ -27,8 +29,8 @@ namespace CRMScraper.Library
             var htmlDocument = new HtmlDocument();
             htmlDocument.LoadHtml(content);
 
-            var javascriptData = ExtractJavaScript(htmlDocument);
-            var apiRequests = ExtractApiRequests(htmlDocument, url);
+            var javascriptData = _pageElementsExtractor.ExtractJavaScript(htmlDocument);
+            var apiRequests = _pageElementsExtractor.ExtractApiRequests(htmlDocument, url);
 
             return new ScrapedPageResult
             {
@@ -46,11 +48,9 @@ namespace CRMScraper.Library
             var page = await browser.NewPageAsync();
 
             await page.GotoAsync(url);
-
             await page.WaitForLoadStateAsync(LoadState.NetworkIdle);
 
             var content = await page.ContentAsync();
-
             var links = await page.EvaluateAsync<string[]>("Array.from(document.querySelectorAll('a')).map(a => a.href)");
 
             await browser.CloseAsync();
@@ -62,53 +62,6 @@ namespace CRMScraper.Library
                 ApiRequests = new List<string>(links),
                 JavaScriptData = new List<string>() 
             };
-        }
-
-        private List<string> ExtractJavaScript(HtmlDocument document)
-        {
-            var scripts = document.DocumentNode.SelectNodes("//script");
-            return scripts?.Select(script => HttpUtility.HtmlDecode(script.InnerText)).ToList() ?? new List<string>();
-        }
-
-        private List<string> ExtractApiRequests(HtmlDocument document, string baseUrl)
-        {
-            var apiRequests = new List<string>();
-
-            var links = document.DocumentNode.SelectNodes("//a[@href]");
-            if (links != null)
-            {
-                foreach (var link in links)
-                {
-                    var href = link.GetAttributeValue("href", string.Empty);
-                    if (Uri.IsWellFormedUriString(href, UriKind.Relative))
-                    {
-                        href = new Uri(new Uri(baseUrl), href).ToString();
-                    }
-                    if (Uri.IsWellFormedUriString(href, UriKind.Absolute))
-                    {
-                        apiRequests.Add(href);
-                    }
-                }
-            }
-
-            var forms = document.DocumentNode.SelectNodes("//form[@action]");
-            if (forms != null)
-            {
-                foreach (var form in forms)
-                {
-                    var action = form.GetAttributeValue("action", string.Empty);
-                    if (Uri.IsWellFormedUriString(action, UriKind.Relative))
-                    {
-                        action = new Uri(new Uri(baseUrl), action).ToString();
-                    }
-                    if (Uri.IsWellFormedUriString(action, UriKind.Absolute))
-                    {
-                        apiRequests.Add(action);
-                    }
-                }
-            }
-
-            return apiRequests;
         }
     }
 }

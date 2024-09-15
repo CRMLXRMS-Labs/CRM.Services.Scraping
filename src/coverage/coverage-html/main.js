@@ -225,7 +225,9 @@ var assemblies = [
       { "name": "CRMScraper.Library.Core.ScrapedPageResult", "rp": "CRMScraper.Library_ScrapedPageResult.html", "cl": 4, "ucl": 0, "cal": 4, "tl": 10, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
       { "name": "CRMScraper.Library.Core.ScraperTaskExecutor", "rp": "CRMScraper.Library_ScraperTaskExecutor.html", "cl": 105, "ucl": 11, "cal": 116, "tl": 160, "cb": 29, "tb": 34, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
       { "name": "CRMScraper.Library.Core.ScrapingTask", "rp": "CRMScraper.Library_ScrapingTask.html", "cl": 5, "ucl": 0, "cal": 5, "tl": 11, "cb": 0, "tb": 0, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
-      { "name": "CRMScraper.Library.ScraperClient", "rp": "CRMScraper.Library_ScraperClient.html", "cl": 74, "ucl": 3, "cal": 77, "tl": 114, "cb": 21, "tb": 22, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "CRMScraper.Library.Core.Utils.PageElementsExtractor", "rp": "CRMScraper.Library_PageElementsExtractor.html", "cl": 0, "ucl": 40, "cal": 40, "tl": 59, "cb": 0, "tb": 20, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "CRMScraper.Library.Core.Utils.ScraperHelperService", "rp": "CRMScraper.Library_ScraperHelperService.html", "cl": 0, "ucl": 42, "cal": 42, "tl": 65, "cb": 0, "tb": 12, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
+      { "name": "CRMScraper.Library.ScraperClient", "rp": "CRMScraper.Library_ScraperClient.html", "cl": 38, "ucl": 0, "cal": 38, "tl": 67, "cb": 2, "tb": 2, "cm": 0, "tm": 0, "lch": [], "bch": [], "mch": [], "hc": [], "metrics": { } },
     ]},
 ];
 
@@ -240,10 +242,16 @@ var riskHotspotMetrics = [
 
 var riskHotspots = [
   {
-    "assembly": "CRMScraper.Library", "class": "CRMScraper.Library.ScraperClient", "reportPath": "CRMScraper.Library_ScraperClient.html", "methodName": "ExtractApiRequests(HtmlAgilityPack.HtmlDocument,System.String)", "methodShortName": "ExtractApiRequests(...)", "fileIndex": 0, "line": 74,
+    "assembly": "CRMScraper.Library", "class": "CRMScraper.Library.Core.Utils.PageElementsExtractor", "reportPath": "CRMScraper.Library_PageElementsExtractor.html", "methodName": "ExtractApiRequests(HtmlAgilityPack.HtmlDocument,System.String)", "methodShortName": "ExtractApiRequests(...)", "fileIndex": 0, "line": 19,
     "metrics": [
-      { "value": 16.15, "exceeded": false },
+      { "value": 272, "exceeded": true },
       { "value": 16, "exceeded": true },
+    ]},
+  {
+    "assembly": "CRMScraper.Library", "class": "CRMScraper.Library.Core.Utils.ScraperHelperService", "reportPath": "CRMScraper.Library_ScraperHelperService.html", "methodName": "ExtractLinks(System.String,System.String)", "methodShortName": "ExtractLinks(...)", "fileIndex": 0, "line": 39,
+    "metrics": [
+      { "value": 72, "exceeded": true },
+      { "value": 8, "exceeded": false },
     ]},
 ];
 
