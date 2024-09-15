@@ -30,11 +30,10 @@ jobs:
     - name: Run tests with coverage
       run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
 
-    - name: Report test coverage
-      uses: irongut/coverlet-action@v2.0.1
-      with:
-        coverlet-options: '--format opencover'
-        path-to-project: './src/CRMScraper.Tests/CRMScraper.Tests.csproj'
+    - name: Generate coverage report
+      run: |
+        dotnet tool install --global dotnet-reportgenerator-globaltool
+        reportgenerator -reports:TestResults/**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html
 
     - name: Upload test results
       uses: actions/upload-artifact@v3
@@ -45,8 +44,8 @@ jobs:
     - name: Upload coverage report
       uses: actions/upload-artifact@v3
       with:
-        name: CodeCoverage
-        path: coverage.opencover.xml
+        name: CoverageReport
+        path: coverage/
 
   package:
     needs: build
