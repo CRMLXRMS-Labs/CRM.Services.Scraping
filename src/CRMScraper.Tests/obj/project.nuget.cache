@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "z0YpXcteRZM=",
+  "dgSpecHash": "JWeJ5DvHShY=",
   "success": true,
   "projectFilePath": "/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Tests/CRMScraper.Tests.csproj",
   "expectedPackageFiles": [
     "/home/kaliuser/.nuget/packages/coverlet.collector/6.0.0/coverlet.collector.6.0.0.nupkg.sha512",
+    "/home/kaliuser/.nuget/packages/htmlagilitypack/1.11.65/htmlagilitypack.1.11.65.nupkg.sha512",
     "/home/kaliuser/.nuget/packages/microsoft.codecoverage/17.8.0/microsoft.codecoverage.17.8.0.nupkg.sha512",
     "/home/kaliuser/.nuget/packages/microsoft.net.test.sdk/17.8.0/microsoft.net.test.sdk.17.8.0.nupkg.sha512",
     "/home/kaliuser/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",

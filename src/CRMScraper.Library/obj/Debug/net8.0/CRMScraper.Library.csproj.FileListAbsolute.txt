@@ -1,0 +1,13 @@
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/bin/Debug/net8.0/CRMScraper.Library.deps.json
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/bin/Debug/net8.0/CRMScraper.Library.dll
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/bin/Debug/net8.0/CRMScraper.Library.pdb
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.csproj.AssemblyReference.cache
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.AssemblyInfoInputs.cache
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.AssemblyInfo.cs
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.csproj.CoreCompileInputs.cache
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.sourcelink.json
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.dll
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/refint/CRMScraper.Library.dll
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/CRMScraper.Library.pdb
+/home/kaliuser/Documents/portfolio/commercial_apps/crmlxrms/scraping_service_library_net/src/CRMScraper.Library/obj/Debug/net8.0/ref/CRMScraper.Library.dll
