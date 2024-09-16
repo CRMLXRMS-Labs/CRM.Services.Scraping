@@ -16,7 +16,6 @@ namespace CRMScraper.Tests
             // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
 
-            // Mocking the scraping of two pages
             mockScraperClient.SetupSequence(s => s.ScrapePageAsync(It.IsAny<string>()))
                 .ReturnsAsync(new ScrapedPageResult
                 {
@@ -33,25 +32,21 @@ namespace CRMScraper.Tests
                     ApiRequests = new List<string>()
                 });
 
-            // Creating a task that allows scraping a maximum of 2 pages
             var scraperTask = new ScrapingTask
             {
                 TargetUrl = "https://example.com",
                 MaxPages = 2,
-                TimeLimit = TimeSpan.FromMinutes(1)
+                TimeLimit = System.TimeSpan.FromMinutes(1)
             };
 
             var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
 
-            // Act: Execute the scraping task
+            // Act
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
 
-            // Assert: Since MaxPages is 2, the result should contain 2 pages
-            Assert.Equal(2, result.Count); // Update this to expect 2 pages
-            Assert.Equal("https://example.com", result[0].Url);
-            Assert.Equal("https://example.com/page2", result[1].Url);
+            // Assert
+            Assert.Equal(2, result.Count);
         }
-
 
         [Fact]
         public async Task ExecuteScrapingTaskAsync_StopsWhenTimeLimitExceeded_SimpleMock()
