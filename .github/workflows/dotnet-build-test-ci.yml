@@ -69,7 +69,7 @@ jobs:
       run: dotnet restore
 
     - name: Pack the project into a NuGet package
-      run: dotnet pack --configuration Release --no-build --output ./nupkgs
+      run: dotnet pack --configuration Release --output ./nupkgs
 
     - name: Upload NuGet package as artifact
       uses: actions/upload-artifact@v3
