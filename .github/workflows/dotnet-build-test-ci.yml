@@ -1,0 +1,86 @@
+name: .NET CI
+
+on:
+  push:
+    branches:
+      - '**'
+  pull_request:
+    branches:
+      - '**'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.x'
+
+    - name: Install Playwright Browsers
+      run: |
+        dotnet tool install --global Microsoft.Playwright.CLI
+        playwright install
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Build the project
+      run: dotnet build --configuration Release --no-restore
+
+    - name: Run tests with coverage
+      run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
+
+    - name: Generate coverage report
+      run: |
+        dotnet tool install --global dotnet-reportgenerator-globaltool
+        reportgenerator -reports:TestResults/**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html
+
+    - name: Upload test results
+      uses: actions/upload-artifact@v3
+      with:
+        name: TestResults
+        path: TestResults/
+
+    - name: Upload coverage report
+      uses: actions/upload-artifact@v3
+      with:
+        name: CoverageReport
+        path: coverage/
+
+  package:
+    if: github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '8.x'
+
+    - name: Restore dependencies
+      run: dotnet restore
+
+    - name: Pack the project into a NuGet package
+      run: dotnet pack --configuration Release --output ./nupkgs
+
+    - name: Add GitHub Package Registry as NuGet source
+      run: dotnet nuget add source --username USERNAME --password ${{ secrets.BOT_ACCESS }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/CRMLXRMS-Labs/index.json"
+
+    - name: Publish the package to GitHub Packages
+      run: |
+        dotnet nuget push ./nupkgs/*.nupkg --source "github" --api-key ${{ secrets.BOT_ACCESS }}
+
+    - name: Upload NuGet package as artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: NuGetPackages
+        path: ./nupkgs

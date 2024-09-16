@@ -1,0 +1,35 @@
+# Ignore bin and obj directories
+bin/
+obj/
+
+# Ignore test results
+TestResults/
+
+# Ignore coverage reports
+coverage/
+coverage.opencover.xml
+coverage.opencover.*
+
+# Ignore IDE-specific files (optional but useful for Visual Studio or JetBrains users)
+.vscode/
+*.csproj.user
+.idea/
+
+# Ignore build artifacts
+*.dll
+*.exe
+*.log
+*.pdb
+
+# Ignore NuGet Packages
+*.nupkg
+.nuget/
+packages/
+
+# Ignore build output
+bin/Debug/
+bin/Release/
+
+# Ignore any lock files or temporary files
+*.lock
+*.tmp

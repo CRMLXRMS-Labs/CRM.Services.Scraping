@@ -1,0 +1,1858 @@
+Scraped URL: https://www.pw.edu.pl/
+HTML Content Preview: <!DOCTYPE html>
+<html lang="pl" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head> 
+    <meta charset="utf-8" />
+<meta name="description" content="Uczelnia, dla ludzi, którzy są #zawszeciekawi" />
+<link rel="shortlink" href="https://www.pw.edu.pl/" />
+<link rel="canonical" href="https://www.pw.edu.pl/" />
+<meta property="og:site_name" content="Politechnika Warszawska" />
+<meta property="og:url" content="https://www.pw.edu.pl/strona-glowna" />
+<meta property="og:title" content="Politechnika Warszawska" />
+<meta property="og:description" content="Uczelnia, dla ludzi, którzy są #zawszeciekawi" />
+<meta property="og:image" content="https://www.pw.edu.pl/sites/default/files/PW-uploads/metatags/gg-1300x630.jpg" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:alt" content="Gmach Główny Politechniki Warszawskiej" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="Uczelnia, dla ludzi, którzy są #zawszeciekawi" />
+<meta name="twitter:title" content="Strona główna" />
+<meta name="twitter:image" content="https://www.pw.edu.pl/sites/default/files/PW-uploads/metatags/gg-1000x1000.jpg" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org); Commerce 2" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favPW.png" type="image/png" />
+
+    <title>Politechnika Warszawska</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_Z7IcQAsE973XA9nbUWBong69t3qejUUIUIsuRvhcQp8.css?delta=0&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&amp;display=swap" />
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Bilbo+Swash+Caps&amp;display=swap" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_42Nw8G5-iLDdKuH0EM1i6HoUDH4ItOMhFKTmnD-ZhgE.css?delta=3&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1" />
+
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/30","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxljmsOwzAIgy_UNUeKSKARGw1TSPq4_aptarf2D4LPtkx8EHLV4iFGLcia3b71Q9FcKWMXVbQEXRzSAE3qDjxn4UzudHcJJgbzT0gUGgtScVfUgxlVO2q-FhPeVIH1SP2gS-pRdEaXRAPIzeq6PZA-0FsLZ8FWqzS6AEbdxDSbe88e7rD8gVGxCb0AnnFx9Q","theme":"krowd_sub","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"colorbox":{"opacity":"0.85","current":"{current} z {total}","previous":"\u00ab Poprzednie","next":"Nast\u0119pne \u00bb","close":"Zamknij","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a":{"view_name":"aktualnosci","view_display_id":"block_2","view_args":"","view_path":"\/node\/30","view_base_path":null,"view_dom_id":"ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a","pager_element":0}}},"user":{"uid":0,"permissionsHash":"13d6d758d18bf9d4232f613b6692205f9b7c27d48aab133a5a6669845b45dfaf"}}</script>
+<script src="/sites/default/files/js/js_EDi-5Ip2LdFQoGg7I09AT-XPdpPRJ1XkyqFix5rBQck.js?scope=header&amp;delta=0&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1"></script>
+
+
+    
+
+          <style class="style-customize">:root { }</style>
+    
+          <style type="text/css">.el-39999640 > .bb-inner{padding-top:30px; padding-bottom:30px}
+.el-90965203 > .bb-inner{padding-top:30px; padding-bottom:30px}
+.el-9159567 > .bb-inner{padding-top:45px; padding-bottom:45px}
+</style>
+    
+          <style type="text/css">
+        .scroll-to-top{bottom: 75px;right: 17px;}.pw-socials-fb{content: url("/sites/default/files/PW-uploads/ikony/fb.svg"); min-width:25px;}.pw-socials-li{content: url("/sites/default/files/PW-uploads/ikony/linkedin.svg"); min-width:25px;}.pw-socials-tw{content: url("/sites/default/files/PW-uploads/ikony/twitter.svg"); min-width:25px;}.pw-socials-in{content: url("/sites/default/files/PW-uploads/ikony/insta.svg"); min-width:25px;}.pw-socials-yt{content: url("/sites/default/files/PW-uploads/ikony/youtube.svg"); min-width:25px;}.pw-socials-tt{content: url("/sites/default/files/PW-uploads/ikony/tiktok.svg"); min-width:25px;}.topbar-social-icons i{vertical-align: middle;}.topbar-social-icons a{opacity: 1 !important;}.topbar-social-icons a:hover{filter: brightness(1.2);}.breadcrumb{padding-bottom: 0px;} .navigation .gva_menu_main > li > a{text-transform: none;}.pw-btn2{padding-right: 33px !important;padding-left: 33px !important;padding-top: 5px;padding-bottom: 1px;margin-top:-10px;margin-bottom: 5px;text-align: center;}input[name="wyszo-combine"] {background-color: #f0f0f0 !important;margin-top:-10px;margin-bottom: 5px;text-align: left;width: 100%;}#edit-title--2{width: 185px;background: white;}body.media table {width: 100%;background-color:#fff;margin-bottom: 20px;border-color: #000;border-width: 1px 0px 1px 0;border-style: solid;} body.media tr:hover {background-color: var(--pw-szary-20);border-left-color: #cfcfcf;border-right-color: #cfcfcf;}body.media div.gallery .obrazek img{object-fit: cover;width: 250px;height: 250px;}body.media .responsive {padding: 0 6px;float: left;width: 24.99999%;}body.media .clearfix:after {content: "";display: table;clear: both;}body.media .overlay {position: absolute;height: 250px;width: 250px;opacity: 0;transition: .5s ease;background-color: #b3cfbc;}body.media .gallery:hover .overlay {opacity: 1;}body.media .tekst {color: var(--pw-szary-90);font-size: 14px;position: absolute;top: 50%;left: 50%;-webkit-transform: translate(-50%, -50%);-ms-transform: translate(-50%, -50%);transform: translate(-50%, -50%);text-align: left;}body.media div.tekst table{width: 100%;border-left-width: 0px ;border-right-width: 0px;background-color:#b3cfbc;border-top-color: #000;border-bottom-color: #000;margin-bottom: 20px;align-content: center; }.topbar-right .btn {padding: 10px 18px;border-radius: 0;box-shadow: none;}.topbar-right .btn span.sr-only {position: absolute}.topbar-right .btn::after {content: none; display: none;}.topbar {padding:0}.epw-container {background-color: #002949;}.epw-menu-title {font-size: 20pt;color: #fff;background-image: url("/themes/custom/krowd_sub/images/EPW-02.svg");background-repeat: no-repeat;background-position: left center;background-size: 2.5em auto;margin-left: -15px;padding-left: 80px;}.epw-menu-title .epw-title-accent {color: #84aece;}ul#epw-nav {padding-left:0;gap: 28px 35px;color: #000;}#epw-nav li {max-width: 280px;min-width: 227px;min-height: 150px;list-style-type: none;background-size: contain;background-position: left top;background-repeat: no-repeat;}@media screen and (min-width: 992px) {#epw-nav li {min-height: 125px;}}#epw-nav li a {opacity: 0;display: block;width: 100%;height: 100%;background-image: url("/themes/custom/krowd_sub/images/strz_kreska.svg");background-repeat: no-repeat;background-position: left 86%;background-size: 1.6em;}#epw-nav li:hover a {transition: opacity 0.2s ease-in;opacity: 1;color: #000;} #epw-nav li a p {font-size: 0.9em;line-height: 1.1em;}#epw-nav li:hover {background-image: none;background-color: #84aece;}#epw-nav .epw-intranet-lnk {background-image: url("/themes/custom/krowd_sub/images/epw-intranet.png");}#epw-nav .epw-usosweb-lnk {background-image: url("/themes/custom/krowd_sub/images/epw-usosweb.png");}#epw-nav .epw-leon-lnk {background-image: url("/themes/custom/krowd_sub/images/epw-leon.png");}#epw-nav .epw-sap-lnk {background-image: url("/themes/custom/krowd_sub/images/epw-sap.png");}#epw-nav .epw-webmail-lnk {background-image: url("/themes/custom/krowd_sub/images/epw-webmail.png");}#epw-nav .epw-repo-lnk {background-image: url("/themes/custom/krowd_sub/images/epw-repo.png");}#epw-nav .epw-ezd-lnk {background-image: url("/themes/custom/krowd_sub/images/epw-ezd.png");}.ue-info-container {background-color: #f0f0f0;}#pw-extra-links li {display: flex;align-items: stretch;}#pw-extra-links li a, #pw-extra-links li button{display: flex;align-items: center;} #pw-extra-links a:hover, #pw-extra-links button.collapsed:hover {background-color: #1e6688;}#pw-extra-links .epw-switch.collapsed {background-color: var(--topbar-bg-color);background-image: none;min-width: 75px;}#pw-extra-links .epw-switch.collapsed img {scale: 64%;}.epw-switch, .epw-switch:hover {min-width: 75px;background-color: #002949;background-image: url("/themes/custom/krowd_sub/images/krzyzyk.png");background-repeat: no-repeat;background-position: center center;}.epw-switch.collapsed img, .ue-switch.collapsed img {visibility: visible;}.epw-switch img, .ue-switch img {visibility: hidden;}#pw-extra-links a.engpw-lnk img{scale: 77%;}#pw-extra-links a.engpw-lnk{padding: 0 8px;}#pw-extra-links a.bip-lnk {padding: 0 18px;}#pw-extra-links a.bip-lnk img{scale: 95%;;}#pw-extra-links .search-lnk {padding: 12px 20px;}#pw-extra-links .ue-switch.collapsed {background-color: var(--topbar-bg-color);background-image: none;}#pw-extra-links .ue-switch.collapsed img{scale: 90%;}.ue-switch, .ue-switch:hover {background-color: #f0f0f0;background-image: url("/themes/custom/krowd_sub/images/krzyzyk_blk.png");background-repeat: no-repeat;background-position: center center;}a:hover {}ol ul, ul ul {list-style-type: disc;}a{color: inherit;text-decoration: inherit;}
+      </style>
+    
+  </head>
+
+  
+      
+    
+  <body class="hidden-title gavias-pagebuilder layout-no-sidebars wide not-preloader frontpage node--type-page bg-white">
+    <a href="#main-content" class="visually-hidden focusable">
+      Przejdź do treści
+    </a>
+
+      
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="body-page gva-body-page">
+   <header id="header" class="header-default header-v">
+    
+            
+
+  <div class="topbar">
+  	<div class="container">
+	 	<div class="row">
+			<div class="col-12">
+		  		<div class="topbar-content"> 
+				 							<div class="topbar-left">
+					  		  <div>
+      <div id="block-krowd-sub-gaviascontentbuildergbbtopbar" class="block block-gavias-pagebuilder block-gavias-pagebuilder-blockgavias-pagebuilder-block____5 no-title">
+  
+    
+      <div class="content block-content">
+      <div class="gavias-blockbuilder-content">
+   
+  
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row   bg-size-cover el-53497166  "  style="" >
+					<div class="bb-inner py-0 default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-69000568 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				           <ul class="widget gsc-socials topbar-social-icons style-1" style="display:flex; list-style:none;">
+                                                            <li><a href="http://www.facebook.com/politechnika.warszawska" title="Przejdź na Facebook"><i class="pw-socials-fb"></i></a></li>
+                                                                           <li><a href="http://instagram.com/politechnika_warszawska" title="Przejdź na Instagram"><i class="pw-socials-in"></i></a></li>
+                                                                           <li><a href="http://twitter.com/PW_edu" title="Przejdź na X, dawniej Twitter"><i class="pw-socials-tw"></i></a></li>
+                                                                           <li><a href="https://pl.linkedin.com/edu/politechnika-warszawska-15980" title="Przejdź na LinkenIn"><i class="pw-socials-li"></i></a></li>
+                                                                           <li><a href="https://www.youtube.com/channel/UCCXBvkV8M7t-3k6Pd5j82aQ" title="Przejdź na Youtube"><i class="pw-socials-yt"></i></a></li>
+                                                                           <li><a href="https://www.tiktok.com/@politechnikawaw" title="Przejdź na TikTok"><i class="pw-socials-tt"></i></a></li>
+                                                                                                                                                                                                                  </ul>
+         				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				  
+ </div> 
+
+    </div>
+  </div>
+
+  </div>
+  
+						</div>                                              
+				 				 
+				 	<div class="topbar-right">
+																								<ul id="pw-extra-links" class="d-flex justify-content-end align-items-stretch">
+							<li><a href="https://eng.pw.edu.pl" class="engpw-lnk" title="English version"><img src="/themes/custom/krowd_sub/images/en.png" alt="" /></a></li>
+							<li><a href="https://www.bip.pw.edu.pl" class="bip-lnk" title="Biuletyn Informacji Publicznej PW"><img src="/themes/custom/krowd_sub/images/bippw.png" alt="" /></a></li>
+							<li><button class="btn epw-switch collapsed" type="button" data-toggle="collapse" data-target="#epw-nav-container" aria-expanded="false" aria-controls="epw-nav-container" title="Menu Elektronicznej Politechniki Warszawskiej"><span class="sr-only">Menu Elektronicznej Politechniki Warszawskiej</span><img src="/themes/custom/krowd_sub/images/EPW-02.png" alt="Rozwijane" /></button></li>
+															<li><a href="/search" class="search-lnk" title="Szukaj"><img src="/themes/custom/krowd_sub/images/lupka.png" alt="" /></a></li>
+								  
+							 
+														<li><button class="btn ue-switch collapsed" type="button" data-toggle="collapse" data-target="#ue-info-container" aria-expanded="false" aria-controls="ue-info-container" title="Informacja o finansowaniu projektu strony"><span class="sr-only">Informacja o finansowaniu projektu strony</span><img src="/themes/custom/krowd_sub/images/ue.png" alt="Rozwiń" /></button></li>
+				 		</ul>
+					</div>
+
+		  		</div>
+			</div>
+	 	</div>
+  	</div> 
+</div>
+  <div id="extramenu">
+    <div class="epw-container w-100 collapse" id="epw-nav-container" data-parent="#extramenu"> <!-- ue info collapsible -->
+        <div class="container pt-3">
+        <p class="epw-menu-title">Elektroniczna <span class="epw-title-accent">Politechnika Warszawska</span></p>
+            <div class="row justify-content-center justify-content-lg-center pb-4">
+                <div class="col-10 col-sm-12">
+                    <ul id="epw-nav" class="row row-cols-1 row-cols-sm-2 row-cols-lg-5 justify-content-center justify-content-sm-start">
+                        <li class="col epw-intranet-lnk pt-2"><a href="https://intranet.pw.edu.pl"><span class="h3">Intranet</span><p>Platforma komunikacji wewnętrznej</p></a></li>
+                        <li class="col epw-usosweb-lnk pt-2"><a href="https://usosweb.usos.pw.edu.pl"><span class="h3">USOSweb</span><p>Uczelniany system obsługi studiów</p></a></li>
+                        <li class="col epw-leon-lnk pt-2"><a href="https://leon.pw.edu.pl/"><span class="h3">LeOn</span><p>Uczelniana platforma nauczania zdalnego</p></a></li>
+                        <li class="col epw-sap-lnk pt-2"><a href="https://portal.sap.pw.edu.pl"><span class="h3">SAP</span><p>Uczelniany portal pracowniczy</p></a></li>
+                        <li class="col epw-webmail-lnk pt-2"><a href="https://webmail.pw.edu.pl"><span class="h3">Webmail</span><p>Elektroniczna poczta dla pracowników</p></a></li>
+                        <li class="col epw-repo-lnk pt-2"><a href="https://repo.pw.edu.pl"><span class="h3">REPO</span><p>Portal zarządzania wiedzą i potencjałem badawczym</p></a></li>
+                        <li class="col epw-ezd-lnk pt-2"><a href="https://ezd.pw.edu.pl/"><span class="h3">EZD</span><p>Elektroniczne Zarządzanie Dokumentami</p></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="ue-info-container w-100 collapse" id="ue-info-container" data-parent="#extramenu"> <!-- use info collapsible -->
+        <div class="container py-5">
+            <p>Strona www.pw.edu.pl powstała w ramach projektu „Politechnika Warszawska Ambasadorem Innowacji na Rzecz Dostępności”, finansowanego ze środków Programu Operacyjnego Wiedza Edukacja Rozwój (PO WER 2014-2020).</p>
+            <img class="finansowanie-ue" src="/themes/custom/krowd_sub/images/UE1.png" alt="Logo Programu Operacyjnego Wiedza Edukacja Rozwój" />
+        </div>
+    </div>
+    
+</div>
+  
+  <div class="header-main">
+    <div class=" header-content-layout gv-sticky-menu">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+            <div class="header-main-inner p-relative">         
+              <div class="header-inner clearfix"> 
+                
+                                  <div class="branding">                    
+                      <div>
+    
+      <a href="/" title="Strona główna" rel="home" class="site-branding-logo">
+        
+        <img src="/sites/default/files/logo.png" alt="Strona główna" />
+        
+    </a> 
+        <div class="site-branding__text sr-only">
+              <div class="site-branding__name">
+          <a href="/" title="Strona główna" rel="home">Politechnika Warszawska</a>
+        </div>
+                </div>
+  
+  </div>
+                    
+                  </div>
+                
+                <div class="main-menu">
+                  <div class="area-main-menu">
+                    <div class="area-inner">
+                        <div class="header-menu">
+                          <div class="gva-offcanvas-mobile">
+                            <div class="close-offcanvas d-none"><i class="gv-icon-8"></i></div>
+                            <div class="main-menu-inner">
+                                                                <div>
+    <nav aria-labelledby="block-krowd-sub-main-menu-menu" id="block-krowd-sub-main-menu" class="block block-menu navigation menu--main">
+          
+  
+  <h1  class="visually-hidden block-title block-title" id="block-krowd-sub-main-menu-menu"><span>Główna nawigacja</span></h1>
+  
+  <div class="block-content">
+                 
+<div class="gva-navigation">
+
+              <ul  class="clearfix gva_menu gva_menu_main">
+      
+                              
+            <li  class="menu-item menu-item--expanded ">
+        <a href="/uczelnia/terazniejszosc">          Uczelnia<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/uczelnia/terazniejszosc">          O nas        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uczelnia/terazniejszosc#wydzialy">          Wydziały        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uczelnia/terazniejszosc#wladze">          Władze Uczelni        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uczelnia/przeszlosc">          Historia        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/uczelnia/przyszlosc">          Wizja        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item menu-item--expanded ">
+        <a href="/studia">          Studia<span class="icaret nav-plus fas fa-chevron-down"></span>        </a>
+          
+                      <ul class="menu sub-menu">
+                              
+            <li  class="menu-item">
+        <a href="/studia/studia-i-stopnia">          Studia I stopnia        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/studia/studia-ii-stopnia">          Studia II stopnia        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/studia/doktorat">          Doktorat        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/studia/studia-podyplomowe">          Podyplomowe        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/studia/kursy">          Kursy        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/studia#rekrutacja">          Rekrutacja        </a>
+          
+              </li>
+                          
+            <li  class="menu-item">
+        <a href="/studia#zyciestudenckie">          Życie studenckie i doktoranckie        </a>
+          
+              </li>
+        </ul>
+        </li>
+                          
+            <li  class="menu-item ">
+        <a href="/badania">          Badania        </a>
+          
+              </li>
+                          
+            <li  class="menu-item ">
+        <a href="/kampus">          Kampus        </a>
+          
+              </li>
+                          
+            <li  class="menu-item ">
+        <a href="/sukcesy">          Sukcesy        </a>
+          
+              </li>
+        </ul>
+  
+
+</div>
+
+
+        </div>  
+</nav>
+
+  </div>
+
+                                                          </div>
+                                                          <div class="after-offcanvas d-none">
+                                  <div>
+    <div class="search-block-form block block-search container-inline" data-drupal-selector="search-block-form" id="block-krowd-sub-search-form-narrow" role="search">
+  
+    
+      <form action="/search/node" method="get" id="search-block-form" accept-charset="UTF-8" class="search-form search-block-form">
+  <div class="js-form-item form-item js-form-type-search form-item-keys js-form-item-keys form-no-label" data-content="Szukaj">
+      <label for="edit-keys" class="visually-hidden">Szukaj</label>
+        <input title="Wprowadź słowa, które mają zostać wyszukane." data-drupal-selector="edit-keys" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" class="form-search" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="search-form__submit button js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Szukaj" />
+</div>
+
+</form>
+
+  </div>
+
+  </div>
+
+                              </div>
+                                                         
+                          </div>
+                          
+                          <div id="menu-bar" class="menu-bar">
+                            <span class="one"></span>
+                            <span class="two"></span>
+                            <span class="three"></span>
+                          </div>
+                        </div>
+                    </div>
+                  </div>
+                </div> 
+                              </div>  
+            </div> 
+          </div>
+        </div>
+      </div>
+    </div>      
+  </div>
+
+</header>
+	
+	
+	<div role="main" class="main main-page">
+	
+					<div class="clearfix"></div>
+			<div class="help gav-help-region">
+				<div class="container">
+					<div class="content-inner">
+						  <div>
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+					</div>
+				</div>
+			</div>
+				
+				
+		<div class="clearfix"></div>
+		
+		<div id="content" class="content content-full">
+			<div class="container-full">
+				<div class="content-main-inner">
+	<div id="page-main-content" class="main-content">
+		<div class="main-content-inner">
+		
+							<div class="content-main">
+					  <div>
+      <div id="block-krowd-sub-content" class="block block-system block-system-main-block no-title">
+  
+    
+      <div class="content block-content">
+      
+
+<!-- Start basic page full display -->
+
+<article data-history-node-id="30" class="node node--type-page node--view-mode-full">
+
+        <div class="gpb">
+    <div class="gavias-builder--content">
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row   bg-size-cover el-40229804  "  style="background-image:url('/sites/default/files/FN2024.jpg'); background-repeat:no-repeat; background-position:center center" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-25490543 col-xl-5 col-lg-6 col-md-7 col-sm-12 col-xs-12 mr-auto  " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  <div style=" " class="custom-text text-white topinfo-bg-granatowy py-5 px-4 px-sm-5  box-margin-0" ><h2 class="pw-title-big-1 mb-5 mt-0"><a href="/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie">Festiwal Nauki 2024</a></h2>
+<p>Warsztaty, pokazy, wykłady, debaty, oglądanie laboratori&oacute;w i testowanie urządzeń badawczych &ndash; zachęcamy do korzystania z festiwalowych atrakcji z udziałem naszych ekspert&oacute;w i przez nich przygotowanych. Wydarzenie trwa od 20 do 29 września.</p>
+<p class="mt-5"><a class="pw-link" href="/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie">Sprawdź program</a></p></div>				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				
+				
+				
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row  bg-pw-szary-10 bg-size-cover el-9673744  "  style="" >
+					<div class="bb-inner py-0 default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-59405087 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				              <div  class="widget pw-teaser-medium row opacity-0 type-short text-black  wow fadeInUp" >
+               <div class="image-column col-12 col-md-6 col-lg-5 pt-5 pt-md-4 pb-3 py-lg-0 mt-md-1 mt-lg-0 pr-lg-3 pr-xl-5">
+                                       <div class="image-wrapper">
+                        <img src="https://www.pw.edu.pl/sites/default/files/zawszeciekawi_budowa_gg_jasny_szary.png" alt="Grafika przedstawiająca zwieńczenie Gmachu Głównego PW oraz cyfrę 2">   
+                     </div>
+                                 </div>
+
+               <div class="dummy-column col-1 d-none d-lg-block"></div>
+
+               <div class="text-column col-12 col-md-6 d-flex flex-column  justify-content-center pt-4 pb-5 py-md-4">
+                                       <h2 class="pw-title-medium-1 border-bottom border-black mt-0 mb-3 pb-2"><span class="font-size-1-1">#</span>ZAWSZECIEKAWI</h2>
+                                                      <div class="opis"><p>Nasz Gmach Gł&oacute;wny uważany jest za jeden z najpiękniejszych i najbardziej charakterystycznych budynk&oacute;w w Warszawie. Został zbudowany na przełomie XIX i XX wieku, w niecałe 2 lata, co, nawet patrząc z dzisiejszej perspektywy, trzeba uznać za wielkie osiągnięcie.</p></div>
+                                       <div class="link-wrapper pt-4">
+                        <a class="pw-link text-black" target="_self" href="/kampus/gmach-glowny" >Poznaj ten budynek<span class="sr-only"> - </span></a>
+                     </div>
+                                 </div>
+            </div>
+         				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row   bg-size-cover el-81286881 bg-white "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-38422254 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  		   <div class="widget gsc-heading pb-0 mb-3 style-pw-light-1 left "  >
+			 <div class="d-flex justify-content-between align-items-end border-bottom pb-2 mb-2 border-dark">
+				
+				<div class="heading-content clearfix">
+				   				                        <a class="" href="/aktualnosci">
+                     <h2 class="title pw-title-big-1 text-dark" >
+                        <span>Aktualności</span>
+                     </h2>
+                     </a>
+               
+				           
+				</div>
+				
+									<div class="d-flex align-items-center mb-1">
+						<a class="ml-3 pw-link-right text-dark" href="/aktualnosci">Więcej<span class="sr-only"> - Aktualności</span></a>
+				    </div>
+				
+			 </div>
+		   </div>
+		          <div class="clearfix"></div>
+         				</div>  
+			</div>
+		  
+		 </div>
+				<div  class="gsc-column el-65578157 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  <div><div  class="widget block clearfix gsc-block-view  gsc-block-drupal block-view title-align-left  text-dark remove-margin-off" ><div class="views-element-container"><div class="gva-view js-view-dom-id-ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a">
+  
+  
+  
+
+  
+  
+  
+
+  <!-- Start grid view -->
+
+
+
+<div class="gva-view-grid" > 
+
+
+
+
+
+
+  
+  <div class="gva-view-grid-inner lg-block-grid-3 md-block-grid-3 sm-block-grid-2 xs-block-grid-1 d-flex flex-wrap mx-n4">
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3119" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/05.25.24_Drzwi_Otwarte_364_1920x1080.jpg?itok=KKfbda9H" alt="Na zdjęciu grupa osób przy stanowisku Wydziału podczas Drzwi Otwartych PW" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia" rel="bookmark">
+<span>Wyniki trzeciej tury rekrutacji na studia stacjonarne I stopnia</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Informacje są dostępne na indywidualnych kontach kandydatów w systemie IRK. Dla osób zakwalifikowanych mamy ważne wiadomości – czekamy na Wasze dokumenty – złóżcie je w terminach i w miejscach wskazanych przez poszczególne Wydziały.</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia">Zobacz więcej<span class="sr-only"> - 
+<span>Wyniki trzeciej tury rekrutacji na studia stacjonarne I stopnia</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3116" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/zawszeciekawi_1920x1080-02%20%282%29.png?itok=NftMbBbi" alt="Grafika przedstawiająca rysunek mózgu i napis #zawszeciekawi" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024" rel="bookmark">
+<span>Spotkajmy się na Warszawskim Salonie Maturzystów 2024</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Co warto wiedzieć o Politechnice Warszawskiej? Jakie mamy kierunki i jak się na nie dostać? Na te i inne pytania będziemy odpowiadać 26 i 27 września podczas wydarzenia w Szkole Głównej Handlowej.</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024">Zobacz więcej<span class="sr-only"> - 
+<span>Spotkajmy się na Warszawskim Salonie Maturzystów 2024</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3080" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-08/graf%20na%20wykl.png?itok=ytk_wB2P" alt="Na zdjęciu prof. Frances Arnold oraz prof. Jeffrey Hoffman" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw" rel="bookmark">
+<span>Laureatka Nagrody Nobla z chemii i astronauta NASA z wykładami na PW</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Prof. Frances Arnold – nagrodzona Noblem w 2018 roku oraz prof. Jeffrey Hoffman, który ma za sobą kilka lotów w przestrzeń kosmiczną, odwiedzają we wrześniu Politechnikę Warszawską i wygłoszą tu otwarte wykłady. Zapraszamy!</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw">Zobacz więcej<span class="sr-only"> - 
+<span>Laureatka Nagrody Nobla z chemii i astronauta NASA z wykładami na PW</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3112" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/nowi-przewodniczacy-komisji-krasp"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/Projekt%20bez%20nazwy%281%29.png?itok=OGhU7Uus" alt="Nowi przewodniczący Komisji KRASP" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/nowi-przewodniczacy-komisji-krasp" rel="bookmark">
+<span>Nowi przewodniczący Komisji KRASP</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Podczas pierwszego posiedzenia Prezydium IX kadencji KRASP wyłoniono nowy skład przewodniczących komisji stałych na najbliższą czteroletnią kadencję. Prof. Krzysztof Zaremba, rektor PW, objął stanowisko Przewodniczącego Komisji ds. Infrastruktury Informatycznej.</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/nowi-przewodniczacy-komisji-krasp">Zobacz więcej<span class="sr-only"> - 
+<span>Nowi przewodniczący Komisji KRASP</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3111" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/promocja-pw-w-dolinie-krzemowej"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/1726060229910_1080.jpg?itok=LCgcDNs9" alt="Na zdjęciu uczestnicy uroczystości podpisania porozumienia z Sillicon Valey Center for Science" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/promocja-pw-w-dolinie-krzemowej" rel="bookmark">
+<span>Promocja PW w Dolinie Krzemowej</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Politechnika Warszawska wraz z 7 innymi polskimi uczelniami podpisała umowę o współpracy z Poland in Silicon Valley Center for Science, Innovation, and Entrepreneurship. Współpraca skupi się wokół wzmacniania współpracy między ośrodkami naukowymi i przemysłowymi, komercjalizacji rezultatów badań oraz promocji nauki.</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/promocja-pw-w-dolinie-krzemowej">Zobacz więcej<span class="sr-only"> - 
+<span>Promocja PW w Dolinie Krzemowej</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3113" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/Projekt%20bez%20nazwy%282%29.png?itok=aaRNnXhE" alt="Na zdjęciu dziecko przed komputerem" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google" rel="bookmark">
+<span>Innowacyjna aplikacja MindEasy w konkursie Google</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Klara Skorupowska i Julia Nogowska – studentki Politechniki Warszawskiej – należą do zespołu projektowego, który stworzył aplikację MindEasy, pozwalającą dopasować poziom materiałów edukacyjnych do aktualnego stanu psychofizycznego ucznia. Aplikacja bierze udział w konkursie Google Gemini API Developer Competition – głosowanie trwa do końca października!</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google">Zobacz więcej<span class="sr-only"> - 
+<span>Innowacyjna aplikacja MindEasy w konkursie Google</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
+      </div>
+    
+</div>
+<!-- end grid view -->
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+</div></div>				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row  bg-black bg-size-cover el-39999640 bg-dark py-5 "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-20373956 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				              <div  class="widget pw-teaser-medium row opacity-0 type-std text-white  wow fadeInUp" >
+               <div class="image-column col-12 col-md-6 mb-5 mb-md-0 order-md-2">
+                                       <div class="image-wrapper">
+                        <img src="https://www.pw.edu.pl/sites/default/files/Projekt%20bez%20nazwy_0_0.jpg" alt="Na zdjęciu model nerki">   
+                     </div>
+                                 </div>
+
+               <div class="dummy-column d-none"></div>
+
+               <div class="text-column col-12 col-md-6 d-flex flex-column order-md-1 pr-lg-3 pr-xl-5 justify-content-start">
+                                       <h2 class="pw-title-medium-1 border-bottom border-white mt-0 mb-4 mb-lg-5 pb-1">Osiągnięcia</h2>
+                                                         <a class="" target="_self" href="/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw">
+                        <h1 class="pw-title-big-1 mb-4 mb-lg-5 mt-0">Przełomowa operacja nerki dzięki badaczom z PW</h1>
+                     </a>
+                                       <div class="opis"><p><!-- [if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG></o:AllowPNG>
+ </o:OfficeDocumentSettings>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves></w:TrackMoves>
+  <w:TrackFormatting></w:TrackFormatting>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning></w:PunctuationKerning>
+  <w:ValidateAgainstSchemas></w:ValidateAgainstSchemas>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF></w:DoNotPromoteQF>
+  <w:LidThemeOther>PL</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables></w:BreakWrappedTables>
+   <w:SnapToGridInCell></w:SnapToGridInCell>
+   <w:WrapTextWithPunct></w:WrapTextWithPunct>
+   <w:UseAsianBreakRules></w:UseAsianBreakRules>
+   <w:DontGrowAutofit></w:DontGrowAutofit>
+   <w:SplitPgBreakAndParaMark></w:SplitPgBreakAndParaMark>
+   <w:EnableOpenTypeKerning></w:EnableOpenTypeKerning>
+   <w:DontFlipMirrorIndents></w:DontFlipMirrorIndents>
+   <w:OverrideTableStyleHps></w:OverrideTableStyleHps>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"></m:mathFont>
+   <m:brkBin m:val="before"></m:brkBin>
+   <m:brkBinSub m:val="--"></m:brkBinSub>
+   <m:smallFrac m:val="off"></m:smallFrac>
+   <m:dispDef></m:dispDef>
+   <m:lMargin m:val="0"></m:lMargin>
+   <m:rMargin m:val="0"></m:rMargin>
+   <m:defJc m:val="centerGroup"></m:defJc>
+   <m:wrapIndent m:val="1440"></m:wrapIndent>
+   <m:intLim m:val="subSup"></m:intLim>
+   <m:naryLim m:val="undOvr"></m:naryLim>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!-- [if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="371">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"></w:LsdException>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"></w:LsdException>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"></w:LsdException>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"></w:LsdException>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"></w:LsdException>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"></w:LsdException>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"></w:LsdException>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"></w:LsdException>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"></w:LsdException>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"></w:LsdException>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"></w:LsdException>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"></w:LsdException>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"></w:LsdException>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"></w:LsdException>
+ </w:LatentStyles>
+</xml><![endif]--><!-- [if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:Standardowy;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:8.0pt;
+	mso-para-margin-left:0cm;
+	line-height:107%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]--></p>
+<p>Dzięki rozwiązaniu, opracowanemu przez naszych naukowc&oacute;w, możliwa była operacja przeszczepu nerki u świni, kt&oacute;rej narząd był przechowywany poza organizmem dawcy przez 12 godzin. Nowatorski system składa się ze specjalnego płynu, a także urządzenia pompującego i kontrolującego jego parametry.</p></div>
+                                       <div class="link-wrapper mt-auto pt-4 pt-lg-5">
+                        <a class="pw-link text-white" target="_self" href="/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw" >Poznaj szczegóły<span class="sr-only"> - Przełomowa operacja nerki dzięki badaczom z PW</span></a>
+                     </div>
+                                 </div>
+            </div>
+         				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row  bg-pw-szary-10 bg-size-cover el-90965203 py-5 overflow-hidden "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-75064777 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				              <div  class="widget pw-teaser-medium row opacity-0 type-std text-black  wow fadeInUp" >
+               <div class="image-column col-12 col-md-6 mb-5 mb-md-0 ">
+                                       <div class="image-wrapper">
+                        <img src="https://www.pw.edu.pl/sites/default/files/451018248_886682110154079_2145355185752481609_n.jpg" alt="Na zdjęciu wnętrze Welcome Pointu na Politechnice Warszawskiej">   
+                     </div>
+                                 </div>
+
+               <div class="dummy-column d-none"></div>
+
+               <div class="text-column col-12 col-md-6 d-flex flex-column pl-lg-3 pl-xl-5 justify-content-start">
+                                       <h2 class="pw-title-medium-1 border-bottom border-black mt-0 mb-4 mb-lg-5 pb-1">Umiędzynarodowienie</h2>
+                                                         <a class="" target="_self" href="/aktualnosci/welcome-point-na-politechnice-warszawskiej">
+                        <h1 class="pw-title-big-1 mb-4 mb-lg-5 mt-0">Welcome Point na PW</h1>
+                     </a>
+                                       <div class="opis"><p>W naszym Gmachu Gł&oacute;wnym powstała nowa jednostka, kt&oacute;ra zapewnia obsługę zagranicznych student&oacute;w, doktorant&oacute;w i pracownik&oacute;w oraz gości. Udziela wsparcia przede wszystkim w sprawach związanych z pobytem w Polsce. Zapraszamy do kontaktu!</p></div>
+                                       <div class="link-wrapper mt-auto pt-4 pt-lg-5">
+                        <a class="pw-link text-black" target="_self" href="/aktualnosci/welcome-point-na-politechnice-warszawskiej" >Dowiedz się więcej<span class="sr-only"> - Welcome Point na PW</span></a>
+                     </div>
+                                 </div>
+            </div>
+         				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row   bg-size-cover el-70288741  "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-12218618 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  		   <div class="widget gsc-heading  style-pw-light-1 left "  >
+			 <div class="d-flex justify-content-between align-items-end border-bottom pb-2 mb-2 border-dark">
+				
+				<div class="heading-content clearfix">
+				   				                        <a class="" href="/wydarzenia">
+                     <h2 class="title pw-title-big-1 text-dark" >
+                        <span>Wydarzenia</span>
+                     </h2>
+                     </a>
+               
+				           
+				</div>
+				
+									<div class="d-flex align-items-center mb-1">
+						<a class="ml-3 pw-link-right text-dark" href="/wydarzenia">Całe kalendarium<span class="sr-only"> - Wydarzenia</span></a>
+				    </div>
+				
+			 </div>
+		   </div>
+		          <div class="clearfix"></div>
+         				</div>  
+			</div>
+		  
+		 </div>
+				<div  class="gsc-column el-93368381 col-xl-12 col-lg-8 col-md-10 col-sm-12 col-xs-12 mx-auto  " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  <div><div  class="widget block clearfix gsc-block-view  gsc-block-drupal block-view title-align-left px-5 px-xs-0 text-dark remove-margin-off" ><div class="views-element-container"><div class="gva-view js-view-dom-id-d1eb2c04a4dc2560e38fdc23ec1139626625571436097eedfca9b56baabcd615">
+  
+  
+  
+
+  
+  
+  
+
+  <!-- Start grid view -->
+
+
+
+<div class="gva-view-grid" > 
+
+
+
+
+  
+
+  
+  <div class="gva-view-grid-inner lg-block-grid-4 md-block-grid-2 sm-block-grid-2 xs-block-grid-2 d-flex flex-wrap ">
+                 
+                                  <div class="item-columns mb-4 d-flex align-items-stretch ">
+          
+
+<!-- Start wydarzenie teaser display -->
+<article data-history-node-id="3034" class="node node--type-wydarzenie node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+    <div class="post-block post-style-1 w-100 d-flex flex-column mb-0">
+        <div class="post-content px-0 py-0 w-100 flex-grow-1 d-flex align-items-stretch">
+            <div class="content-inner w-100 mw-100 px-3 pt-2 pb-4 d-flex flex-column  bg-pw-szary-20">
+                <div class="wydarzenie-data d-flex align-items-start mb-3">
+                  <h2 class="dzien h1 my-0 pr-2 text-pw-granatowy font-alegreya-sans">12.07</h2>
+                  <p class="mb-0 ml-2 godzina"><small>godz. 09:00</small></p>
+                </div>
+                <h2 class="post-title fw-500 pb-2 mh-4em"><a href="/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim" rel="bookmark">
+<span>Wystawa „Politechnika w Powstaniu Warszawskim”</span>
+</a></h2>
+                <div class="wydarzenie-belka mt-auto mb-3"></div>
+                <div class="more">
+                  <a class="pw-link d-block" href="/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim">Zobacz więcej<span class="sr-only"> - 
+<span>Wystawa „Politechnika w Powstaniu Warszawskim”</span>
+</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!-- end wydarzenie teaser display -->    
+        </div>
+                 
+                                  <div class="item-columns mb-4 d-flex align-items-stretch ">
+          
+
+<!-- Start wydarzenie teaser display -->
+<article data-history-node-id="3073" class="node node--type-wydarzenie node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+    <div class="post-block post-style-1 w-100 d-flex flex-column mb-0">
+        <div class="post-content px-0 py-0 w-100 flex-grow-1 d-flex align-items-stretch">
+            <div class="content-inner w-100 mw-100 px-3 pt-2 pb-4 d-flex flex-column  bg-pw-szary-20">
+                <div class="wydarzenie-data d-flex align-items-start mb-3">
+                  <h2 class="dzien h1 my-0 pr-2 text-pw-granatowy font-alegreya-sans">16.09</h2>
+                  <p class="mb-0 ml-2 godzina"><small>godz. 07:30</small></p>
+                </div>
+                <h2 class="post-title fw-500 pb-2 mh-4em"><a href="/wydarzenia/fall-meeting-european-materials-research-society" rel="bookmark">
+<span>Fall Meeting of the European Materials Research Society</span>
+</a></h2>
+                <div class="wydarzenie-belka mt-auto mb-3"></div>
+                <div class="more">
+                  <a class="pw-link d-block" href="/wydarzenia/fall-meeting-european-materials-research-society">Zobacz więcej<span class="sr-only"> - 
+<span>Fall Meeting of the European Materials Research Society</span>
+</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!-- end wydarzenie teaser display -->    
+        </div>
+                 
+                                  <div class="item-columns mb-4 d-flex align-items-stretch ">
+          
+
+<!-- Start wydarzenie teaser display -->
+<article data-history-node-id="3086" class="node node--type-wydarzenie node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+    <div class="post-block post-style-1 w-100 d-flex flex-column mb-0">
+        <div class="post-content px-0 py-0 w-100 flex-grow-1 d-flex align-items-stretch">
+            <div class="content-inner w-100 mw-100 px-3 pt-2 pb-4 d-flex flex-column  bg-pw-szary-20">
+                <div class="wydarzenie-data d-flex align-items-start mb-3">
+                  <h2 class="dzien h1 my-0 pr-2 text-pw-granatowy font-alegreya-sans">17.09</h2>
+                  <p class="mb-0 ml-2 godzina"><small>godz. 17:00</small></p>
+                </div>
+                <h2 class="post-title fw-500 pb-2 mh-4em"><a href="/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii" rel="bookmark">
+<span>Wykład otwarty prof. Frances Arnold – laureatki Nagrody Nobla z chemii</span>
+</a></h2>
+                <div class="wydarzenie-belka mt-auto mb-3"></div>
+                <div class="more">
+                  <a class="pw-link d-block" href="/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii">Zobacz więcej<span class="sr-only"> - 
+<span>Wykład otwarty prof. Frances Arnold – laureatki Nagrody Nobla z chemii</span>
+</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!-- end wydarzenie teaser display -->    
+        </div>
+                 
+                                  <div class="item-columns mb-4 d-flex align-items-stretch ">
+          
+
+<!-- Start wydarzenie teaser display -->
+<article data-history-node-id="1355" class="node node--type-wydarzenie node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+    <div class="post-block post-style-1 w-100 d-flex flex-column mb-0">
+        <div class="post-content px-0 py-0 w-100 flex-grow-1 d-flex align-items-stretch">
+            <div class="content-inner w-100 mw-100 px-3 pt-2 pb-4 d-flex flex-column  bg-pw-szary-20">
+                <div class="wydarzenie-data d-flex align-items-start mb-3">
+                  <h2 class="dzien h1 my-0 pr-2 text-pw-granatowy font-alegreya-sans">18.09</h2>
+                  <p class="mb-0 ml-2 godzina"><small>godz. 08:00</small></p>
+                </div>
+                <h2 class="post-title fw-500 pb-2 mh-4em"><a href="/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024" rel="bookmark">
+<span>Międzynarodowa konferencja na temat katalizy UCRA 2024</span>
+</a></h2>
+                <div class="wydarzenie-belka mt-auto mb-3"></div>
+                <div class="more">
+                  <a class="pw-link d-block" href="/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024">Zobacz więcej<span class="sr-only"> - 
+<span>Międzynarodowa konferencja na temat katalizy UCRA 2024</span>
+</span></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+<!-- end wydarzenie teaser display -->    
+        </div>
+      </div>
+    
+</div>
+<!-- end grid view -->
+    
+
+  
+  
+
+  
+  
+</div>
+</div>
+</div></div>				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				</div>
+  </div> 
+</article>
+
+<!-- End basic page full display -->
+
+    </div>
+  </div>
+
+  </div>
+
+				</div>
+			
+		</div>
+	</div>
+</div>
+
+			</div>
+		</div>
+
+		
+				
+	</div>
+
+</div>
+
+<footer id="footer" class="footer">
+  <div class="footer-inner">
+    
+         <div class="footer-top">
+        <div class="container">
+          <div class="before-footer clearfix area">
+                <div>
+      <div id="block-krowd-sub-gaviascontentbuildergbbfooter" class="block block-gavias-pagebuilder block-gavias-pagebuilder-blockgavias-pagebuilder-block____4 no-title">
+  
+    
+      <div class="content block-content">
+      <div class="gavias-blockbuilder-content">
+   
+  
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row  bg-black bg-size-cover el-9159567 text-white "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-83877072 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row   bg-size-cover el-9212074 pb-4 "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-17061208 col-xl-10 col-lg-10 col-md-9 col-sm-8 col-xs-8   " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner d-flex align-items-center justify-content-center justify-content-xs-start">
+				              <div class="widget gsc-image text-none godlo-pw my-3" >
+               <div class="widget-content">
+                   
+                    <img src="https://www.pw.edu.pl/sites/default/files/PW-uploads/elementy%20szablonu%20strony/stopka/god%C5%82o.png" alt="Godło Politechniki Warszawskiej" />
+                                 </div>
+            </div>    
+         				</div>  
+			</div>
+		  
+		 </div>
+				<div  class="gsc-column el-32264015 col-xl-2 col-lg-2 col-md-3 col-sm-3 col-xs-3 d-xs-flex  " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner d-flex align-items-center justify-content-center justify-content-xs-start h-100">
+				  <div style=" " class="custom-text text-white my-3 d-flex flex-column align-items-center d-xs-block  box-margin-0" ><p><strong><a class="text-white" href="/dla-mediow">Dla medi&oacute;w</a></strong></p>
+<p><strong><a class="text-white" href="https://www.sklep.pw.edu.pl">Sklep PW</a></strong></p>
+<p><strong><a class="text-white" href="/kontakt">Kontakt</a></strong></p>
+<p><strong><a class="text-white" href="/pracownicy-i-kandydaci-do-pracy">Pracownicy</a></strong></p></div>				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row   bg-size-cover el-41797162 border-bottom border-top border-white py-4 "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-41701802 col-xl-8 col-lg-8 col-md-10 col-sm-12 col-xs-12 mx-auto  " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner d-sm-flex align-items-center justify-content-between">
+				              <div class="widget gsc-image text-none text-center mx-4 mx-md-5 py-4 py-sm-0 my-0" >
+               <div class="widget-content">
+                                       <a href="https://badawcza.pw.edu.pl/" target="_blank">
+                   
+                    <img src="https://www.pw.edu.pl/sites/default/files/2023-07/Inicjatywa-doskonalosci-uczelnia-badawcza_logo_pasek.png" alt="Logo programu Inicjatywa Doskonałości - Uczelnia badawcza" />
+                  </a>               </div>
+            </div>    
+                     <div class="widget gsc-image text-none text-center mx-4 mx-md-5 py-4 py-sm-0 my-0" >
+               <div class="widget-content">
+                                       <a href="https://enhanceuniversity.eu/" target="_blank">
+                   
+                    <img src="https://www.pw.edu.pl/sites/default/files/2023-07/Enhance-European-Universities-of-Technology-Alliance_logo_pasek.png" alt="Logo konsorcjum uczelni technicznych ENHANCE" />
+                  </a>               </div>
+            </div>    
+                     <div class="widget gsc-image text-none text-center mx-4 mx-md-5 py-4 py-sm-0 my-0" >
+               <div class="widget-content">
+                                       <a href="/hr-excellence-research" >
+                   
+                    <img src="https://www.pw.edu.pl/sites/default/files/2023-07/HR-Excellence-in-Research_logo_pasek.png" alt="Logo HR Excellence in Research" />
+                  </a>               </div>
+            </div>    
+         				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				
+					<div class="gbb-row-wrapper">
+								<div class="gbb-row   bg-size-cover el-10452126 pt-5 "  style="" >
+					<div class="bb-inner  default">  
+					<div class="bb-container container" >
+							<div class="row row-wrapper">
+										<div  class="gsc-column el-11731399 col-xl-10 col-lg-10 col-md-9 col-sm-8 col-xs-8 order-2 order-xs-1  " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  <div style=" " class="custom-text text-center text-xs-left mt-4 mt-xs-0  box-margin-0" ><p>&copy; 1998-2024 Politechnika Warszawska,<br />Pl. Politechniki 1, 00-661 Warszawa</p></div>				</div>  
+			</div>
+		  
+		 </div>
+				<div  class="gsc-column el-77238556 col-xl-2 col-lg-2 col-md-3 col-sm-3 col-xs-3 order-1 order-xs-2  " >
+			<div class="column-inner  bg-size-cover">
+				<div class="column-content-inner ">
+				  <div style=" " class="custom-text text-center text-xs-left  box-margin-0" ><p><strong><a class="text-white" href="/deklaracja-dostepnosci">Deklaracja Dostępności</a></strong></p></div>				</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+								</div>  
+			</div>
+		  
+		 </div>
+									</div>
+						</div>
+					</div>  
+									</div>  
+			</div>
+				  
+ </div> 
+
+    </div>
+  </div>
+
+  </div>
+
+          </div>     
+        </div>   
+      </div> 
+          
+     <div class="footer-center">
+        <div class="container">
+          <div class="content-inner">   
+            <div class="row">
+              
+              
+              
+              
+            </div>   
+          </div>
+        </div>  
+    </div>  
+  </div>   
+
+   <a id="back-to-top" href="#" data-target="html" class="scroll-to-top"><i class="fas fa-arrow-up"></i></a>
+</footer>
+
+  </div>
+
+    
+    <script src="/sites/default/files/js/js_LUVUfdOKv0dxC717dbrnbpVBs82wKH1hhk0m9fZLC9M.js?scope=footer&amp;delta=0&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?sh3194"></script>
+<script src="/sites/default/files/js/js_UkdLtds6Qp-V35vl3voSJqyR_jEKE6XqGc3Wk1EOUOk.js?scope=footer&amp;delta=2&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1"></script>
+
+    
+     <script src="/themes/custom/krowd_sub/js/hotkeys.min.js"></script>
+ <script src="/themes/custom/krowd_sub/js/micromodal.min.js"></script>
+ <script> (function(d) { var s = d.createElement("script"); s.setAttribute("data-accessible-account-id", "P9JIeyFhfpzwxc"); s.setAttribute("id", "allAccessibleWidget"); s.async = true; s.setAttribute("src", "https://app.allaccessible.org/api/P9JIeyFhfpzwxc.js"); d.head.appendChild(s); })(document) </script>
+  </body>
+</html>
+...
+JavaScript Data Found: {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/30","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxljmsOwzAIgy_UNUeKSKARGw1TSPq4_aptarf2D4LPtkx8EHLV4iFGLcia3b71Q9FcKWMXVbQEXRzSAE3qDjxn4UzudHcJJgbzT0gUGgtScVfUgxlVO2q-FhPeVIH1SP2gS-pRdEaXRAPIzeq6PZA-0FsLZ8FWqzS6AEbdxDSbe88e7rD8gVGxCb0AnnFx9Q","theme":"krowd_sub","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"colorbox":{"opacity":"0.85","current":"{current} z {total}","previous":"\u00ab Poprzednie","next":"Nast\u0119pne \u00bb","close":"Zamknij","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a":{"view_name":"aktualnosci","view_display_id":"block_2","view_args":"","view_path":"\/node\/30","view_base_path":null,"view_dom_id":"ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a","pager_element":0}}},"user":{"uid":0,"permissionsHash":"13d6d758d18bf9d4232f613b6692205f9b7c27d48aab133a5a6669845b45dfaf"}}, , , , , , ,  (function(d) { var s = d.createElement("script"); s.setAttribute("data-accessible-account-id", "P9JIeyFhfpzwxc"); s.setAttribute("id", "allAccessibleWidget"); s.async = true; s.setAttribute("src", "https://app.allaccessible.org/api/P9JIeyFhfpzwxc.js"); d.head.appendChild(s); })(document) 
+API Requests/Links Found: http://www.facebook.com/politechnika.warszawska, http://instagram.com/politechnika_warszawska, http://twitter.com/PW_edu, https://pl.linkedin.com/edu/politechnika-warszawska-15980, https://www.youtube.com/channel/UCCXBvkV8M7t-3k6Pd5j82aQ, https://www.tiktok.com/@politechnikawaw, https://eng.pw.edu.pl, https://www.bip.pw.edu.pl, https://www.pw.edu.pl/search, https://intranet.pw.edu.pl, https://usosweb.usos.pw.edu.pl, https://leon.pw.edu.pl/, https://portal.sap.pw.edu.pl, https://webmail.pw.edu.pl, https://repo.pw.edu.pl, https://ezd.pw.edu.pl/, https://www.pw.edu.pl/, https://www.pw.edu.pl/, https://www.pw.edu.pl/uczelnia/terazniejszosc, https://www.pw.edu.pl/uczelnia/terazniejszosc, https://www.pw.edu.pl/uczelnia/przeszlosc, https://www.pw.edu.pl/uczelnia/przyszlosc, https://www.pw.edu.pl/studia, https://www.pw.edu.pl/studia/studia-i-stopnia, https://www.pw.edu.pl/studia/studia-ii-stopnia, https://www.pw.edu.pl/studia/doktorat, https://www.pw.edu.pl/studia/studia-podyplomowe, https://www.pw.edu.pl/studia/kursy, https://www.pw.edu.pl/badania, https://www.pw.edu.pl/kampus, https://www.pw.edu.pl/sukcesy, https://www.pw.edu.pl/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie, https://www.pw.edu.pl/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie, https://www.pw.edu.pl/kampus/gmach-glowny, https://www.pw.edu.pl/aktualnosci, https://www.pw.edu.pl/aktualnosci, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024, https://www.pw.edu.pl/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024, https://www.pw.edu.pl/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/nowi-przewodniczacy-komisji-krasp, https://www.pw.edu.pl/aktualnosci/nowi-przewodniczacy-komisji-krasp, https://www.pw.edu.pl/aktualnosci/nowi-przewodniczacy-komisji-krasp, https://www.pw.edu.pl/aktualnosci/promocja-pw-w-dolinie-krzemowej, https://www.pw.edu.pl/aktualnosci/promocja-pw-w-dolinie-krzemowej, https://www.pw.edu.pl/aktualnosci/promocja-pw-w-dolinie-krzemowej, https://www.pw.edu.pl/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google, https://www.pw.edu.pl/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google, https://www.pw.edu.pl/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google, https://www.pw.edu.pl/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw, https://www.pw.edu.pl/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw, https://www.pw.edu.pl/aktualnosci/welcome-point-na-politechnice-warszawskiej, https://www.pw.edu.pl/aktualnosci/welcome-point-na-politechnice-warszawskiej, https://www.pw.edu.pl/wydarzenia, https://www.pw.edu.pl/wydarzenia, https://www.pw.edu.pl/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim, https://www.pw.edu.pl/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim, https://www.pw.edu.pl/wydarzenia/fall-meeting-european-materials-research-society, https://www.pw.edu.pl/wydarzenia/fall-meeting-european-materials-research-society, https://www.pw.edu.pl/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii, https://www.pw.edu.pl/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii, https://www.pw.edu.pl/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024, https://www.pw.edu.pl/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024, https://www.pw.edu.pl/dla-mediow, https://www.sklep.pw.edu.pl, https://www.pw.edu.pl/kontakt, https://www.pw.edu.pl/pracownicy-i-kandydaci-do-pracy, https://badawcza.pw.edu.pl/, https://enhanceuniversity.eu/, https://www.pw.edu.pl/hr-excellence-research, https://www.pw.edu.pl/deklaracja-dostepnosci, https://www.pw.edu.pl/search/node
