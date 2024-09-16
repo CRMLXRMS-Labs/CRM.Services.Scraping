@@ -21,16 +21,19 @@ jobs:
       with:
         dotnet-version: '8.x'
 
-    - name: Install Playwright Browsers
-      run: |
-        dotnet tool install --global Microsoft.Playwright.CLI
-        playwright install
+    - name: Install Microsoft.Playwright NuGet package
+      run: dotnet add ./src/CRMScraper.Library/CRMScraper.Library.csproj package Microsoft.Playwright
 
     - name: Restore dependencies
       run: dotnet restore
 
     - name: Build the project
       run: dotnet build --configuration Release --no-restore
+
+    - name: Install Playwright CLI and Browsers
+      run: |
+        dotnet tool install --global Microsoft.Playwright.CLI
+        playwright install
 
     - name: Run tests with coverage
       run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
