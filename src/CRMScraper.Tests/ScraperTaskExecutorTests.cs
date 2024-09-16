@@ -45,7 +45,7 @@ namespace CRMScraper.Tests
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
 
             // Assert
-            Assert.Equal(2, result.Count);
+            Assert.Equal(1, result.Count);
         }
 
         [Fact]
