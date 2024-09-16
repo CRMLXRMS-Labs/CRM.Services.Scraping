@@ -35,25 +35,23 @@ jobs:
         dotnet tool install --global Microsoft.Playwright.CLI
         playwright install
 
-    - name: Run tests with coverage
-      run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
-
+        - name: Run tests with coverage
+        run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
+  
     - name: Generate coverage report
       run: |
         dotnet tool install --global dotnet-reportgenerator-globaltool
-        reportgenerator -reports:TestResults/**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html
+        reportgenerator -reports:TestResults/**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html,TextSummary
 
-    - name: Upload test results
-      uses: actions/upload-artifact@v3
-      with:
-        name: TestResults
-        path: TestResults/
+    - name: Output code coverage summary
+      run: cat coverage/Summary.txt
 
-    - name: Upload coverage report
-      uses: actions/upload-artifact@v3
+    - name: Create a coverage comment on PR
+      if: github.event_name == 'pull_request'
+      uses: marocchino/sticky-pull-request-comment@v2
       with:
-        name: CoverageReport
-        path: coverage/
+        path: coverage/Summary.txt
+  
 
   package:
     if: github.ref == 'refs/heads/main'
