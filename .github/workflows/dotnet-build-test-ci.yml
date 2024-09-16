@@ -37,21 +37,24 @@ jobs:
 
     - name: Run tests with coverage
       run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
-  
+
     - name: Generate coverage report
       run: |
         dotnet tool install --global dotnet-reportgenerator-globaltool
-        reportgenerator -reports:TestResults/**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html;TextSummary
+        reportgenerator -reports:TestResults/**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html
 
-    - name: Output code coverage summary
-      run: cat coverage/Summary.txt
-
-    - name: Create a coverage comment on PR
-      if: github.event_name == 'pull_request'
-      uses: marocchino/sticky-pull-request-comment@v2
+    - name: Upload test results
+      uses: actions/upload-artifact@v3
       with:
-        path: coverage/Summary.txt
-  
+        name: TestResults
+        path: TestResults/
+
+    - name: Upload coverage report
+      uses: actions/upload-artifact@v3
+      with:
+        name: CoverageReport
+        path: coverage/
+
   package:
     if: github.ref == 'refs/heads/main'
     needs: build
