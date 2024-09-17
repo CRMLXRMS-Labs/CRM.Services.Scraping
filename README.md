@@ -1,10 +1,11 @@
 # CRM Scraper
 
-[![NuGet Version](https://img.shields.io/nuget/v/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library) 
-[![NuGet Downloads](https://img.shields.io/nuget/dt/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/scraping_service_library_net/.github/workflows/dotnet-ci.yml?branch=main)](https://github.com/yourusername/scraping_service_library_net/actions)
+[![codecov](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net/graph/badge.svg?token=R261U013KP)](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net)  
+[![NuGet Version](https://img.shields.io/nuget/v/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)  
+[![NuGet Downloads](https://img.shields.io/nuget/dt/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/scraping_service_library_net/.github/workflows/dotnet-build-test-ci.yml?branch=main)](https://github.com/yourusername/scraping_service_library_net/actions)  
+![.NET 8](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white)
 
-CRM Scraper is a comprehensive .NET library for scraping Customer Relationship Management (CRM) systems, supporting both static and dynamic websites. It uses `HtmlAgilityPack` for static HTML scraping and `Playwright` for scraping dynamic content.
 
 ## Features
 
@@ -241,4 +242,3 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
