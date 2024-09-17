@@ -1,0 +1,18 @@
+name: Respond to Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  respond:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Post a thank you comment
+      uses: actions-ecosystem/action-add-comment@v1
+      with:
+        github_token: ${{ secrets.BOT_ACCESS }}
+        issue_number: ${{ github.event.issue.number }}
+        body: |
+          Thank you for opening this issue! We appreciate your feedback and will look into it as soon as possible. Stay tuned!

@@ -4,10 +4,17 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <!-- Specify the README file for the NuGet package -->
     <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
+    <!-- Ensure that the README.md file is included in the output directory -->
+    <None Update="README.md">
+      <Pack>true</Pack>
+      <PackagePath></PackagePath>
+    </None>
+
     <PackageReference Include="HtmlAgilityPack" Version="1.11.65" />
     <PackageReference Include="Microsoft.Playwright" Version="1.47.0" />
   </ItemGroup>
