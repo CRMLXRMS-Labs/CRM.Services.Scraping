@@ -6,6 +6,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 using CRMScraper.Library.Core;
 using CRMScraper.Library.Core.Utils;
+using CRMScraper.Library.Core.Entities;
 
 namespace CRMScraper.Library
 {

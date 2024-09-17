@@ -1,10 +1,6 @@
 using Moq;
-using CRMScraper.Library;
 using CRMScraper.Library.Core;
-using System.Collections.Generic;
-using System.Threading;
-using System.Threading.Tasks;
-using Xunit;
+using CRMScraper.Library.Core.Entities;
 
 namespace CRMScraper.Tests
 {

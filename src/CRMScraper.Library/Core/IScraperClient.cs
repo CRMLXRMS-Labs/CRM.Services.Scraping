@@ -1,3 +1,5 @@
+using CRMScraper.Library.Core.Entities;
+
 namespace CRMScraper.Library.Core
 {
     public interface IScraperClient

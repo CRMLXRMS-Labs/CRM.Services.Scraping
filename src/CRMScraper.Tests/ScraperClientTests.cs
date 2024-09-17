@@ -63,7 +63,6 @@ namespace CRMScraper.Tests
             var mockHttpClient = new HttpClient(new FakeHttpMessageHandler("<html><body>No links or scripts here</body></html>"));
             var mockPageElementsExtractor = new Mock<IPageElementsExtractor>();
 
-            // Simulate no JavaScript and no API requests
             mockPageElementsExtractor.Setup(x => x.ExtractJavaScript(It.IsAny<HtmlDocument>()))
                 .Returns(new List<string>());
             mockPageElementsExtractor.Setup(x => x.ExtractApiRequests(It.IsAny<HtmlDocument>(), It.IsAny<string>()))
@@ -85,7 +84,7 @@ namespace CRMScraper.Tests
         {
             // Arrange: Simulate an invalid request
             var mockHttpClient = new HttpClient(new FakeHttpMessageHandler("", System.Net.HttpStatusCode.NotFound));
-            var mockPageElementsExtractor = new Mock<IPageElementsExtractor>(); // Mock the extractor
+            var mockPageElementsExtractor = new Mock<IPageElementsExtractor>(); 
 
             var scraperClient = new ScraperClient(mockHttpClient, mockPageElementsExtractor.Object);
 
@@ -99,7 +98,7 @@ namespace CRMScraper.Tests
         {
             // Arrange: Simulate dynamic page scraping with Playwright
             var mockHttpClient = new HttpClient();
-            var mockPageElementsExtractor = new Mock<IPageElementsExtractor>(); // Playwright doesn't use this
+            var mockPageElementsExtractor = new Mock<IPageElementsExtractor>(); 
             var scraperClient = new ScraperClient(mockHttpClient, mockPageElementsExtractor.Object);
 
             // Act

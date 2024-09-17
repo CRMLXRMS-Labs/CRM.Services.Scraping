@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
+using CRMScraper.Library.Core.Entities;
 using HtmlAgilityPack;
 
 namespace CRMScraper.Library.Core.Utils
