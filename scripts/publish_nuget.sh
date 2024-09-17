@@ -14,7 +14,7 @@ dotnet pack -c release /p:PackageVersion=1.1.$GITHUB_RUN_NUMBER --no-restore -o 
 echo Library package created for branch $GITHUB_REF_NAME
 
 case "$GITHUB_REF_NAME" in
-  "main")
+  "dev")
     echo Uploading CRMScraper.Library package to NuGet
 
     # Define the path to the package
