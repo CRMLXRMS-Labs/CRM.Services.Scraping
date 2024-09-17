@@ -1,4 +1,4 @@
-namespace CRMScraper.Library.Core
+namespace CRMScraper.Library.Core.Entities
 {
     public class ScrapedPageResult
     {

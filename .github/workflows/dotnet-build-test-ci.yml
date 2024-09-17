@@ -70,6 +70,8 @@ jobs:
         dotnet-version: '8.x'
 
     - name: Run publish script
+      env:
+        NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }} 
       run: ./scripts/publish_nuget.sh
 
     - name: Upload NuGet package as artifact

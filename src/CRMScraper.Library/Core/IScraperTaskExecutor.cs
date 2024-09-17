@@ -1,7 +1,4 @@
-// IScraperTaskExecutor.cs
-using System.Collections.Generic;
-using System.Threading;
-using System.Threading.Tasks;
+using CRMScraper.Library.Core.Entities;
 
 namespace CRMScraper.Library.Core
 {
