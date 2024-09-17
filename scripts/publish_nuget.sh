@@ -5,6 +5,10 @@ echo Triggering NuGet package build
 
 cd src/CRMScraper.Library
 
+echo Restoring NuGet packages...
+dotnet restore
+
+echo Packing the library...
 dotnet pack -c release /p:PackageVersion=1.1.$GITHUB_RUN_NUMBER --no-restore -o .
 
 echo Library package created for branch $GITHUB_REF_NAME
