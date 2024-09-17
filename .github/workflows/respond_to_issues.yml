@@ -15,18 +15,18 @@ jobs:
     steps:
     - name: Post a thank you comment for issues
       if: github.event_name == 'issues'
-      uses: actions-ecosystem/action-add-comment@v1
+      uses: peter-evans/create-or-update-comment@v1
       with:
-        github_token: ${{ secrets.BOT_ACCESS }}
-        issue_number: ${{ github.event.issue.number }}
+        token: ${{ secrets.BOT_ACCESS }}
+        issue-number: ${{ github.event.issue.number }}
         body: |
           Thank you for opening this issue! We appreciate your feedback and will look into it as soon as possible. Stay tuned!
 
     - name: Post a thank you comment for pull requests
       if: github.event_name == 'pull_request_target'
-      uses: actions-ecosystem/action-add-comment@v1
+      uses: peter-evans/create-or-update-comment@v1
       with:
-        github_token: ${{ secrets.BOT_ACCESS }}
-        issue_number: ${{ github.event.pull_request.number }}
+        token: ${{ secrets.BOT_ACCESS }}
+        issue-number: ${{ github.event.pull_request.number }}
         body: |
           Thank you for your contribution! We appreciate your support and will review your pull request soon. Stay awesome!
