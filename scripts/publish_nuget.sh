@@ -14,13 +14,11 @@ dotnet pack -c release /p:PackageVersion=1.1.$GITHUB_RUN_NUMBER --no-restore -o 
 echo Library package created for branch $GITHUB_REF_NAME
 
 case "$GITHUB_REF_NAME" in
-  "dev")
+  "main")
     echo Uploading CRMScraper.Library package to NuGet
 
-    # Define the path to the package
     PACKAGE_PATH="./nupkg/CRMScraper.Library.1.1.$GITHUB_RUN_NUMBER.nupkg"
 
-    # Check if the package exists before attempting to push
     if [ -f "$PACKAGE_PATH" ]; then
       echo "Package found: $PACKAGE_PATH"
       dotnet nuget push "$PACKAGE_PATH" -k "$NUGET_API_KEY" -s https://api.nuget.org/v3/index.json

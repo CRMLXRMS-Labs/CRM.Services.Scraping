@@ -1,3 +1,4 @@
+
 # CRM Scraper
 
 CRM Scraper is a powerful library designed to scrape CRM (Customer Relationship Management) systems and extract valuable data. This project provides a comprehensive scraping solution, supporting both static and dynamic websites using HTML parsing and Playwright for dynamic content rendering.
@@ -94,19 +95,121 @@ dotnet pack --configuration Release --output ./nupkgs
 
 ## Usage
 
-You can integrate the `CRMScraper.Library` into your project by including the package. Here's an example of using the `ScraperClient`:
+This section shows how to use the `CRMScraper.Library` for both static and dynamic content scraping.
+
+### 1. Scraping Static Pages
+
+To scrape static web pages, you can use the `ScraperClient` class, which leverages `HtmlAgilityPack` to extract the HTML content, JavaScript, and API requests from the page.
+
+#### Example: Scraping a Static Page
 
 ```csharp
 using CRMScraper.Library;
 using CRMScraper.Library.Core;
 using System.Net.Http;
+using System.Threading.Tasks;
 
-var httpClient = new HttpClient();
-var scraperClient = new ScraperClient(httpClient, new PageElementsExtractor());
+class Program
+{
+    static async Task Main(string[] args)
+    {
+        var httpClient = new HttpClient();
+        var pageElementsExtractor = new PageElementsExtractor();  // Implement this to extract JavaScript and API requests
+        var scraperClient = new ScraperClient(httpClient, pageElementsExtractor);
 
-var result = await scraperClient.ScrapePageAsync("https://example.com");
-Console.WriteLine(result.HtmlContent);
+        // Scrape a static page
+        var result = await scraperClient.ScrapePageAsync("https://example.com");
+
+        // Output scraped results
+        Console.WriteLine($"URL: {result.Url}");
+        Console.WriteLine($"HTML Content: {result.HtmlContent}");
+        Console.WriteLine($"JavaScript Data: {string.Join(", ", result.JavaScriptData)}");
+        Console.WriteLine($"API Requests: {string.Join(", ", result.ApiRequests)}");
+    }
+}
 ```
+
+### 2. Scraping Dynamic Pages (JavaScript-heavy)
+
+For dynamic content scraping (JavaScript-heavy websites), `ScraperClient` utilizes Playwright to render the page fully before extracting content and links.
+
+#### Example: Scraping a Dynamic Page
+
+```csharp
+using CRMScraper.Library;
+using CRMScraper.Library.Core;
+using System.Threading.Tasks;
+
+class Program
+{
+    static async Task Main(string[] args)
+    {
+        var httpClient = new HttpClient();
+        var pageElementsExtractor = new PageElementsExtractor();  // Implement this to extract JavaScript and API requests
+        var scraperClient = new ScraperClient(httpClient, pageElementsExtractor);
+
+        // Scrape a dynamic page using Playwright
+        var result = await scraperClient.ScrapeDynamicPageAsync("https://example.com");
+
+        // Output the results
+        Console.WriteLine($"URL: {result.Url}");
+        Console.WriteLine($"HTML Content: {result.HtmlContent}");
+        Console.WriteLine($"API Requests: {string.Join(", ", result.ApiRequests)}");
+    }
+}
+```
+
+### 3. Concurrent Scraping
+
+If you want to scrape multiple pages concurrently and efficiently, use the `ScraperTaskExecutor` class. This class manages concurrent scraping tasks, respecting limits on the number of pages and time.
+
+#### Example: Concurrent Scraping Task
+
+```csharp
+using CRMScraper.Library.Core;
+using System;
+using System.Threading;
+using System.Threading.Tasks;
+
+class Program
+{
+    static async Task Main(string[] args)
+    {
+        var httpClient = new HttpClient();
+        var pageElementsExtractor = new PageElementsExtractor();
+        var scraperClient = new ScraperClient(httpClient, pageElementsExtractor);
+        var scraperTaskExecutor = new ScraperTaskExecutor(scraperClient);
+
+        // Define a scraping task with a maximum of 10 pages and a 1-minute time limit
+        var scrapingTask = new ScrapingTask
+        {
+            TargetUrl = "https://example.com",
+            MaxPages = 10,
+            TimeLimit = TimeSpan.FromMinutes(1),
+            MaxConcurrentPages = 3,  // Max 3 concurrent pages
+            UseDynamicScraping = true
+        };
+
+        // Run the scraping task
+        var cancellationTokenSource = new CancellationTokenSource();
+        var results = await scraperTaskExecutor.ExecuteScrapingTaskAsync(scrapingTask, cancellationTokenSource.Token);
+
+        // Output the results
+        foreach (var result in results)
+        {
+            Console.WriteLine($"Scraped URL: {result.Url}");
+            Console.WriteLine($"HTML Content: {result.HtmlContent}");
+        }
+    }
+}
+```
+
+### Summary of Core Classes
+
+- **ScraperClient**: Core logic for scraping static and dynamic pages.
+- **ScraperTaskExecutor**: Manages concurrent scraping tasks and retries.
+- **ScrapedPageResult**: Represents the result of a scraping operation.
+- **ScrapingTask**: Represents a scraping task configuration, including limits on pages and time.
 
 ## Contributing
 
@@ -115,15 +218,4 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-### Key Sections Covered:
-1. **Project Overview**: A description of the CRM Scraper and its main features.
-2. **Project Structure**: Provides a high-level structure of the project.
-3. **Getting Started**: Instructions for cloning, building, and running the project.
-4. **Running Tests**: Commands for running tests and generating coverage reports.
-5. **CI/CD**: A brief overview of the GitHub Actions pipeline.
-6. **Creating a NuGet Package**: Instructions for generating a NuGet package.
-7. **Usage Example**: Sample code showing how to use the library.
-8. **Contributing**: Encourages open-source contributions.
-9. **License**: Licensing information (MIT assumed, but this can be customized).
