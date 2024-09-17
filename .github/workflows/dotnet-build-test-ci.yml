@@ -1,4 +1,4 @@
-name: .NET CI
+name: .NET CI Build Test and Create NuGet Package
 
 on:
   push:
