@@ -69,21 +69,11 @@ jobs:
       with:
         dotnet-version: '8.x'
 
-    - name: Restore dependencies
-      run: dotnet restore
-
-    - name: Pack the project into a NuGet package
-      run: dotnet pack --configuration Release --output ./nupkgs
-
-    - name: Add GitHub Package Registry as NuGet source
-      run: dotnet nuget add source --username USERNAME --password ${{ secrets.BOT_ACCESS }} --store-password-in-clear-text --name github "https://nuget.pkg.github.com/CRMLXRMS-Labs/index.json"
-
-    - name: Publish the package to GitHub Packages
-      run: |
-        dotnet nuget push ./nupkgs/*.nupkg --source "github" --api-key ${{ secrets.BOT_ACCESS }} --skip-duplicate
+    - name: Run publish script
+      run: ./scripts/publish_nuget.sh
 
     - name: Upload NuGet package as artifact
       uses: actions/upload-artifact@v3
       with:
         name: NuGetPackages
-        path: ./nupkgs
+        path: ./src/CRMScraper.Library/*.nupkg
