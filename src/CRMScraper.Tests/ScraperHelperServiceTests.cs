@@ -1,5 +1,6 @@
 using CRMScraper.Library.Core;
 using CRMScraper.Library.Core.Entities;
+using CRMScraper.Library.Core.Exceptions;
 using CRMScraper.Library.Core.Utils;
 using Moq;
 using System;
@@ -60,16 +61,25 @@ namespace CRMScraper.Tests
         public async Task ScrapeWithRetryAsync_ThrowsAfterMaxRetries()
         {
             // Arrange
-            var mockScrapeFunction = new Mock<Func<Task<ScrapedPageResult>>>();
+            var mockScraperClient = new Mock<IScraperClient>();
+            var scraperHelperService = new ScraperHelperService();
 
-            mockScrapeFunction.Setup(f => f()).ThrowsAsync(new HttpRequestException("Network error"));
+            // Simulate retry failure scenario
+            int retryCount = 0;
+            Func<Task<ScrapedPageResult>> scrapeFunction = () =>
+            {
+                retryCount++;
+                throw new HttpRequestException("Failed to scrape");
+            };
 
             // Act & Assert
-            await Assert.ThrowsAsync<HttpRequestException>(async () =>
-                await _scraperHelperService.ScrapeWithRetryAsync("https://example.com", mockScrapeFunction.Object, maxRetries: 3));
+            var ex = await Assert.ThrowsAsync<RetryLimitExceededException>(() =>
+                scraperHelperService.ScrapeWithRetryAsync("https://example.com", scrapeFunction, 3));
 
-            mockScrapeFunction.Verify(f => f(), Times.Exactly(3));
+            Assert.Equal(3, retryCount); // Ensure retries were attempted
         }
+
+
 
         [Fact]
         public void ExtractLinks_ReturnsValidAbsoluteLinks()

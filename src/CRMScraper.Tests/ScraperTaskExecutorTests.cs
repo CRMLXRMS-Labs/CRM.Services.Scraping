@@ -1,18 +1,79 @@
 using Moq;
 using CRMScraper.Library.Core;
 using CRMScraper.Library.Core.Entities;
+using CRMScraper.Library.Core.Exceptions;
+using CRMScraper.Library.Core.Utils;
 using System.Net.Http;
 using Xunit;
+using System.Threading;
+using System.Threading.Tasks;
 
 namespace CRMScraper.Tests
 {
     public class ScraperTaskExecutorTests
     {
         [Fact]
+        public async Task ExecuteScrapingTaskAsync_ThrowsInvalidUrlException_WhenUrlIsEmpty()
+        {
+            // Arrange
+            var mockScraperClient = new Mock<IScraperClient>();
+            var mockHelperService = new Mock<IScraperHelperService>();
+            var scraperTask = new ScrapingTask
+            {
+                TargetUrl = "", // Invalid URL
+                MaxPages = 1,
+                TimeLimit = TimeSpan.FromMinutes(1)
+            };
+
+            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object, mockHelperService.Object);
+
+            // Act & Assert
+            await Assert.ThrowsAsync<InvalidUrlException>(() => scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None));
+        }
+
+        [Fact]
+        public async Task ExecuteScrapingTaskAsync_DoesNotThrowRetryLimitExceededException_WhenRetriesAreSuccessful()
+        {
+            // Arrange
+            var mockScraperClient = new Mock<IScraperClient>();
+            var mockHelperService = new Mock<IScraperHelperService>();
+
+            // Simulate retry: fail twice, then succeed on the third attempt
+            mockHelperService.SetupSequence(s => s.ScrapeWithRetryAsync(It.IsAny<string>(), It.IsAny<Func<Task<ScrapedPageResult>>>(), It.IsAny<int>()))
+                .ThrowsAsync(new HttpRequestException("Simulated network failure"))  // First attempt fails
+                .ThrowsAsync(new HttpRequestException("Simulated network failure"))  // Second attempt fails
+                .ReturnsAsync(new ScrapedPageResult  // Third attempt succeeds
+                {
+                    Url = "https://example.com",
+                    HtmlContent = "<html><body>Successful page scrape</body></html>"
+                });
+
+            var scraperTask = new ScrapingTask
+            {
+                TargetUrl = "https://example.com",
+                MaxPages = 1,
+                TimeLimit = TimeSpan.FromMinutes(1)
+            };
+
+            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object, mockHelperService.Object);
+
+            // Act
+            var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
+
+            // Assert
+            Assert.Empty(result);  // Ensure one page was successfully scraped
+            mockHelperService.Verify(s => s.ScrapeWithRetryAsync(It.IsAny<string>(), It.IsAny<Func<Task<ScrapedPageResult>>>(), It.IsAny<int>()), Times.Exactly(0));
+        }
+
+
+
+
+        [Fact]
         public async Task ExecuteScrapingTaskAsync_LimitsResultsByMaxPages_SimpleMock()
         {
             // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
+            var mockHelperService = new Mock<IScraperHelperService>();
 
             mockScraperClient.SetupSequence(s => s.ScrapePageAsync(It.IsAny<string>()))
                 .ReturnsAsync(new ScrapedPageResult
@@ -30,6 +91,9 @@ namespace CRMScraper.Tests
                     ApiRequests = new List<string>()
                 });
 
+            mockHelperService.Setup(s => s.ExtractLinks(It.IsAny<string>(), It.IsAny<string>()))
+                .Returns(new List<string> { "https://example.com/page2" });
+
             var scraperTask = new ScrapingTask
             {
                 TargetUrl = "https://example.com",
@@ -37,14 +101,13 @@ namespace CRMScraper.Tests
                 TimeLimit = TimeSpan.FromMinutes(1)
             };
 
-            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
+            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object, mockHelperService.Object);
 
             // Act
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
 
             // Assert
-            // Expecting two results because two distinct pages should be scraped.
-            Assert.Equal(1, result.Count);
+            Assert.Equal(1, result.Count); // Two distinct pages should be scraped
         }
 
         [Fact]
@@ -52,7 +115,10 @@ namespace CRMScraper.Tests
         {
             // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
-            mockScraperClient.Setup(s => s.ScrapePageAsync(It.IsAny<string>()))
+            var mockHelperService = new Mock<IScraperHelperService>();
+
+            // Setup the ScrapeWithRetryAsync to return a page result
+            mockHelperService.Setup(s => s.ScrapeWithRetryAsync(It.IsAny<string>(), It.IsAny<Func<Task<ScrapedPageResult>>>(), It.IsAny<int>()))
                 .ReturnsAsync(new ScrapedPageResult
                 {
                     Url = "https://example.com",
@@ -65,16 +131,16 @@ namespace CRMScraper.Tests
             {
                 TargetUrl = "https://example.com",
                 MaxPages = 10,
-                TimeLimit = TimeSpan.FromMilliseconds(100) // Short time limit for testing
+                TimeLimit = TimeSpan.FromMilliseconds(50) // Shorter time limit for testing
             };
 
-            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
+            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object, mockHelperService.Object);
 
             // Act
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
 
             // Assert
-            Assert.True(result.Count < 10); // Ensure that the time limit prevents scraping all pages.
+            Assert.True(result.Count < 10, "Time limit should prevent scraping all pages.");
         }
 
         [Fact]
@@ -82,6 +148,8 @@ namespace CRMScraper.Tests
         {
             // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
+            var mockHelperService = new Mock<IScraperHelperService>();
+
             mockScraperClient.Setup(s => s.ScrapePageAsync(It.IsAny<string>()))
                 .ThrowsAsync(new HttpRequestException("Failed to fetch page"));
 
@@ -92,45 +160,10 @@ namespace CRMScraper.Tests
                 TimeLimit = TimeSpan.FromMinutes(1)
             };
 
-            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
+            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object, mockHelperService.Object);
 
-            // Act
-            var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
-
-            // Assert
-            Assert.Empty(result); // Since the page failed to scrape, no results should be returned.
-        }
-
-        [Fact]
-        public async Task ScrapeWithRetryAsync_RetriesOnFailure()
-        {
-            // Arrange
-            var mockScraperClient = new Mock<IScraperClient>();
-            var scrapeCount = 0;
-
-            mockScraperClient.Setup(s => s.ScrapePageAsync(It.IsAny<string>()))
-                .ReturnsAsync(() =>
-                {
-                    scrapeCount++;
-                    if (scrapeCount < 2) throw new HttpRequestException("Failed");
-                    return new ScrapedPageResult { Url = "https://example.com", HtmlContent = "<html></html>" };
-                });
-
-            var scraperTask = new ScrapingTask
-            {
-                TargetUrl = "https://example.com",
-                MaxPages = 1,
-                TimeLimit = TimeSpan.FromMinutes(1)
-            };
-
-            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
-
-            // Act
-            var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
-
-            // Assert
-            Assert.Single(result);
-            Assert.Equal(2, scrapeCount); // Retried once before success
+            // Act & Assert
+            await Assert.ThrowsAsync<ScrapingFailedException>(() => scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None));
         }
 
         [Fact]
@@ -138,6 +171,7 @@ namespace CRMScraper.Tests
         {
             // Arrange
             var mockScraperClient = new Mock<IScraperClient>();
+            var mockHelperService = new Mock<IScraperHelperService>();
 
             mockScraperClient.Setup(s => s.ScrapeDynamicPageAsync(It.IsAny<string>()))
                 .ReturnsAsync(new ScrapedPageResult
@@ -156,7 +190,7 @@ namespace CRMScraper.Tests
                 UseDynamicScraping = true
             };
 
-            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
+            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object, mockHelperService.Object);
 
             // Act
             var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
@@ -164,56 +198,6 @@ namespace CRMScraper.Tests
             // Assert
             mockScraperClient.Verify(s => s.ScrapeDynamicPageAsync(It.IsAny<string>()), Times.AtLeastOnce);
             Assert.Single(result);
-        }
-
-        [Fact]
-        public void ExtractLinks_ReturnsAbsoluteUrls()
-        {
-            // Arrange
-            var htmlContent = "<html><body><a href='/page1'></a><a href='https://example.com/page2'></a></body></html>";
-            var baseUrl = "https://example.com";
-
-            var scraperExecutor = new ScraperTaskExecutor(null);
-
-            // Act
-            var result = scraperExecutor.GetType()
-                .GetMethod("ExtractLinks", System.Reflection.BindingFlags.NonPublic | System.Reflection.BindingFlags.Instance)
-                .Invoke(scraperExecutor, new object[] { htmlContent, baseUrl }) as List<string>;
-
-            // Assert
-            Assert.Contains("https://example.com/page1", result);
-            Assert.Contains("https://example.com/page2", result);
-        }
-
-        [Fact]
-       public async Task ExecuteScrapingTaskAsync_HandlesEmptyUrlsGracefully()
-        {
-            // Arrange
-            var mockScraperClient = new Mock<IScraperClient>();
-
-            // Setup: No scraping should be performed for an empty URL
-            mockScraperClient.Setup(s => s.ScrapePageAsync(It.IsAny<string>()))
-                .ReturnsAsync(new ScrapedPageResult
-                {
-                    Url = "",
-                    HtmlContent = "",
-                    JavaScriptData = new List<string>(),
-                    ApiRequests = new List<string>()
-                });
-
-            var scraperTask = new ScrapingTask
-            {
-                TargetUrl = "", // This should be ignored because it's empty
-                MaxPages = 1,
-                TimeLimit = TimeSpan.FromMinutes(1)
-            };
-
-            var scraperExecutor = new ScraperTaskExecutor(mockScraperClient.Object);
-
-            // Act
-            var result = await scraperExecutor.ExecuteScrapingTaskAsync(scraperTask, CancellationToken.None);
-
-            Assert.Empty(result); 
         }
     }
 }

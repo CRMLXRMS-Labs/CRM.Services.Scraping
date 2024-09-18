@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Net.Http;
 using System.Threading.Tasks;
+using CRMScraper.Library.Core.Exceptions;
 using CRMScraper.Library.Core.Entities;
 using HtmlAgilityPack;
 
@@ -19,20 +20,18 @@ namespace CRMScraper.Library.Core.Utils
                 {
                     return await scrapeFunction();
                 }
-                catch (HttpRequestException ex)
+                catch (HttpRequestException)
                 {
                     retryCount++;
                     if (retryCount >= maxRetries)
                     {
-                        Console.WriteLine($"Giving up after {maxRetries} attempts to scrape {url}: {ex.Message}");
-                        throw;
+                        throw new RetryLimitExceededException(url, retryCount);
                     }
-                    var waitTime = TimeSpan.FromSeconds(Math.Pow(2, retryCount)); // Exponential backoff
-                    Console.WriteLine($"Retrying {url} in {waitTime.TotalSeconds} seconds due to error: {ex.Message}");
+                    var waitTime = TimeSpan.FromSeconds(Math.Pow(2, retryCount));
                     await Task.Delay(waitTime);
                 }
             }
-            throw new HttpRequestException($"Failed to scrape {url} after {maxRetries} retries.");
+            throw new RetryLimitExceededException(url, retryCount);
         }
 
         // Extract links from HTML content and ensure they are absolute URLs

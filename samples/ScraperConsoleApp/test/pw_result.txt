@@ -31,7 +31,7 @@ HTML Content Preview: <!DOCTYPE html>
 <link rel="stylesheet" media="all" href="/sites/default/files/css/css_42Nw8G5-iLDdKuH0EM1i6HoUDH4ItOMhFKTmnD-ZhgE.css?delta=3&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1" />
 
 
-    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/30","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxljmsOwzAIgy_UNUeKSKARGw1TSPq4_aptarf2D4LPtkx8EHLV4iFGLcia3b71Q9FcKWMXVbQEXRzSAE3qDjxn4UzudHcJJgbzT0gUGgtScVfUgxlVO2q-FhPeVIH1SP2gS-pRdEaXRAPIzeq6PZA-0FsLZ8FWqzS6AEbdxDSbe88e7rD8gVGxCb0AnnFx9Q","theme":"krowd_sub","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"colorbox":{"opacity":"0.85","current":"{current} z {total}","previous":"\u00ab Poprzednie","next":"Nast\u0119pne \u00bb","close":"Zamknij","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a":{"view_name":"aktualnosci","view_display_id":"block_2","view_args":"","view_path":"\/node\/30","view_base_path":null,"view_dom_id":"ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a","pager_element":0}}},"user":{"uid":0,"permissionsHash":"13d6d758d18bf9d4232f613b6692205f9b7c27d48aab133a5a6669845b45dfaf"}}</script>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/30","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxljmsOwzAIgy_UNUeKSKARGw1TSPq4_aptarf2D4LPtkx8EHLV4iFGLcia3b71Q9FcKWMXVbQEXRzSAE3qDjxn4UzudHcJJgbzT0gUGgtScVfUgxlVO2q-FhPeVIH1SP2gS-pRdEaXRAPIzeq6PZA-0FsLZ8FWqzS6AEbdxDSbe88e7rD8gVGxCb0AnnFx9Q","theme":"krowd_sub","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"colorbox":{"opacity":"0.85","current":"{current} z {total}","previous":"\u00ab Poprzednie","next":"Nast\u0119pne \u00bb","close":"Zamknij","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:df7b46198830b8cd39047c41d5c1b07b5ef6e7b08540046f6692b8dac24492ac":{"view_name":"aktualnosci","view_display_id":"block_2","view_args":"","view_path":"\/node\/30","view_base_path":null,"view_dom_id":"df7b46198830b8cd39047c41d5c1b07b5ef6e7b08540046f6692b8dac24492ac","pager_element":0}}},"user":{"uid":0,"permissionsHash":"13d6d758d18bf9d4232f613b6692205f9b7c27d48aab133a5a6669845b45dfaf"}}</script>
 <script src="/sites/default/files/js/js_EDi-5Ip2LdFQoGg7I09AT-XPdpPRJ1XkyqFix5rBQck.js?scope=header&amp;delta=0&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1"></script>
 
 
@@ -481,7 +481,7 @@ HTML Content Preview: <!DOCTYPE html>
 				<div  class="gsc-column el-65578157 col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12   " >
 			<div class="column-inner  bg-size-cover">
 				<div class="column-content-inner ">
-				  <div><div  class="widget block clearfix gsc-block-view  gsc-block-drupal block-view title-align-left  text-dark remove-margin-off" ><div class="views-element-container"><div class="gva-view js-view-dom-id-ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a">
+				  <div><div  class="widget block clearfix gsc-block-view  gsc-block-drupal block-view title-align-left  text-dark remove-margin-off" ><div class="views-element-container"><div class="gva-view js-view-dom-id-df7b46198830b8cd39047c41d5c1b07b5ef6e7b08540046f6692b8dac24492ac">
   
   
   
@@ -503,6 +503,80 @@ HTML Content Preview: <!DOCTYPE html>
 
   
   <div class="gva-view-grid-inner lg-block-grid-3 md-block-grid-3 sm-block-grid-2 xs-block-grid-1 d-flex flex-wrap mx-n4">
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3125" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/politechnika-warszawska-solidarna-z-ofiarami-powodzi"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/pomoc.jpg?itok=dqAwkhot" alt="Na zdjęciu dwie dłonie splecione w geście pomocy" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/politechnika-warszawska-solidarna-z-ofiarami-powodzi" rel="bookmark">
+<span>Politechnika Warszawska solidarna z ofiarami powodzi</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Nasza społeczność akademicka solidaryzuje się z osobami, które ucierpiały w wyniku powodzi w południowej Polsce. Osoby studiujące na PW, których rodziny zostały dotknięte kataklizmem, mogą ubiegać się o przyznanie wsparcia materialnego, zwolnienie z opłat związanych z kształceniem i zakwaterowaniem w akademikach oraz skorzystać z pomocy psychologicznej.</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/politechnika-warszawska-solidarna-z-ofiarami-powodzi">Zobacz więcej<span class="sr-only"> - 
+<span>Politechnika Warszawska solidarna z ofiarami powodzi</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
+                 
+                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
+          
+<!-- Start article teaser display -->
+<article data-history-node-id="3123" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
+    <div class="post-image zoomable">
+        
+            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
+<div class="item-image">
+  <a href="/aktualnosci/blizej-zrozumienia-asymetrii-materia-antymateria"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/49101938411_e9ef9616cc_k_2.jpg?itok=tZoaw3yW" alt="Na zdjęciu Detektor STAR śledzący tysiące cząstek wytwarzanych przez każde zderzenie jonów w RHIC" />
+
+</a>
+</div>
+</div>
+      
+    </div>
+    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
+      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/blizej-zrozumienia-asymetrii-materia-antymateria" rel="bookmark">
+<span>Bliżej zrozumienia asymetrii materia – antymateria</span>
+</a> </h2>
+        <div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Na łamach „Nature” ukazał się artykuł zespołu z Wydziału Fizyki PW dotyczący pierwszej eksperymentalnej obserwacji antyhiperjądra. Prace były prowadzone w ramach eksperymentu STAR przy zderzaczu RHIC (Relativistic Heavy Ion Collider) Brookhaven National Laboratory.</div>
+      </div>          
+          
+        <div class="more d-flex align-items-center mt-auto pt-4">
+          <a class="pw-link" href="/aktualnosci/blizej-zrozumienia-asymetrii-materia-antymateria">Zobacz więcej<span class="sr-only"> - 
+<span>Bliżej zrozumienia asymetrii materia – antymateria</span>
+</span></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</article>
+<!-- End article teaser display -->
+        </div>
                  
                 <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
           
@@ -544,13 +618,13 @@ HTML Content Preview: <!DOCTYPE html>
                 <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
           
 <!-- Start article teaser display -->
-<article data-history-node-id="3116" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+<article data-history-node-id="3115" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
   <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
     <div class="post-image zoomable">
         
             <div class="field field--name-field-image field--type-image field--label-hidden field__item">
 <div class="item-image">
-  <a href="/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/zawszeciekawi_1920x1080-02%20%282%29.png?itok=NftMbBbi" alt="Grafika przedstawiająca rysunek mózgu i napis #zawszeciekawi" />
+  <a href="/aktualnosci/wyscigowy-maraton-zespolu-proton-dynamic"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/PD_02_1080.jpg?itok=cgbJB_gs" alt="Na zdjęciu grupa studentów z zespołu Proton Dynamic oraz ich bolid" />
 
 </a>
 </div>
@@ -559,16 +633,16 @@ HTML Content Preview: <!DOCTYPE html>
     </div>
     <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
       <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
-                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024" rel="bookmark">
-<span>Spotkajmy się na Warszawskim Salonie Maturzystów 2024</span>
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/wyscigowy-maraton-zespolu-proton-dynamic" rel="bookmark">
+<span>Wyścigowy maraton zespołu Proton Dynamic </span>
 </a> </h2>
         <div>
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Co warto wiedzieć o Politechnice Warszawskiej? Jakie mamy kierunki i jak się na nie dostać? Na te i inne pytania będziemy odpowiadać 26 i 27 września podczas wydarzenia w Szkole Głównej Handlowej.</div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Niemcy, Chorwacja i Polska – to tam w sierpniu i we wrześniu w zawodach z cyklu Formuła Student startował bolid drużyny z Politechniki Warszawskiej Proton Dynamic. Jak poszło naszym studentom?</div>
       </div>          
           
         <div class="more d-flex align-items-center mt-auto pt-4">
-          <a class="pw-link" href="/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024">Zobacz więcej<span class="sr-only"> - 
-<span>Spotkajmy się na Warszawskim Salonie Maturzystów 2024</span>
+          <a class="pw-link" href="/aktualnosci/wyscigowy-maraton-zespolu-proton-dynamic">Zobacz więcej<span class="sr-only"> - 
+<span>Wyścigowy maraton zespołu Proton Dynamic </span>
 </span></a>
         </div>
       </div>
@@ -618,13 +692,13 @@ HTML Content Preview: <!DOCTYPE html>
                 <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
           
 <!-- Start article teaser display -->
-<article data-history-node-id="3112" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
+<article data-history-node-id="3124" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
   <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
     <div class="post-image zoomable">
         
             <div class="field field--name-field-image field--type-image field--label-hidden field__item">
 <div class="item-image">
-  <a href="/aktualnosci/nowi-przewodniczacy-komisji-krasp"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/Projekt%20bez%20nazwy%281%29.png?itok=OGhU7Uus" alt="Nowi przewodniczący Komisji KRASP" />
+  <a href="/aktualnosci/znamy-listy-rankingowe-kandydatow-do-szkoly-doktorskiej-0"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/06.11.23_inz_Chemiczana_lab_700_1920x080.jpg?itok=4dAU3IgN" alt="Na zdjęciu trzy osoby siedzące przy komputerze, jedna wskazuje ręką na ekran" />
 
 </a>
 </div>
@@ -633,90 +707,16 @@ HTML Content Preview: <!DOCTYPE html>
     </div>
     <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
       <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
-                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/nowi-przewodniczacy-komisji-krasp" rel="bookmark">
-<span>Nowi przewodniczący Komisji KRASP</span>
+                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/znamy-listy-rankingowe-kandydatow-do-szkoly-doktorskiej-0" rel="bookmark">
+<span>Znamy listy rankingowe kandydatów do Szkoły Doktorskiej</span>
 </a> </h2>
         <div>
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Podczas pierwszego posiedzenia Prezydium IX kadencji KRASP wyłoniono nowy skład przewodniczących komisji stałych na najbliższą czteroletnią kadencję. Prof. Krzysztof Zaremba, rektor PW, objął stanowisko Przewodniczącego Komisji ds. Infrastruktury Informatycznej.</div>
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Za nami kolejny etap rekrutacji na doktorat na Politechnice Warszawskiej – ogłoszenie list rankingowych. Jeśli widzisz tam swoje nazwisko, pamiętaj o terminowym przekazaniu wymaganych dokumentów.</div>
       </div>          
           
         <div class="more d-flex align-items-center mt-auto pt-4">
-          <a class="pw-link" href="/aktualnosci/nowi-przewodniczacy-komisji-krasp">Zobacz więcej<span class="sr-only"> - 
-<span>Nowi przewodniczący Komisji KRASP</span>
-</span></a>
-        </div>
-      </div>
-    </div>
-  </div>
-</article>
-<!-- End article teaser display -->
-        </div>
-                 
-                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
-          
-<!-- Start article teaser display -->
-<article data-history-node-id="3111" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
-  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
-    <div class="post-image zoomable">
-        
-            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
-<div class="item-image">
-  <a href="/aktualnosci/promocja-pw-w-dolinie-krzemowej"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/1726060229910_1080.jpg?itok=LCgcDNs9" alt="Na zdjęciu uczestnicy uroczystości podpisania porozumienia z Sillicon Valey Center for Science" />
-
-</a>
-</div>
-</div>
-      
-    </div>
-    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
-      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
-                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/promocja-pw-w-dolinie-krzemowej" rel="bookmark">
-<span>Promocja PW w Dolinie Krzemowej</span>
-</a> </h2>
-        <div>
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Politechnika Warszawska wraz z 7 innymi polskimi uczelniami podpisała umowę o współpracy z Poland in Silicon Valley Center for Science, Innovation, and Entrepreneurship. Współpraca skupi się wokół wzmacniania współpracy między ośrodkami naukowymi i przemysłowymi, komercjalizacji rezultatów badań oraz promocji nauki.</div>
-      </div>          
-          
-        <div class="more d-flex align-items-center mt-auto pt-4">
-          <a class="pw-link" href="/aktualnosci/promocja-pw-w-dolinie-krzemowej">Zobacz więcej<span class="sr-only"> - 
-<span>Promocja PW w Dolinie Krzemowej</span>
-</span></a>
-        </div>
-      </div>
-    </div>
-  </div>
-</article>
-<!-- End article teaser display -->
-        </div>
-                 
-                <div class="item-columns mb-4 d-flex align-items-stretch px-4 my-4">
-          
-<!-- Start article teaser display -->
-<article data-history-node-id="3113" class="node node--type-article node--view-mode-teaser clearfix d-flex align-items-stretch w-100">
-  <div class="post-block post-style-1 d-flex flex-column mb-0 w-100">
-    <div class="post-image zoomable">
-        
-            <div class="field field--name-field-image field--type-image field--label-hidden field__item">
-<div class="item-image">
-  <a href="/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google"><img loading="lazy" src="/sites/default/files/styles/medium/public/2024-09/Projekt%20bez%20nazwy%282%29.png?itok=aaRNnXhE" alt="Na zdjęciu dziecko przed komputerem" />
-
-</a>
-</div>
-</div>
-      
-    </div>
-    <div class="post-content pt-2 flex-grow-1 d-flex align-items-stretch mb-0">
-      <div class="content-inner w-100 mw-100 d-flex flex-column px-3 pb-3">
-                <h2 class="post-title fw-500 pb-2 mt-3 mh-4em border-bottom border-dark"> <a href="/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google" rel="bookmark">
-<span>Innowacyjna aplikacja MindEasy w konkursie Google</span>
-</a> </h2>
-        <div>
-            <div class="field field--name-body field--type-text-with-summary field--label-hidden field__item">Klara Skorupowska i Julia Nogowska – studentki Politechniki Warszawskiej – należą do zespołu projektowego, który stworzył aplikację MindEasy, pozwalającą dopasować poziom materiałów edukacyjnych do aktualnego stanu psychofizycznego ucznia. Aplikacja bierze udział w konkursie Google Gemini API Developer Competition – głosowanie trwa do końca października!</div>
-      </div>          
-          
-        <div class="more d-flex align-items-center mt-auto pt-4">
-          <a class="pw-link" href="/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google">Zobacz więcej<span class="sr-only"> - 
-<span>Innowacyjna aplikacja MindEasy w konkursie Google</span>
+          <a class="pw-link" href="/aktualnosci/znamy-listy-rankingowe-kandydatow-do-szkoly-doktorskiej-0">Zobacz więcej<span class="sr-only"> - 
+<span>Znamy listy rankingowe kandydatów do Szkoły Doktorskiej</span>
 </span></a>
         </div>
       </div>
@@ -1500,7 +1500,7 @@ HTML Content Preview: <!DOCTYPE html>
 				<div  class="gsc-column el-93368381 col-xl-12 col-lg-8 col-md-10 col-sm-12 col-xs-12 mx-auto  " >
 			<div class="column-inner  bg-size-cover">
 				<div class="column-content-inner ">
-				  <div><div  class="widget block clearfix gsc-block-view  gsc-block-drupal block-view title-align-left px-5 px-xs-0 text-dark remove-margin-off" ><div class="views-element-container"><div class="gva-view js-view-dom-id-d1eb2c04a4dc2560e38fdc23ec1139626625571436097eedfca9b56baabcd615">
+				  <div><div  class="widget block clearfix gsc-block-view  gsc-block-drupal block-view title-align-left px-5 px-xs-0 text-dark remove-margin-off" ><div class="views-element-container"><div class="gva-view js-view-dom-id-31bf945a9d397fdbc4ddd8bd4be6713becdbc6b35871856fe6b162528e3cb1b3">
   
   
   
@@ -1726,10 +1726,11 @@ HTML Content Preview: <!DOCTYPE html>
 				<div  class="gsc-column el-32264015 col-xl-2 col-lg-2 col-md-3 col-sm-3 col-xs-3 d-xs-flex  " >
 			<div class="column-inner  bg-size-cover">
 				<div class="column-content-inner d-flex align-items-center justify-content-center justify-content-xs-start h-100">
-				  <div style=" " class="custom-text text-white my-3 d-flex flex-column align-items-center d-xs-block  box-margin-0" ><p><strong><a class="text-white" href="/dla-mediow">Dla medi&oacute;w</a></strong></p>
+				  <div style=" " class="custom-text text-white mt-3 mt-sm-0 mb-3 d-flex flex-column align-items-center d-xs-block  box-margin-0" ><p><strong><a class="text-white" href="/dla-mediow">Dla medi&oacute;w</a></strong></p>
 <p><strong><a class="text-white" href="https://www.sklep.pw.edu.pl">Sklep PW</a></strong></p>
 <p><strong><a class="text-white" href="/kontakt">Kontakt</a></strong></p>
-<p><strong><a class="text-white" href="/pracownicy-i-kandydaci-do-pracy">Pracownicy</a></strong></p></div>				</div>  
+<p><strong><a class="text-white" href="/pracownicy-i-kandydaci-do-pracy">Pracuj w PW</a></strong></p>
+<p><strong><a class="text-white" href="/inwestycje">Inwestycje</a></strong></p></div>				</div>  
 			</div>
 		  
 		 </div>
@@ -1844,7 +1845,7 @@ HTML Content Preview: <!DOCTYPE html>
 
     
     <script src="/sites/default/files/js/js_LUVUfdOKv0dxC717dbrnbpVBs82wKH1hhk0m9fZLC9M.js?scope=footer&amp;delta=0&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1"></script>
-<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?sh3194"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?sjyj0d"></script>
 <script src="/sites/default/files/js/js_UkdLtds6Qp-V35vl3voSJqyR_jEKE6XqGc3Wk1EOUOk.js?scope=footer&amp;delta=2&amp;language=pl&amp;theme=krowd_sub&amp;include=eJxljOsOwiAMhV8IxyORQjtS7aihsMvba3RxOv80p9-5JBWtUVePNEKX5tIOAhfhQv70O9us0eQjGLlb1QV9Fo0gF2vbM5DfMFiPZyPdCLlpDZCSVmQt_qOGsWppVNDNTIv51x0mxS70g-AKq8swM1gwYaQqsFH1_2gAM2p2LO-RO2SKnQWP1hc6tx5EJnH1"></script>
 
     
@@ -1854,5 +1855,5 @@ HTML Content Preview: <!DOCTYPE html>
   </body>
 </html>
 ...
-JavaScript Data Found: {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/30","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxljmsOwzAIgy_UNUeKSKARGw1TSPq4_aptarf2D4LPtkx8EHLV4iFGLcia3b71Q9FcKWMXVbQEXRzSAE3qDjxn4UzudHcJJgbzT0gUGgtScVfUgxlVO2q-FhPeVIH1SP2gS-pRdEaXRAPIzeq6PZA-0FsLZ8FWqzS6AEbdxDSbe88e7rD8gVGxCb0AnnFx9Q","theme":"krowd_sub","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"colorbox":{"opacity":"0.85","current":"{current} z {total}","previous":"\u00ab Poprzednie","next":"Nast\u0119pne \u00bb","close":"Zamknij","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a":{"view_name":"aktualnosci","view_display_id":"block_2","view_args":"","view_path":"\/node\/30","view_base_path":null,"view_dom_id":"ed5c1af495e78b4a299f24359098f4401365bd2b32f59eaa342ed3f32733859a","pager_element":0}}},"user":{"uid":0,"permissionsHash":"13d6d758d18bf9d4232f613b6692205f9b7c27d48aab133a5a6669845b45dfaf"}}, , , , , , ,  (function(d) { var s = d.createElement("script"); s.setAttribute("data-accessible-account-id", "P9JIeyFhfpzwxc"); s.setAttribute("id", "allAccessibleWidget"); s.async = true; s.setAttribute("src", "https://app.allaccessible.org/api/P9JIeyFhfpzwxc.js"); d.head.appendChild(s); })(document) 
-API Requests/Links Found: http://www.facebook.com/politechnika.warszawska, http://instagram.com/politechnika_warszawska, http://twitter.com/PW_edu, https://pl.linkedin.com/edu/politechnika-warszawska-15980, https://www.youtube.com/channel/UCCXBvkV8M7t-3k6Pd5j82aQ, https://www.tiktok.com/@politechnikawaw, https://eng.pw.edu.pl, https://www.bip.pw.edu.pl, https://www.pw.edu.pl/search, https://intranet.pw.edu.pl, https://usosweb.usos.pw.edu.pl, https://leon.pw.edu.pl/, https://portal.sap.pw.edu.pl, https://webmail.pw.edu.pl, https://repo.pw.edu.pl, https://ezd.pw.edu.pl/, https://www.pw.edu.pl/, https://www.pw.edu.pl/, https://www.pw.edu.pl/uczelnia/terazniejszosc, https://www.pw.edu.pl/uczelnia/terazniejszosc, https://www.pw.edu.pl/uczelnia/przeszlosc, https://www.pw.edu.pl/uczelnia/przyszlosc, https://www.pw.edu.pl/studia, https://www.pw.edu.pl/studia/studia-i-stopnia, https://www.pw.edu.pl/studia/studia-ii-stopnia, https://www.pw.edu.pl/studia/doktorat, https://www.pw.edu.pl/studia/studia-podyplomowe, https://www.pw.edu.pl/studia/kursy, https://www.pw.edu.pl/badania, https://www.pw.edu.pl/kampus, https://www.pw.edu.pl/sukcesy, https://www.pw.edu.pl/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie, https://www.pw.edu.pl/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie, https://www.pw.edu.pl/kampus/gmach-glowny, https://www.pw.edu.pl/aktualnosci, https://www.pw.edu.pl/aktualnosci, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024, https://www.pw.edu.pl/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024, https://www.pw.edu.pl/aktualnosci/spotkajmy-sie-na-warszawskim-salonie-maturzystow-2024, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/nowi-przewodniczacy-komisji-krasp, https://www.pw.edu.pl/aktualnosci/nowi-przewodniczacy-komisji-krasp, https://www.pw.edu.pl/aktualnosci/nowi-przewodniczacy-komisji-krasp, https://www.pw.edu.pl/aktualnosci/promocja-pw-w-dolinie-krzemowej, https://www.pw.edu.pl/aktualnosci/promocja-pw-w-dolinie-krzemowej, https://www.pw.edu.pl/aktualnosci/promocja-pw-w-dolinie-krzemowej, https://www.pw.edu.pl/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google, https://www.pw.edu.pl/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google, https://www.pw.edu.pl/aktualnosci/innowacyjna-aplikacja-mindeasy-w-konkursie-google, https://www.pw.edu.pl/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw, https://www.pw.edu.pl/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw, https://www.pw.edu.pl/aktualnosci/welcome-point-na-politechnice-warszawskiej, https://www.pw.edu.pl/aktualnosci/welcome-point-na-politechnice-warszawskiej, https://www.pw.edu.pl/wydarzenia, https://www.pw.edu.pl/wydarzenia, https://www.pw.edu.pl/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim, https://www.pw.edu.pl/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim, https://www.pw.edu.pl/wydarzenia/fall-meeting-european-materials-research-society, https://www.pw.edu.pl/wydarzenia/fall-meeting-european-materials-research-society, https://www.pw.edu.pl/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii, https://www.pw.edu.pl/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii, https://www.pw.edu.pl/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024, https://www.pw.edu.pl/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024, https://www.pw.edu.pl/dla-mediow, https://www.sklep.pw.edu.pl, https://www.pw.edu.pl/kontakt, https://www.pw.edu.pl/pracownicy-i-kandydaci-do-pracy, https://badawcza.pw.edu.pl/, https://enhanceuniversity.eu/, https://www.pw.edu.pl/hr-excellence-research, https://www.pw.edu.pl/deklaracja-dostepnosci, https://www.pw.edu.pl/search/node
+JavaScript Data Found: {"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/30","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"pl"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxljmsOwzAIgy_UNUeKSKARGw1TSPq4_aptarf2D4LPtkx8EHLV4iFGLcia3b71Q9FcKWMXVbQEXRzSAE3qDjxn4UzudHcJJgbzT0gUGgtScVfUgxlVO2q-FhPeVIH1SP2gS-pRdEaXRAPIzeq6PZA-0FsLZ8FWqzS6AEbdxDSbe88e7rD8gVGxCb0AnnFx9Q","theme":"krowd_sub","theme_token":null},"ajaxTrustedUrl":{"\/search\/node":true},"colorbox":{"opacity":"0.85","current":"{current} z {total}","previous":"\u00ab Poprzednie","next":"Nast\u0119pne \u00bb","close":"Zamknij","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":0}},"views":{"ajax_path":"\/views\/ajax","ajaxViews":{"views_dom_id:df7b46198830b8cd39047c41d5c1b07b5ef6e7b08540046f6692b8dac24492ac":{"view_name":"aktualnosci","view_display_id":"block_2","view_args":"","view_path":"\/node\/30","view_base_path":null,"view_dom_id":"df7b46198830b8cd39047c41d5c1b07b5ef6e7b08540046f6692b8dac24492ac","pager_element":0}}},"user":{"uid":0,"permissionsHash":"13d6d758d18bf9d4232f613b6692205f9b7c27d48aab133a5a6669845b45dfaf"}}, , , , , , ,  (function(d) { var s = d.createElement("script"); s.setAttribute("data-accessible-account-id", "P9JIeyFhfpzwxc"); s.setAttribute("id", "allAccessibleWidget"); s.async = true; s.setAttribute("src", "https://app.allaccessible.org/api/P9JIeyFhfpzwxc.js"); d.head.appendChild(s); })(document) 
+API Requests/Links Found: http://www.facebook.com/politechnika.warszawska, http://instagram.com/politechnika_warszawska, http://twitter.com/PW_edu, https://pl.linkedin.com/edu/politechnika-warszawska-15980, https://www.youtube.com/channel/UCCXBvkV8M7t-3k6Pd5j82aQ, https://www.tiktok.com/@politechnikawaw, https://eng.pw.edu.pl, https://www.bip.pw.edu.pl, https://www.pw.edu.pl/search, https://intranet.pw.edu.pl, https://usosweb.usos.pw.edu.pl, https://leon.pw.edu.pl/, https://portal.sap.pw.edu.pl, https://webmail.pw.edu.pl, https://repo.pw.edu.pl, https://ezd.pw.edu.pl/, https://www.pw.edu.pl/, https://www.pw.edu.pl/, https://www.pw.edu.pl/uczelnia/terazniejszosc, https://www.pw.edu.pl/uczelnia/terazniejszosc, https://www.pw.edu.pl/uczelnia/przeszlosc, https://www.pw.edu.pl/uczelnia/przyszlosc, https://www.pw.edu.pl/studia, https://www.pw.edu.pl/studia/studia-i-stopnia, https://www.pw.edu.pl/studia/studia-ii-stopnia, https://www.pw.edu.pl/studia/doktorat, https://www.pw.edu.pl/studia/studia-podyplomowe, https://www.pw.edu.pl/studia/kursy, https://www.pw.edu.pl/badania, https://www.pw.edu.pl/kampus, https://www.pw.edu.pl/sukcesy, https://www.pw.edu.pl/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie, https://www.pw.edu.pl/aktualnosci/zapraszamy-na-28-festiwal-nauki-w-warszawie, https://www.pw.edu.pl/kampus/gmach-glowny, https://www.pw.edu.pl/aktualnosci, https://www.pw.edu.pl/aktualnosci, https://www.pw.edu.pl/aktualnosci/politechnika-warszawska-solidarna-z-ofiarami-powodzi, https://www.pw.edu.pl/aktualnosci/politechnika-warszawska-solidarna-z-ofiarami-powodzi, https://www.pw.edu.pl/aktualnosci/politechnika-warszawska-solidarna-z-ofiarami-powodzi, https://www.pw.edu.pl/aktualnosci/blizej-zrozumienia-asymetrii-materia-antymateria, https://www.pw.edu.pl/aktualnosci/blizej-zrozumienia-asymetrii-materia-antymateria, https://www.pw.edu.pl/aktualnosci/blizej-zrozumienia-asymetrii-materia-antymateria, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/wyniki-trzeciej-tury-rekrutacji-na-studia-stacjonarne-i-stopnia, https://www.pw.edu.pl/aktualnosci/wyscigowy-maraton-zespolu-proton-dynamic, https://www.pw.edu.pl/aktualnosci/wyscigowy-maraton-zespolu-proton-dynamic, https://www.pw.edu.pl/aktualnosci/wyscigowy-maraton-zespolu-proton-dynamic, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/laureatka-nagrody-nobla-z-chemii-i-astronauta-nasa-z-wykladami-na-pw, https://www.pw.edu.pl/aktualnosci/znamy-listy-rankingowe-kandydatow-do-szkoly-doktorskiej-0, https://www.pw.edu.pl/aktualnosci/znamy-listy-rankingowe-kandydatow-do-szkoly-doktorskiej-0, https://www.pw.edu.pl/aktualnosci/znamy-listy-rankingowe-kandydatow-do-szkoly-doktorskiej-0, https://www.pw.edu.pl/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw, https://www.pw.edu.pl/aktualnosci/przelomowa-operacja-nerki-dzieki-badaczom-z-pw, https://www.pw.edu.pl/aktualnosci/welcome-point-na-politechnice-warszawskiej, https://www.pw.edu.pl/aktualnosci/welcome-point-na-politechnice-warszawskiej, https://www.pw.edu.pl/wydarzenia, https://www.pw.edu.pl/wydarzenia, https://www.pw.edu.pl/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim, https://www.pw.edu.pl/wydarzenia/wystawa-politechnika-w-powstaniu-warszawskim, https://www.pw.edu.pl/wydarzenia/fall-meeting-european-materials-research-society, https://www.pw.edu.pl/wydarzenia/fall-meeting-european-materials-research-society, https://www.pw.edu.pl/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii, https://www.pw.edu.pl/wydarzenia/wyklad-otwarty-prof-frances-arnold-laureatki-nagrody-nobla-z-chemii, https://www.pw.edu.pl/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024, https://www.pw.edu.pl/wydarzenia/miedzynarodowa-konferencja-na-temat-katalizy-ucra-2024, https://www.pw.edu.pl/dla-mediow, https://www.sklep.pw.edu.pl, https://www.pw.edu.pl/kontakt, https://www.pw.edu.pl/pracownicy-i-kandydaci-do-pracy, https://www.pw.edu.pl/inwestycje, https://badawcza.pw.edu.pl/, https://enhanceuniversity.eu/, https://www.pw.edu.pl/hr-excellence-research, https://www.pw.edu.pl/deklaracja-dostepnosci, https://www.pw.edu.pl/search/node

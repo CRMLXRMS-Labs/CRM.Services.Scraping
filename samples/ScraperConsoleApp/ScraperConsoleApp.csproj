@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\src\CRMScraper.Library\CRMScraper.Library.csproj" />
+    <ProjectReference Include="..\..\src\CRMScraper.Library\CRMScraper.Library.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

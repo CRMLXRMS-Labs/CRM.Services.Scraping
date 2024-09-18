@@ -5,7 +5,7 @@ HTML Content Preview: <!DOCTYPE html>
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="csrf-token" content="Niwp9LTVrPnGtRZ6fu6E8wwNnlvgQPygi5K2pxq6">
+    <meta name="csrf-token" content="7H8m4ZZRFpkCwKpE2i8SHXkK7tM0ICuBsuvRMLib">
     <title>Polskie Towarzystwo Urologiczne</title>
     <script src="https://www.pturol.org.pl/js/jquery.min.js"></script>
     <link rel="icon" type="image/x-icon" href="/images/favicon_PTU32.ico" sizes="32x32">
