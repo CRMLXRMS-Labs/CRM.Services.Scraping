@@ -19,27 +19,41 @@ namespace CRMScraper.Library.Core
             var pagesToScrape = new ConcurrentQueue<string>();
             var visitedUrls = new ConcurrentDictionary<string, bool>();
 
-            // Enqueue the initial target URL
-            pagesToScrape.Enqueue(task.TargetUrl);
-            visitedUrls[task.TargetUrl] = true;
+            // Enqueue the initial target URL, but check if it's valid
+            if (!string.IsNullOrWhiteSpace(task.TargetUrl))
+            {
+                pagesToScrape.Enqueue(task.TargetUrl);
+                visitedUrls[task.TargetUrl] = true;
+            }
+            else
+            {
+                Console.WriteLine("Target URL is empty or invalid. Skipping.");
+                return results.ToList(); // No valid URL to scrape, return immediately
+            }
 
             var startTime = DateTime.UtcNow;
             var tasks = new List<Task>();
 
             using (var semaphore = new SemaphoreSlim(task.MaxConcurrentPages))
             {
-                // Continue scraping while pages are available, max pages haven't been reached, and cancellation is not requested
                 while (!pagesToScrape.IsEmpty && results.Count < task.MaxPages && !cancellationToken.IsCancellationRequested)
                 {
                     if (pagesToScrape.TryDequeue(out var url))
                     {
-                        await semaphore.WaitAsync();
+                        // Skip empty or invalid URLs
+                        if (string.IsNullOrWhiteSpace(url))
+                        {
+                            Console.WriteLine("Encountered empty or invalid URL. Skipping.");
+                            continue;
+                        }
+
+                        await semaphore.WaitAsync(cancellationToken); // Await the semaphore respecting cancellation
 
                         tasks.Add(Task.Run(async () =>
                         {
                             try
                             {
-                                // Scrape the current URL with retries if needed
+                                // Scrape the current URL with retry logic if necessary
                                 var pageResult = await ScrapeWithRetryAsync(url, () =>
                                     task.UseDynamicScraping
                                         ? _scraperClient.ScrapeDynamicPageAsync(url)
@@ -96,6 +110,7 @@ namespace CRMScraper.Library.Core
 
             return results.ToList();
         }
+
 
         // Retry mechanism with exponential backoff
         private async Task<ScrapedPageResult> ScrapeWithRetryAsync(string url, Func<Task<ScrapedPageResult>> scrapeFunction, int maxRetries = 3)
