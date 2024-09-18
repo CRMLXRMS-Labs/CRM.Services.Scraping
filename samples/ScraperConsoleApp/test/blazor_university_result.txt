@@ -1,0 +1,940 @@
+Scraped URL: https://blazor-university.com/
+HTML Content Preview: <!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<title>Blazor University - Introduction</title>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3864065-7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3864065-7');
+</script>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8">
+<meta name="title" content="Blazor University - Introduction">
+<meta name="description">
+
+<meta property="og:site_name" content="Blazor University">
+<meta property="og:url" content="/">
+<meta property="og:title" content="Blazor University - Introduction">
+<meta property="og:description">
+
+<link rel="canonical" href="/">
+<link rel="shortcut icon" href="/favicon.png" type="image/x-icon">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link href="/css/Site.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" title="highlight_light" href="/css/prism-light.css" disabled="disabled">
+<link rel="stylesheet" title="highlight_dark" href="/css/prism-dark.css" disabled="disabled">
+</head>
+<body class="relative flex flex-col bg-zinc-200 dark:bg-slate-800 text-zinc-800 dark:text-zinc-100">
+<div class="flex flex-col flex-grow mx-auto lg:w-3/4">
+
+<header class="mx-auto my-2">
+<a href="/" class="flex flex-row items-center mb-3">
+<img class="mx-auto my-2" src="/images/blazor-university-circle.png" />
+<div class="flex flex-col ml-4">
+<span class="text-4xl">Blazor University</span>
+<span class="text-sm uppercase">Learn the .NET SPA framework from Microsoft</span>
+</div>
+</a>
+
+<div class="flex md:h-auto md:w-80 md:flex-none  md:py-2.5 md:pl-4 md:pr-3.5">
+<div class="flex flex-col group">
+<div class="flex items-center justify-center h-6 group min-width-auto sm:justify-start ">
+<input onclick="searchWindow()" class="group flex h-6 w-6 items-center justify-center sm:justify-start md:h-auto md:w-80 md:flex-none md:rounded-lg md:py-2.5 md:pl-4 md:pr-3.5 md:text-sm md:ring-1 md:ring-slate-200 md:hover:ring-slate-300 dark:md:bg-slate-800/75 dark:md:ring-inset dark:md:ring-white/5 dark:md:hover:bg-slate-700/40 dark:md:hover:ring-slate-500 lg:w-96" placeholder="search...">
+<span class="sr-only md:not-sr-only md:ml-2 md:text-slate-500 md:dark:text-slate-400">
+</span>
+<kbd class="flex ml-auto space-x-3 font-medium text-slate-400 dark:text-slate-500 ">
+<kbd class="font-sans">⌘</kbd>
+<kbd class="font-sans">Ctrl</kbd>
+<kbd class="font-sans">X</kbd>
+</kbd>
+</div>
+</div>
+</div>
+
+</header>
+
+<div class="flex flex-row flex-grow w-full mx-auto mt-2">
+<div class="w-1/3 mt-4">
+
+<section id="left-sidebar" class="flex flex-col justify-between">
+<nav class="content-menu">
+
+<div class="hidden menu-group overflow-hidden" data-group-id="ef6d8c4e-c9a3-4dbf-9131-daf0ad7d534c">
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="e8f31e7a-239b-4e34-9f54-3c681cba3e5f" data-doc-title="Introduction">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/overview">Introduction</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="e8f31e7a-239b-4e34-9f54-3c681cba3e5f">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="f75f0405-786f-413a-be10-cc84c99eb2a9" data-doc-title="What is Blazor?">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/overview/what-is-blazor">What is Blazor?</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="24906ad8-43d4-4c60-892b-c9b5abfe449d" data-doc-title="What is WebAssembly?">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/overview/what-is-webassembly">What is WebAssembly?</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="df7e774f-6118-493d-84f3-e913e1441305" data-doc-title="Blazor hosting models">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/overview/blazor-hosting-models">Blazor hosting models</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="b66a9957-d20b-4692-8d06-3e26639574c3" data-doc-title="Installing Blazor">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/overview/installing-blazor">Installing Blazor</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="0ac09f36-83e1-4eb7-a382-dca4301ff92a" data-doc-title="Creating a new project">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/overview/creating-a-new-project">Creating a new project</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="e3ae17d9-7592-46cf-b6ad-5c86a1eba70b" data-doc-title="Creating a page">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/overview/creating-a-page">Creating a page</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="cc420ee1-fde9-4700-88f4-080d09245879" data-doc-title="Layouts">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/layouts">Layouts</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="cc420ee1-fde9-4700-88f4-080d09245879">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="16bbaa81-c6a0-4920-9ce6-a2db866ec156" data-doc-title="Creating a Blazor layout">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/layouts/creating-a-blazor-layout">Creating a Blazor layout</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="e561f0ac-0404-4bd5-939f-73a8a0a0b364" data-doc-title="Using a layout">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/layouts/using-layouts">Using a layout</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="e6961fbc-843b-4871-b508-6c45c3c3f4b1" data-doc-title="Nested layouts">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/layouts/nested-layouts">Nested layouts</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="8b292be5-6b68-4da1-9a52-f0556573fadb" data-doc-title="Components">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/components">Components</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="8b292be5-6b68-4da1-9a52-f0556573fadb">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="d451b22d-d775-4c7f-aacb-7bca35a9b7dd" data-doc-title="Creating a component">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/creating-a-component">Creating a component</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="23e71b0c-9ba7-46de-8bc7-1fcc2d2a3d60" data-doc-title="One-way binding">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/one-way-binding">One-way binding</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="521bb351-2983-4a97-83e2-66972c5041f3" data-doc-title="Literals, expressions, and directives">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/components/literals-expressions-and-directives">Literals, expressions, and directives</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="521bb351-2983-4a97-83e2-66972c5041f3">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="b5938f2c-40ca-481f-b3e7-23e021508634" data-doc-title="Directives">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/literals-expressions-and-directives/directives">Directives</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="be88ad1d-6ad4-4ba1-8429-2eb84f8965c5" data-doc-title="Component events">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/components/component-events">Component events</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="be88ad1d-6ad4-4ba1-8429-2eb84f8965c5">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="9141a94e-cbe3-464c-816c-eaccd40d911e" data-doc-title="Browser DOM events">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/component-events/browser-dom-events">Browser DOM events</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="882db18c-bc35-44e6-b2aa-8ca040dca558" data-doc-title="Two-way binding">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/components/two-way-binding">Two-way binding</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="882db18c-bc35-44e6-b2aa-8ca040dca558">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="52d4fd97-5b0a-46be-9b35-189cd93e59f8" data-doc-title="Binding directives">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/two-way-binding/binding-directives">Binding directives</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="058e0912-d0eb-4869-856a-03f6879a09d1" data-doc-title="Cascading values">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/components/cascading-values">Cascading values</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="058e0912-d0eb-4869-856a-03f6879a09d1">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="f24abdfa-934d-4017-a674-215bed857dee" data-doc-title="Cascading values by name">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/cascading-values/cascading-values-by-name">Cascading values by name</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="7c5184fa-7e1a-4c1c-a3c9-33cf4f174fc2" data-doc-title="Cascading values by type">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/cascading-values/cascading-values-by-type">Cascading values by type</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="2b352bfd-5b98-47dc-9639-0e95d45cf94d" data-doc-title="Overriding cascaded values">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/cascading-values/overriding-cascaded-values">Overriding cascaded values</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="84846c06-6d65-41fc-9e05-86ff194a7894" data-doc-title="Code generated HTML attributes">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/code-generated-html-attributes">Code generated HTML attributes</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="87ec17b6-6644-4785-9555-edeaa689d645" data-doc-title="Capturing unexpected parameters">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/capturing-unexpected-parameters">Capturing unexpected parameters</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="9c93eaf4-d53b-4b30-bc32-57b46cac64f3" data-doc-title="Replacing attributes on child components">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/replacing-attributes-on-child-components">Replacing attributes on child components</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="6d45cad3-c1d7-4014-9051-a67438dd17a6" data-doc-title="Component lifecycles">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/component-lifecycles">Component lifecycles</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="078a13b8-43ca-462a-b9c6-059bdf20461b" data-doc-title="Multi-threaded rendering">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/components/multi-threaded-rendering">Multi-threaded rendering</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="078a13b8-43ca-462a-b9c6-059bdf20461b">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="03b73a7e-3261-4c87-862d-bfb6f3fd02d6" data-doc-title="Thread safety using InvokeAsync">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/multi-threaded-rendering/invokeasync">Thread safety using InvokeAsync</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="74cba1f6-9398-4c2a-b8b4-d0312ba51e29" data-doc-title="Render trees">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/components/render-trees">Render trees</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="74cba1f6-9398-4c2a-b8b4-d0312ba51e29">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="3c2a557d-f9a1-4dba-b6cc-187b213ec7a3" data-doc-title="Incremental RenderTree proof">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/render-trees/incremental-rendertree-proof">Incremental RenderTree proof</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="e7be0c04-bec6-4d3b-a8be-87494a3a8a57" data-doc-title="Optimizing using @key">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/components/render-trees/optimising-using-key">Optimizing using @key</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="8d2e01f6-b60b-47f8-bfd1-be4edbbdc929" data-doc-title="Templating components with RenderFragments">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/templating-components-with-renderfragements">Templating components with RenderFragments</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="8d2e01f6-b60b-47f8-bfd1-be4edbbdc929">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="f7e59fbb-3a8b-496f-8713-c69259381db3" data-doc-title="Creating a TabControl">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/templating-components-with-renderfragements/creating-a-tabcontrol">Creating a TabControl</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="8ee7c767-af51-401c-a400-c38bbd74b57e" data-doc-title="Passing data to a RenderFragment">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/templating-components-with-renderfragements/passing-data-to-a-renderfragement">Passing data to a RenderFragment</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="4bf50f5e-64d1-41df-9a8d-6af079f47ea4" data-doc-title="Using @typeparam to create generic components">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/templating-components-with-renderfragements/using-typeparam-to-create-generic-components">Using @typeparam to create generic components</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="d20bf137-9b77-4d1a-99fb-8a7d443cffbd" data-doc-title="Passing placeholders to RenderFragments">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/templating-components-with-renderfragements/passing-placeholders-to-renderfragments">Passing placeholders to RenderFragments</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="9b12834a-9107-4314-ab28-a049c60270cf" data-doc-title="Routing">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/routing">Routing</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="9b12834a-9107-4314-ab28-a049c60270cf">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="0b251727-3e1f-4131-895c-91fff89bc703" data-doc-title="Defining routes">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/defining-routes">Defining routes</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="2f4a8b03-2a74-4edc-aca0-7297625125a3" data-doc-title="Route parameters">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/route-parameters">Route parameters</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="f7034b07-add3-4f47-aa95-75d70fc1c338" data-doc-title="Constraining route parameters">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/constraining-route-parameters">Constraining route parameters</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="8f56f376-4686-4325-b63a-7ccb4d1d4d94" data-doc-title="Optional route parameters">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/optional-route-parameters">Optional route parameters</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="aa4fb97f-dd38-4c15-bd25-985b423ddaf3" data-doc-title="404 - Not found">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/404-not-found">404 - Not found</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="46896e89-8ca7-4bd5-b67c-437bae3a43ab" data-doc-title="Navigating our app via HTML">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/navigating-our-app-via-html">Navigating our app via HTML</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="43786b40-4e9c-466e-add8-a02e1236d96d" data-doc-title="Navigating our app via code">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/navigating-our-app-via-code">Navigating our app via code</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="e65d61b7-3d41-473e-b44e-25c00575c853" data-doc-title="Detecting navigation events">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/routing/detecting-navigation-events">Detecting navigation events</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="6eec3cbd-9b5f-4131-a172-3e20f51e78b5" data-doc-title="Forms">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/forms">Forms</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="6eec3cbd-9b5f-4131-a172-3e20f51e78b5">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="05f3fc4c-2785-4f61-ae45-1afaab0f84ce" data-doc-title="Editing form data">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/forms/editing-form-data">Editing form data</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="bb3a204b-af45-40c7-a7c8-ac3391dc1142" data-doc-title="Descending from InputBase&lt;T&gt;">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/forms/descending-from-inputbase">Descending from InputBase&lt;T&gt;</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="284fa42f-c26c-454a-9563-ab81fb862c55" data-doc-title="Validation">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/forms/validation">Validation</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="751edd13-bc5a-473c-9cd8-9f8e0affb9d3" data-doc-title="Handling form submission">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/forms/handling-form-submission">Handling form submission</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="6d9d030e-62de-4832-9acb-a54563779e04" data-doc-title="EditContext, FieldIdentifiers, and FieldState">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/forms/editcontext-fieldidentifiers-and-fieldstate">EditContext, FieldIdentifiers, and FieldState</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="c7035bd9-e939-4c7d-9da1-2f9f9d4d1b1d" data-doc-title="Accessing form state">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/forms/accessing-form-state">Accessing form state</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="46b19784-f34f-4941-858e-2850aaac6635" data-doc-title="Writing custom validation">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/forms/writing-custom-validation">Writing custom validation</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="2ebe6537-62eb-46c0-a887-9cb41e35661a" data-doc-title="Component libraries">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/component-libraries">Component libraries</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="9604f7a9-7f60-492e-bff9-22f6a44f8e6a" data-doc-title="JavaScript interop">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop">JavaScript interop</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="9604f7a9-7f60-492e-bff9-22f6a44f8e6a">
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="5291dd53-8b16-47c1-a62f-adea46655aec" data-doc-title="Calling .NET From JavaScript">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/calling-dotnet-from-javascript">Calling .NET From JavaScript</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="5291dd53-8b16-47c1-a62f-adea46655aec">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="455fb7bc-c330-45d2-9159-fac9a3a0df9d" data-doc-title="Calling static .NET methods">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/calling-dotnet-from-javascript/calling-static-dotnet-methods">Calling static .NET methods</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="fe288f12-37d5-4572-a64b-42d89e794c25" data-doc-title="Lifetimes and memory leaks">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/calling-dotnet-from-javascript/lifetimes-and-memory-leaks">Lifetimes and memory leaks</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="3d21e422-e47a-47ad-9857-4f12e87c1f8c" data-doc-title="Type safety">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/calling-dotnet-from-javascript/type-safety">Type safety</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="5343fd2d-4468-4c48-b65c-08bc782633da" data-doc-title="JavaScript boot process">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/javascript-boot-process">JavaScript boot process</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="0ced67e9-ae8f-4c09-9126-bf6a2d15e132" data-doc-title="Calling JavaScript from .NET">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/calling-javascript-from-dotnet">Calling JavaScript from .NET</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="0ced67e9-ae8f-4c09-9126-bf6a2d15e132">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="c6aa13f5-ce54-4ca0-969a-8d455b7061ef" data-doc-title="Updating the document title">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/calling-javascript-from-dotnet/updating-the-document-title">Updating the document title</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="c5fb07e7-6db2-45c9-946a-4a40afb1cf18" data-doc-title="Passing HTML element references">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/javascript-interop/calling-javascript-from-dotnet/passing-html-element-references">Passing HTML element references</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="8f77d73b-c583-4b92-ba57-62d186c5765c" data-doc-title="Dependency injection">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection">Dependency injection</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="8f77d73b-c583-4b92-ba57-62d186c5765c">
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="f1cd0f5e-8b1e-4152-8024-ef7d02baba97" data-doc-title="Component scoped dependencies">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/component-scoped-dependencies">Component scoped dependencies</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="f1cd0f5e-8b1e-4152-8024-ef7d02baba97">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="15b3a6e5-ac8e-4b84-bd02-c86d04bbef87" data-doc-title="OwningComponentBase&lt;T&gt;">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/component-scoped-dependencies/owningcomponentbase-generic">OwningComponentBase&lt;T&gt;</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="5e7ae6c9-49da-4027-9be6-c1c105ab6879" data-doc-title="Owning multiple dependencies: The wrong way">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/component-scoped-dependencies/owning-multiple-dependencies-the-wrong-way">Owning multiple dependencies: The wrong way</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="38ee5e6f-3b07-4e40-b532-322e33eb61ab" data-doc-title="Owning multiple dependencies: The right way">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/component-scoped-dependencies/owning-multiple-dependencies-the-right-way">Owning multiple dependencies: The right way</a>
+</div>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="dd8904ee-6eb2-4268-9b48-ffd5ee9f1732" data-doc-title="Injecting dependencies into Blazor components">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/injecting-dependencies-into-blazor-components">Injecting dependencies into Blazor components</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 pb-2 text-base flex items-start cursor-pointer" data-doc-id="9f11bf09-8ee2-43ca-9727-9431bc4b3318" data-doc-title="Dependency lifetimes and scopes">
+<div class="flex items-start cursor-pointer">
+
+<div class="mt-1 mr-2 menu-arrow rotate-arrow">
+<svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path></svg>
+</div>
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/dependency-lifetimes-and-scopes">Dependency lifetimes and scopes</a>
+</div>
+</div>
+</div>
+<div class="hidden menu-group overflow-hidden pl-2 mb-4" data-group-id="9f11bf09-8ee2-43ca-9727-9431bc4b3318">
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="e8a9beae-482d-48a0-9d24-d18ae0c8ca9c" data-doc-title="Transient dependencies">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/dependency-lifetimes-and-scopes/transient-dependencies">Transient dependencies</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="0eaae954-1ecb-40a1-a7e4-b0ebbcf3d1d6" data-doc-title="Singleton dependencies">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/dependency-lifetimes-and-scopes/singleton-dependencies">Singleton dependencies</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="83baa83e-210c-4153-a5cc-2c0993835d79" data-doc-title="Scoped dependencies">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/dependency-lifetimes-and-scopes/scoped-dependencies">Scoped dependencies</a>
+</div>
+</div>
+</div>
+
+<div class="menu dark:text-gray-300 ml-6 font-light flex items-start cursor-pointer" data-doc-id="cef28413-85ee-4ce0-a2f6-58185b1477aa" data-doc-title="Comparing dependency scopes">
+<div class="flex items-start cursor-pointer">
+
+<div class="sidebar-nav-item px-2">
+<a href="/dependency-injection/dependency-lifetimes-and-scopes/comparing-dependency-scopes">Comparing dependency scopes</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</section>
+</div>
+<div class="w-2/3">
+
+<header>
+<h1 class="bg-green-500 text-white p-2 text-2xl text-center mb-4">
+I am available for contract work, contact me via
+<a href="https://www.linkedin.com/in/peter-morris-007572a7/" target="_blank" class="underline">Linked-in</a>
+or <a href="/cdn-cgi/l/email-protection#503d22203d3f2222392310373d31393c7e333f3d" class="underline">Email</a>.
+</h1>
+<div class="flex flex-row justify-between">
+<h1 class="text-4xl mb-2 font-bold tracking-tight sm:text-5xl">
+Introduction
+</h1>
+<div class="mx-4 -mt-4">
+
+<a class="text-sm font-normal ml-4" href="https://github.com/Blazor-University/blazor-university-com/blob/main/source/blazor-university-com/input/pages/index.md" target="_blank">
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-6 h-6">
+<path stroke-linecap="round" stroke-linejoin="round" d="M16.862 4.487l1.687-1.688a1.875 1.875 0 112.652 2.652L10.582 16.07a4.5 4.5 0 01-1.897 1.13L6 18l.8-2.685a4.5 4.5 0 011.13-1.897l8.932-8.931zm0 0L19.5 7.125M18 14v4.75A2.25 2.25 0 0115.75 21H5.25A2.25 2.25 0 013 18.75V8.25A2.25 2.25 0 015.25 6H10" />
+</svg>
+<span>
+Edit
+</span>
+</a>
+</div>
+</div>
+</header>
+<main class="my-4 prose max-w-none prose-h1:mb-1 prose-h2:mb-1 prose-h3:mb-1 prose-h4:mb-1 prose-h5:mb-1 prose-h6:mb-1 bg-zinc-200 dark:bg-slate-800 dark:prose-invert">
+<blockquote>
+<p><em>Blazor University is an invaluable resource for anyone learning the framework. It gets right to the point and covers the essential topics clearly and directly.</em></p>
+<p>Steve Sanderson - Blazor developer, Microsoft</p>
+</blockquote>
+<p><img src="images/blazor-university-logo-large.png" alt /></p>
+<p>Welcome to Blazor University. By working your way through the information in this website I intend to take you from complete novice through to expert in all things Blazor.</p>
+</main>
+
+</div>
+</div>
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="/js/prism.js"></script>
+<script src="/js/tree.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
+<script src="/search.js"></script>
+<script src="/js/lunrsearch.js"></script>
+</div>
+<div id="search-model" class="absolute top-0 z-50 flex justify-center hidden w-screen h-screen p-12 backdrop-filter backdrop-blur-sm bg-white/30 drop-shadow-2xl">
+<div class="flex flex-col w-full max-w-3xl m-auto rounded-lg dark:bg-slate-800/75 max-h-96">
+<div class="flex flex-col w-full max-w-3xl m-auto bg-white rounded-lg dark:bg-slate-800/75 max-h-96 ">
+<header class="m-2 ">
+<form class="flex items-center space-x-4">
+<label>
+<svg width="20" height="20" class="DocSearch-Search-Icon" viewBox="0 0 20 20">
+<path d="M14.386 14.386l4.0877 4.0877-4.0877-4.0877c-2.9418 2.9419-7.7115 2.9419-10.6533 0-2.9419-2.9418-2.9419-7.7115 0-10.6533 2.9418-2.9419 7.7115-2.9419 10.6533 0 2.9419 2.9418 2.9419 7.7115 0 10.6533z" stroke="currentColor" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+</path>
+</svg>
+</label>
+<input id="search-model-input" class="flex items-center justify-center flex-auto h-12 border-none group md:ring-1 md:ring-slate-200 md:hover:ring-slate-300 dark:bg-slate-800/75 dark:ring-inset dark:ring-white/5 dark:hover:bg-slate-700/40 dark:hover:ring-slate-500 lg:w-96" placeholder="search...">
+<button class="p-1 bg-amber-500">
+esc
+</button>
+</form>
+</header>
+<div class="m-2 overflow-y-auto">
+<section>
+<ul id="search-results">
+<li area-selected class="dark:hover:bg-cyan-700/75 hover:bg-cyan-700/75">
+<a class="block p-4 border border-gray-600 rounded-lg xt-ellipsis" href="#">
+No results found
+</a>
+</li>
+</ul>
+</section>
+</div>
+<footer class="flex justify-end p-4 m-2">
+<div>
+<a href="#"> lunrjs </a>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8c4dac1b6f873bca',t:'MTcyNjYyNDA5MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+...
+JavaScript Data Found: , 
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-3864065-7');
+, , , , , , , , (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'8c4dac1b6f873bca',t:'MTcyNjYyNDA5MS4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
+API Requests/Links Found: https://blazor-university.com/, https://blazor-university.com/overview, https://blazor-university.com/overview/what-is-blazor, https://blazor-university.com/overview/what-is-webassembly, https://blazor-university.com/overview/blazor-hosting-models, https://blazor-university.com/overview/installing-blazor, https://blazor-university.com/overview/creating-a-new-project, https://blazor-university.com/overview/creating-a-page, https://blazor-university.com/layouts, https://blazor-university.com/layouts/creating-a-blazor-layout, https://blazor-university.com/layouts/using-layouts, https://blazor-university.com/layouts/nested-layouts, https://blazor-university.com/components, https://blazor-university.com/components/creating-a-component, https://blazor-university.com/components/one-way-binding, https://blazor-university.com/components/literals-expressions-and-directives, https://blazor-university.com/components/literals-expressions-and-directives/directives, https://blazor-university.com/components/component-events, https://blazor-university.com/components/component-events/browser-dom-events, https://blazor-university.com/components/two-way-binding, https://blazor-university.com/components/two-way-binding/binding-directives, https://blazor-university.com/components/cascading-values, https://blazor-university.com/components/cascading-values/cascading-values-by-name, https://blazor-university.com/components/cascading-values/cascading-values-by-type, https://blazor-university.com/components/cascading-values/overriding-cascaded-values, https://blazor-university.com/components/code-generated-html-attributes, https://blazor-university.com/components/capturing-unexpected-parameters, https://blazor-university.com/components/replacing-attributes-on-child-components, https://blazor-university.com/components/component-lifecycles, https://blazor-university.com/components/multi-threaded-rendering, https://blazor-university.com/components/multi-threaded-rendering/invokeasync, https://blazor-university.com/components/render-trees, https://blazor-university.com/components/render-trees/incremental-rendertree-proof, https://blazor-university.com/components/render-trees/optimising-using-key, https://blazor-university.com/templating-components-with-renderfragements, https://blazor-university.com/templating-components-with-renderfragements/creating-a-tabcontrol, https://blazor-university.com/templating-components-with-renderfragements/passing-data-to-a-renderfragement, https://blazor-university.com/templating-components-with-renderfragements/using-typeparam-to-create-generic-components, https://blazor-university.com/templating-components-with-renderfragements/passing-placeholders-to-renderfragments, https://blazor-university.com/routing, https://blazor-university.com/routing/defining-routes, https://blazor-university.com/routing/route-parameters, https://blazor-university.com/routing/constraining-route-parameters, https://blazor-university.com/routing/optional-route-parameters, https://blazor-university.com/routing/404-not-found, https://blazor-university.com/routing/navigating-our-app-via-html, https://blazor-university.com/routing/navigating-our-app-via-code, https://blazor-university.com/routing/detecting-navigation-events, https://blazor-university.com/forms, https://blazor-university.com/forms/editing-form-data, https://blazor-university.com/forms/descending-from-inputbase, https://blazor-university.com/forms/validation, https://blazor-university.com/forms/handling-form-submission, https://blazor-university.com/forms/editcontext-fieldidentifiers-and-fieldstate, https://blazor-university.com/forms/accessing-form-state, https://blazor-university.com/forms/writing-custom-validation, https://blazor-university.com/component-libraries, https://blazor-university.com/javascript-interop, https://blazor-university.com/javascript-interop/calling-dotnet-from-javascript, https://blazor-university.com/javascript-interop/calling-dotnet-from-javascript/calling-static-dotnet-methods, https://blazor-university.com/javascript-interop/calling-dotnet-from-javascript/lifetimes-and-memory-leaks, https://blazor-university.com/javascript-interop/calling-dotnet-from-javascript/type-safety, https://blazor-university.com/javascript-interop/javascript-boot-process, https://blazor-university.com/javascript-interop/calling-javascript-from-dotnet, https://blazor-university.com/javascript-interop/calling-javascript-from-dotnet/updating-the-document-title, https://blazor-university.com/javascript-interop/calling-javascript-from-dotnet/passing-html-element-references, https://blazor-university.com/dependency-injection, https://blazor-university.com/dependency-injection/component-scoped-dependencies, https://blazor-university.com/dependency-injection/component-scoped-dependencies/owningcomponentbase-generic, https://blazor-university.com/dependency-injection/component-scoped-dependencies/owning-multiple-dependencies-the-wrong-way, https://blazor-university.com/dependency-injection/component-scoped-dependencies/owning-multiple-dependencies-the-right-way, https://blazor-university.com/dependency-injection/injecting-dependencies-into-blazor-components, https://blazor-university.com/dependency-injection/dependency-lifetimes-and-scopes, https://blazor-university.com/dependency-injection/dependency-lifetimes-and-scopes/transient-dependencies, https://blazor-university.com/dependency-injection/dependency-lifetimes-and-scopes/singleton-dependencies, https://blazor-university.com/dependency-injection/dependency-lifetimes-and-scopes/scoped-dependencies, https://blazor-university.com/dependency-injection/dependency-lifetimes-and-scopes/comparing-dependency-scopes, https://www.linkedin.com/in/peter-morris-007572a7/, https://github.com/Blazor-University/blazor-university-com/blob/main/source/blazor-university-com/input/pages/index.md

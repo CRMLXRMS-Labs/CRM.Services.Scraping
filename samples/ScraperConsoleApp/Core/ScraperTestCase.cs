@@ -1,19 +1,18 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
+using System.IO;
+using System.Net.Http;
 using System.Threading.Tasks;
 using CRMScraper.Library;
 using CRMScraper.Library.Core;
-using CRMScraper.Library.Core.Utils;
-using System.Net.Http;
-using System.IO;
 using CRMScraper.Library.Core.Entities;
+using CRMScraper.Library.Core.Utils;
 
 namespace ScraperConsoleApp.Core
 {
     public class ScraperTestCase
     {
         private readonly ScraperClient _scraperClient;
+        private readonly PerformanceMonitor _performanceMonitor;
 
         public ScraperTestCase()
         {
@@ -22,12 +21,15 @@ namespace ScraperConsoleApp.Core
 
             IPageElementsExtractor pageElementsExtractor = new PageElementsExtractor();
             _scraperClient = new ScraperClient(httpClient, pageElementsExtractor);
+            _performanceMonitor = new PerformanceMonitor();
         }
 
-        public async Task RunTestAsync(string url, string fileName)
+        public async Task<(long elapsedTime, long memoryUsed, long diskUsage)> RunTestAsync(string url, string fileName)
         {
             try
             {
+                _performanceMonitor.StartMonitoring();
+
                 string filePath = Path.Combine(Directory.GetCurrentDirectory(), "test", fileName);
                 Directory.CreateDirectory(Path.GetDirectoryName(filePath) ?? throw new InvalidOperationException("Invalid directory path."));
 
@@ -42,13 +44,22 @@ namespace ScraperConsoleApp.Core
 
                 Console.WriteLine(output);
                 Console.WriteLine($"Results written to {filePath}\n");
+
+                _performanceMonitor.StopMonitoring();
+                _performanceMonitor.DisplayResults(url, filePath);
+
+                // Return performance data including disk usage
+                return (_performanceMonitor.GetElapsedTime(), _performanceMonitor.GetMemoryUsed(), _performanceMonitor.GetDiskUsage(filePath));
             }
             catch (HttpRequestException ex)
             {
+                _performanceMonitor.StopMonitoring();
                 string errorOutput = $"Error while scraping {url}: {ex.Message}";
                 Console.WriteLine(errorOutput);
                 string filePath = Path.Combine(Directory.GetCurrentDirectory(), "test", fileName);
                 await File.WriteAllTextAsync(filePath, errorOutput);
+
+                return (0, 0, 0); // Return zero if there was an error
             }
         }
     }
