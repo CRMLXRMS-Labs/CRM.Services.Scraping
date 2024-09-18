@@ -1,16 +1,47 @@
-
 # CRM Scraper
 
-CRM Scraper is a comprehensive library designed to scrape CRM (Customer Relationship Management) systems and extract valuable data. It supports both static and dynamic websites using HTML parsing and Playwright for dynamic content rendering.
+[![codecov](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net/graph/badge.svg?token=R261U013KP)](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net)  
+[![NuGet Version](https://img.shields.io/nuget/v/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)  
+[![NuGet Downloads](https://img.shields.io/nuget/dt/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)  
+[![Build Status](https://img.shields.io/github/actions/workflow/status/yourusername/scraping_service_library_net/.github/workflows/dotnet-build-test-ci.yml?branch=main)](https://github.com/yourusername/scraping_service_library_net/actions)  
+![.NET 8](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white)
+
 
 ## Features
 
 - **Static HTML Parsing**: Scrape static websites using `HtmlAgilityPack`.
 - **Dynamic Content Scraping**: Use Playwright to scrape JavaScript-heavy websites.
-- **Extensible API**: Flexible, allowing users to extend functionality.
-- **Retry Mechanism**: Built-in retry with exponential backoff for failed requests.
-- **Concurrent Scraping**: Scrape multiple pages simultaneously.
-- **Unit Tested**: Tested with `xUnit` for reliability.
+- **Extensible API**: Flexible and easily extendable for custom requirements.
+- **Retry Mechanism**: Built-in retry logic with exponential backoff.
+- **Concurrent Scraping**: Supports scraping multiple pages simultaneously.
+- **Unit Tested**: Extensive test coverage using `xUnit`.
+
+## NuGet Package
+
+You can install the `CRMScraper.Library` package via NuGet:
+
+| Platform | Version |
+| -------- | ------- |
+| .NET 8.0 | [1.1.58](https://www.nuget.org/packages/CRMScraper.Library) |
+
+### Installation
+
+To install the package via .NET CLI:
+
+```bash
+dotnet add package CRMScraper.Library --version 1.1.58
+```
+
+To install via the NuGet Package Manager:
+
+```bash
+Install-Package CRMScraper.Library -Version 1.1.58
+```
+
+### Dependencies
+
+- `HtmlAgilityPack (>= 1.11.65)`
+- `Microsoft.Playwright (>= 1.47.0)`
 
 ## Project Structure
 
@@ -20,7 +51,7 @@ CRM Scraper is a comprehensive library designed to scrape CRM (Customer Relation
 ├── .gitignore                   # Git ignore rules
 ├── README.md                    # Project documentation
 ├── samples                      # Sample applications for testing
-│   └── ScraperConsoleApp        # Console application to manually test the library
+│   └── ScraperConsoleApp        # Console application for manual testing
 ├── scraping_service_library_net.sln # Solution file
 ├── scripts                      # Scripts for building and publishing
 │   ├── build_and_test.sh        # Script for building and running tests
@@ -31,7 +62,6 @@ CRM Scraper is a comprehensive library designed to scrape CRM (Customer Relation
 │   │   ├── CRMScraper.Library.csproj # Library project file
 │   └── CRMScraper.Tests         # Unit tests for the library
 └── scraping_service_library_net.sln # Solution file
-
 ```
 
 ## Getting Started
@@ -39,9 +69,9 @@ CRM Scraper is a comprehensive library designed to scrape CRM (Customer Relation
 ### Prerequisites
 
 - .NET 8 SDK or later
-- Playwright for dynamic content scraping
+- Playwright (for dynamic content scraping)
 
-### Installing
+### Installation
 
 1. **Clone the repository:**
 
@@ -71,7 +101,7 @@ CRM Scraper is a comprehensive library designed to scrape CRM (Customer Relation
 
 ## Running Tests
 
-Use `xUnit` for unit tests and `coverlet` for code coverage. To run tests and generate coverage reports:
+The project uses `xUnit` for unit tests and `coverlet` for code coverage. To run the tests and generate coverage reports:
 
 ```bash
 dotnet test --configuration Release --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
@@ -212,4 +242,3 @@ Contributions are welcome! If you find a bug or have a feature request, please o
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-

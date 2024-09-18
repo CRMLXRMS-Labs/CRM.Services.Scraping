@@ -36,12 +36,18 @@ jobs:
         playwright install
 
     - name: Run tests with coverage
-      run: dotnet test --configuration Release --no-build --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
+      run: |
+        dotnet test --configuration Release --no-build \
+        --collect:"XPlat Code Coverage" \
+        --results-directory TestResults/ \
+        /p:CollectCoverage=true \
+        /p:CoverletOutputFormat=cobertura \
+        --logger "trx;LogFileName=TestResults.trx"
 
     - name: Generate coverage report
       run: |
         dotnet tool install --global dotnet-reportgenerator-globaltool
-        reportgenerator -reports:TestResults/**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html
+        reportgenerator -reports:**/coverage.cobertura.xml -targetdir:coverage -reporttypes:Html
 
     - name: Upload test results
       uses: actions/upload-artifact@v3
@@ -54,6 +60,15 @@ jobs:
       with:
         name: CoverageReport
         path: coverage/
+
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v3
+      with:
+        files: "**/coverage.cobertura.xml"
+        token: ${{ secrets.CODECOV_TOKEN }}
+        flags: unittests
+        name: code-coverage-report
+        fail_ci_if_error: true
 
   package:
     if: github.ref == 'refs/heads/main'
