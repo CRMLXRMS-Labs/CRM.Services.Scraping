@@ -7,6 +7,7 @@ using CRMScraper.Library.Core;
 using CRMScraper.Library.Core.Utils;
 using System.Net.Http;
 using System.IO;
+using CRMScraper.Library.Core.Entities;
 
 namespace ScraperConsoleApp.Core
 {
