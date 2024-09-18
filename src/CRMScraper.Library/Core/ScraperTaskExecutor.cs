@@ -1,16 +1,21 @@
 using System.Collections.Concurrent;
 using HtmlAgilityPack;
 using CRMScraper.Library.Core.Entities;
+using CRMScraper.Library.Core.Exceptions;
+using CRMScraper.Library.Core.Utils;
+using System.Net.Http;
 
 namespace CRMScraper.Library.Core
 {
     public class ScraperTaskExecutor : IScraperTaskExecutor
     {
         private readonly IScraperClient _scraperClient;
+        private readonly IScraperHelperService _scraperHelperService;
 
-        public ScraperTaskExecutor(IScraperClient scraperClient)
+        public ScraperTaskExecutor(IScraperClient scraperClient, IScraperHelperService scraperHelperService)
         {
-            _scraperClient = scraperClient;
+            _scraperClient = scraperClient ?? throw new ArgumentNullException(nameof(scraperClient));
+            _scraperHelperService = scraperHelperService ?? throw new ArgumentNullException(nameof(scraperHelperService));
         }
 
         public async Task<List<ScrapedPageResult>> ExecuteScrapingTaskAsync(ScrapingTask task, CancellationToken cancellationToken)
@@ -19,17 +24,13 @@ namespace CRMScraper.Library.Core
             var pagesToScrape = new ConcurrentQueue<string>();
             var visitedUrls = new ConcurrentDictionary<string, bool>();
 
-            // Enqueue the initial target URL, but check if it's valid
-            if (!string.IsNullOrWhiteSpace(task.TargetUrl))
+            if (string.IsNullOrWhiteSpace(task.TargetUrl))
             {
-                pagesToScrape.Enqueue(task.TargetUrl);
-                visitedUrls[task.TargetUrl] = true;
+                throw new InvalidUrlException(task.TargetUrl);
             }
-            else
-            {
-                Console.WriteLine("Target URL is empty or invalid. Skipping.");
-                return results.ToList(); // No valid URL to scrape, return immediately
-            }
+
+            pagesToScrape.Enqueue(task.TargetUrl);
+            visitedUrls[task.TargetUrl] = true;
 
             var startTime = DateTime.UtcNow;
             var tasks = new List<Task>();
@@ -40,54 +41,57 @@ namespace CRMScraper.Library.Core
                 {
                     if (pagesToScrape.TryDequeue(out var url))
                     {
-                        // Skip empty or invalid URLs
                         if (string.IsNullOrWhiteSpace(url))
                         {
-                            Console.WriteLine("Encountered empty or invalid URL. Skipping.");
-                            continue;
+                            throw new InvalidUrlException(url);
                         }
 
-                        await semaphore.WaitAsync(cancellationToken); // Await the semaphore respecting cancellation
+                        await semaphore.WaitAsync(cancellationToken);
 
                         tasks.Add(Task.Run(async () =>
                         {
                             try
                             {
-                                // Scrape the current URL with retry logic if necessary
-                                var pageResult = await ScrapeWithRetryAsync(url, () =>
-                                    task.UseDynamicScraping
-                                        ? _scraperClient.ScrapeDynamicPageAsync(url)
-                                        : _scraperClient.ScrapePageAsync(url));
+                                ScrapedPageResult pageResult = null;
+                                if (task.UseDynamicScraping)
+                                {
+                                    pageResult = await _scraperClient.ScrapeDynamicPageAsync(url);
+                                }
+                                else
+                                {
+                                    pageResult = await _scraperClient.ScrapePageAsync(url);
+                                }
+
+                                if (pageResult == null || string.IsNullOrWhiteSpace(pageResult.HtmlContent))
+                                {
+                                    return;
+                                }
 
                                 results.Add(pageResult);
-                                Console.WriteLine($"Scraped: {url}");
 
-                                // Extract new links from the scraped page
-                                var newLinks = ExtractLinks(pageResult.HtmlContent, url);
-
+                                var newLinks = _scraperHelperService.ExtractLinks(pageResult.HtmlContent, url) ?? new List<string>();
                                 foreach (var link in newLinks)
                                 {
-                                    // Stop if max pages are already reached
                                     if (results.Count >= task.MaxPages) break;
 
-                                    // Only enqueue new links that haven't been visited yet
                                     if (visitedUrls.TryAdd(link, true))
                                     {
-                                        Console.WriteLine($"Enqueueing: {link}");
                                         pagesToScrape.Enqueue(link);
                                     }
                                 }
 
-                                // Check time limit and stop if exceeded
                                 if (DateTime.UtcNow - startTime > task.TimeLimit)
                                 {
-                                    Console.WriteLine("Task time limit exceeded.");
                                     cancellationToken.ThrowIfCancellationRequested();
                                 }
                             }
+                            catch (RetryLimitExceededException)
+                            {
+                                throw; 
+                            }
                             catch (Exception ex)
                             {
-                                Console.WriteLine($"Failed to scrape {url}: {ex.Message}");
+                                throw new ScrapingFailedException(url, ex);
                             }
                             finally
                             {
@@ -96,74 +100,18 @@ namespace CRMScraper.Library.Core
                         }, cancellationToken));
                     }
 
-                    // Stop if time limit is reached
                     if (DateTime.UtcNow - startTime > task.TimeLimit)
                     {
-                        Console.WriteLine("Task time limit exceeded.");
                         break;
                     }
                 }
 
-                // Wait for all scraping tasks to complete
                 await Task.WhenAll(tasks);
             }
 
             return results.ToList();
         }
-
-
-        // Retry mechanism with exponential backoff
-        private async Task<ScrapedPageResult> ScrapeWithRetryAsync(string url, Func<Task<ScrapedPageResult>> scrapeFunction, int maxRetries = 3)
-        {
-            int retryCount = 0;
-            while (retryCount < maxRetries)
-            {
-                try
-                {
-                    return await scrapeFunction();
-                }
-                catch (HttpRequestException ex)
-                {
-                    retryCount++;
-                    if (retryCount >= maxRetries)
-                    {
-                        Console.WriteLine($"Giving up after {maxRetries} attempts to scrape {url}: {ex.Message}");
-                        throw;
-                    }
-                    var waitTime = TimeSpan.FromSeconds(Math.Pow(2, retryCount)); // Exponential backoff
-                    Console.WriteLine($"Retrying {url} in {waitTime.TotalSeconds} seconds due to error: {ex.Message}");
-                    await Task.Delay(waitTime);
-                }
-            }
-            throw new HttpRequestException($"Failed to scrape {url} after {maxRetries} retries.");
-        }
-
-        // Extract links from HTML content and ensure they are absolute URLs
-        private List<string> ExtractLinks(string htmlContent, string baseUrl)
-        {
-            var links = new List<string>();
-            var htmlDocument = new HtmlDocument();
-            htmlDocument.LoadHtml(htmlContent);
-
-            var anchorTags = htmlDocument.DocumentNode.SelectNodes("//a[@href]");
-            if (anchorTags != null)
-            {
-                foreach (var tag in anchorTags)
-                {
-                    var href = tag.GetAttributeValue("href", string.Empty);
-                    if (!Uri.IsWellFormedUriString(href, UriKind.Absolute))
-                    {
-                        // Convert relative URL to absolute
-                        href = new Uri(new Uri(baseUrl), href).ToString();
-                    }
-                    if (Uri.IsWellFormedUriString(href, UriKind.Absolute))
-                    {
-                        links.Add(href);
-                    }
-                }
-            }
-
-            return links;
-        }
     }
+
 }
+
