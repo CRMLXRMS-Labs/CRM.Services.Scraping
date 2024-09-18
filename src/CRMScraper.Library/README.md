@@ -1,10 +1,6 @@
 # CRM Scraper
 
-[![codecov](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net/graph/badge.svg?token=R261U013KP)](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net)  
-[![NuGet Version](https://img.shields.io/nuget/v/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)  
-[![Build Status](https://img.shields.io/github/actions/workflow/status/CRMLXRMS-Labs/scraping_service_library_net/.github/workflows/dotnet-build-test-ci.yml?branch=main)](https://github.com/CRMLXRMS-Labs/scraping_service_library_net/actions)  
-![.NET 8](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white)
-
+[![codecov](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net/graph/badge.svg?token=R261U013KP)](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net)[![NuGet Version](https://img.shields.io/nuget/v/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)[![Build Status](https://img.shields.io/github/actions/workflow/status/CRMLXRMS-Labs/scraping_service_library_net/.github/workflows/dotnet-build-test-ci.yml?branch=main)](https://github.com/CRMLXRMS-Labs/scraping_service_library_net/actions)![.NET 8](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white)
 
 ## Features
 
