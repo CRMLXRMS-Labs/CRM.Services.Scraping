@@ -1,64 +1,57 @@
-# CRM Scraper
+# CRM Scraper - .NET Web Scraper Library
 
 [![codecov](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net/graph/badge.svg?token=R261U013KP)](https://codecov.io/gh/CRMLXRMS-Labs/scraping_service_library_net)  
 [![NuGet Version](https://img.shields.io/nuget/v/CRMScraper.Library)](https://www.nuget.org/packages/CRMScraper.Library)  
 [![Build Status](https://img.shields.io/github/actions/workflow/status/CRMLXRMS-Labs/scraping_service_library_net/.github/workflows/dotnet-build-test-ci.yml?branch=main)](https://github.com/CRMLXRMS-Labs/scraping_service_library_net/actions)  
 ![.NET 8](https://img.shields.io/badge/.NET-8.0-blueviolet?logo=dotnet&logoColor=white)
 
+CRM Scraper is a robust and high-performance **web scraper** library built on .NET 8.0. It provides flexible tools for **web scraping**, including **static HTML parsing** and **dynamic content scraping** using Playwright. With features like retry logic, concurrency, and extensive test coverage, CRM Scraper is your go-to solution for any **data extraction** needs.
 
-## Features
+## Key Features of CRM Scraper
 
-- **Static HTML Parsing**: Scrape static websites using `HtmlAgilityPack`.
-- **Dynamic Content Scraping**: Use Playwright to scrape JavaScript-heavy websites.
-- **Extensible API**: Flexible and easily extendable for custom requirements.
-- **Retry Mechanism**: Built-in retry logic with exponential backoff.
-- **Concurrent Scraping**: Supports scraping multiple pages simultaneously.
-- **Unit Tested**: Extensive test coverage using `xUnit`.
+- **Static HTML Parsing**: Extract data from static websites using `HtmlAgilityPack`, an efficient library for **scraping static content**.
+- **Dynamic Content Scraping**: Use Playwright to scrape JavaScript-heavy websites, ensuring you capture the full page content.
+- **Extensible API**: Easily extendable for custom scraping tasks, making it adaptable to a variety of **web scraping** requirements.
+- **Retry Mechanism**: Built-in retry logic with exponential backoff, ensuring reliability when scraping unstable websites.
+- **Concurrent Scraping**: Supports scraping multiple web pages simultaneously, enabling efficient and scalable **web scraping services**.
+- **Unit Tested**: Extensive test coverage using `xUnit`, ensuring the reliability and robustness of the scraping library.
 
-## NuGet Package
+## Installation - Get CRM Scraper via NuGet
 
-You can install the `CRMScraper.Library` package via NuGet:
+You can install the `CRMScraper.Library` package through NuGet for fast integration into your **scraping service** projects:
 
 | Platform | Version |
 | -------- | ------- |
 | .NET 8.0 | [1.1.58](https://www.nuget.org/packages/CRMScraper.Library) |
 
-### Installation
-
-To install the package via .NET CLI:
+### Install via .NET CLI:
 
 ```bash
 dotnet add package CRMScraper.Library --version 1.1.58
 ```
 
-To install via the NuGet Package Manager:
+### Install via NuGet Package Manager:
 
 ```bash
 Install-Package CRMScraper.Library -Version 1.1.58
 ```
 
-### Dependencies
+### Key Dependencies
 
-- `HtmlAgilityPack (>= 1.11.65)`
-- `Microsoft.Playwright (>= 1.47.0)`
+- `HtmlAgilityPack (>= 1.11.65)` - For static HTML parsing.
+- `Microsoft.Playwright (>= 1.47.0)` - For dynamic web scraping.
 
-## Project Structure
+## Project Structure Overview
 
 ```bash
 .
-├── .github                     # GitHub Actions for CI/CD workflows
+├── .github                     # CI/CD workflows via GitHub Actions
 ├── .gitignore                   # Git ignore rules
-├── README.md                    # Project documentation
-├── samples                      # Sample applications for testing
-│   └── ScraperConsoleApp        # Console application for manual testing
-├── scraping_service_library_net.sln # Solution file
-├── scripts                      # Scripts for building and publishing
-│   ├── build_and_test.sh        # Script for building and running tests
-│   └── publish_nuget.sh         # Script for packing and publishing NuGet packages
+├── README.md                    # Documentation (you are here!)
+├── samples                      # Sample applications for manual testing
+├── scripts                      # Scripts for building and publishing NuGet packages
 ├── src
 │   ├── CRMScraper.Library       # Main library containing the scraping logic
-│   │   ├── Core                 # Core components for scraping logic
-│   │   ├── CRMScraper.Library.csproj # Library project file
 │   └── CRMScraper.Tests         # Unit tests for the library
 └── scraping_service_library_net.sln # Solution file
 ```
@@ -68,9 +61,9 @@ Install-Package CRMScraper.Library -Version 1.1.58
 ### Prerequisites
 
 - .NET 8 SDK or later
-- Playwright (for dynamic content scraping)
+- Playwright (for **dynamic web scraping**)
 
-### Installation
+### Step-by-Step Setup
 
 1. **Clone the repository:**
 
@@ -98,9 +91,9 @@ Install-Package CRMScraper.Library -Version 1.1.58
    dotnet run
    ```
 
-## Running Tests
+## Running Unit Tests for Web Scraper
 
-The project uses `xUnit` for unit tests and `coverlet` for code coverage. To run the tests and generate coverage reports:
+CRM Scraper is rigorously tested using `xUnit` to ensure reliability. Run tests and generate code coverage reports:
 
 ```bash
 dotnet test --configuration Release --collect:"XPlat Code Coverage" --results-directory TestResults/ --logger "trx;LogFileName=TestResults.trx"
@@ -108,28 +101,28 @@ dotnet test --configuration Release --collect:"XPlat Code Coverage" --results-di
 
 ## CI/CD Pipeline
 
-This project uses GitHub Actions for continuous integration and deployment. The pipeline automatically:
-- Builds the project
-- Runs unit tests with code coverage
-- Generates a NuGet package and uploads it as an artifact
+CRM Scraper uses GitHub Actions for continuous integration and deployment. The pipeline automatically:
+- Builds the project.
+- Runs unit tests with code coverage.
+- Generates a NuGet package and uploads it as an artifact.
 
-See `.github/workflows/dotnet-ci.yml` for the pipeline configuration.
+Check out the CI/CD pipeline configuration in `.github/workflows/dotnet-ci.yml`.
 
-## Creating a NuGet Package
+## Building a NuGet Package
 
-To create a NuGet package, run the following command:
+To generate a NuGet package for the **web scraper library**:
 
 ```bash
 dotnet pack --configuration Release --output ./nupkgs
 ```
 
-## Usage
+## How to Use CRM Scraper
 
-This section explains how to use the `CRMScraper.Library` for both static and dynamic content scraping.
+This section provides usage examples for static and dynamic content scraping with CRM Scraper.
 
 ### 1. Scraping Static Pages
 
-Use the `ScraperClient` class to scrape static web pages and extract HTML content, JavaScript, and API requests.
+The `ScraperClient` class allows scraping of static web pages and extracting HTML content, JavaScript data, and API requests.
 
 #### Example: Scraping a Static Page
 
@@ -144,7 +137,7 @@ class Program
     static async Task Main(string[] args)
     {
         var httpClient = new HttpClient();
-        var pageElementsExtractor = new PageElementsExtractor();  // Implement to extract JavaScript and API requests
+        var pageElementsExtractor = new PageElementsExtractor();
         var scraperClient = new ScraperClient(httpClient, pageElementsExtractor);
 
         var result = await scraperClient.ScrapePageAsync("https://example.com");
@@ -159,7 +152,7 @@ class Program
 
 ### 2. Scraping Dynamic Pages
 
-For JavaScript-heavy websites, `ScraperClient` uses Playwright to fully render the page before scraping.
+For scraping **dynamic web pages**, use Playwright to ensure the full page is rendered before scraping.
 
 #### Example: Scraping a Dynamic Page
 
@@ -173,7 +166,7 @@ class Program
     static async Task Main(string[] args)
     {
         var httpClient = new HttpClient();
-        var pageElementsExtractor = new PageElementsExtractor();  // Implement to extract JavaScript and API requests
+        var pageElementsExtractor = new PageElementsExtractor();
         var scraperClient = new ScraperClient(httpClient, pageElementsExtractor);
 
         var result = await scraperClient.ScrapeDynamicPageAsync("https://example.com");
@@ -185,9 +178,9 @@ class Program
 }
 ```
 
-### 3. Concurrent Scraping
+### 3. Concurrent Scraping Tasks
 
-For large-scale scraping, use `ScraperTaskExecutor` to scrape multiple pages concurrently.
+Use the `ScraperTaskExecutor` for **concurrent web scraping**, enabling you to scrape multiple pages at once.
 
 #### Example: Concurrent Scraping Task
 
@@ -227,17 +220,18 @@ class Program
 }
 ```
 
-### Core Classes
+### Core Components in CRM Scraper
 
-- **ScraperClient**: Core logic for static and dynamic page scraping.
-- **ScraperTaskExecutor**: Manages concurrent scraping tasks and retries.
+- **ScraperClient**: Handles static and dynamic web scraping.
+- **ScraperTaskExecutor**: Manages concurrent scraping tasks with retry logic.
 - **ScrapedPageResult**: Represents the result of a scraping operation.
-- **ScrapingTask**: Defines a scraping task with limits on pages and time.
+- **ScrapingTask**: Defines a web scraping task, including limits on pages and time.
 
 ## Contributing
 
-Contributions are welcome! If you find a bug or have a feature request, please open an issue or submit a pull request.
+We welcome contributions! Feel free to open an issue or submit a pull request if you find a bug or have feature suggestions.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+
